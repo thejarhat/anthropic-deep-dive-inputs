@@ -1,0 +1,434 @@
+How Much of the World's
+$40 Trillion in Knowledge
+Work Can Anthropic
+Actually Get Paid For?
+A first-principles essay on the $2 trillion question, using Anthropic's S-1 prospectus filed on 26
+October 2026.
+
+
+  Overview. In short, the question is how much of the world's $40 trillion in knowledge work
+  Anthropic can actually collect as revenue. I break it into four parts. How big the prize is,
+  whether AI is paid for like software or like labour, what rivals cannot copy and who else
+  takes a cut, and whether the money adds up once computing costs are counted. For each
+  part I ask a chain of "why" questions, keeping only the answers that hold up against the S-1
+  and outside data. Then I rebuild an answer from what survives, which turns out to be a few
+  hundred billion dollars, if four conditions hold.
+
+
+
+
+Why This Question
+On 26 October 2026 Anthropic filed its S-1, the document a company must publish before
+selling shares to the public. NPR reported that the listing could value the company at $1.5 trillion
+to $2 trillion.
+
+The prospectus itself frames the opportunity as knowledge work, which it says created more
+than $40 trillion of economic value worldwide in 2025.
+
+Most debates stop at "is $2 trillion a bubble?" That question is too loose to answer. A sharper
+one asks how much of that $40 trillion Anthropic can actually collect as revenue. By our rough
+estimate, a $2 trillion valuation needs something like $300 billion of yearly sales at maturity.
+
+That is under 1% of the $40 trillion. So the size of the prize is not the problem. The problem is
+who else gets paid first.
+
+To work through it I use the first-principles method from Farnam Street. It has four steps. State
+the question, break it into parts, ask a chain of "why" questions that test each assumption (this is
+the Socratic part), and then rebuild an answer from what survives.
+
+Anthropic describes the industry as a race to superintelligence. I treat that as the company's
+own framing, not as a fact, and look only at who pays whom.
+
+Takeaway. The prize is not the problem. Who gets paid first, and for how long, is.
+
+
+Step One. Break the Question Into Parts
+The question splits into four parts.
+
+  ●​ How big is the prize, and how fast is Anthropic growing into it?
+  ●​ Is AI paid for like software, with a fee per user, or like labour, with a fee per job done?
+  ●​ What does Anthropic own that rivals cannot copy, and who else takes a share of each
+     dollar?
+  ●​ Does the money add up once the cost of computing power is counted?
+
+Takeaway. Four questions decide the answer. Size, pricing, the moat and the money.
+
+
+Step Two. Is the Prize Real?
+Why believe Anthropic can collect a meaningful slice at all?
+Because it already is. The S-1 shows revenue of $16.3 billion in the first half of 2026, up from
+$1.2 billion a year earlier. Revenue for the whole of 2025 was $4.6 billion.
+
+Why is it growing so fast?
+The money comes mostly from businesses paying per use. Businesses and developers paying
+through the API, the connection that lets their software call Claude, brought in about four-fifths
+of first-half revenue.
+ Slide 51. Businesses paying per use bring in four-fifths of revenue. $13.1B of the $16.3B first-half 2026 total came
+                                                  through the API.
+
+Why did businesses start paying?
+Coding came first. On 24 February 2025 Anthropic launched Claude Code, a tool that lets
+Claude read, edit and test software on its own. The S-1 says its impact was "comparable" to the
+arrival of the first popular chat assistants.
+
+Coding suits AI because the result can be checked. The code either runs or it does not, so a
+business can see what it is paying for.
+
+Takeaway. The prize is real, and Anthropic is already collecting it from businesses paying
+per use.
+
+
+Step Three. Is AI Priced Like Software or Like Labour?
+Why does pricing matter?
+A software seat, meaning a flat fee per user per month, caps revenue at the number of people
+on staff. Pay-per-use pricing is closer to paying for labour. Revenue then grows with the amount
+of work done, not with headcount. That is the only route to a meaningful share of $40 trillion.
+
+Why not just sell more subscriptions?
+Because flat fees are expensive to serve. The deck estimates that subscriptions use about 42%
+of Anthropic's computing power while bringing in only 20% of revenue. Heavy users on a flat
+plan cost far more than they pay.
+   Slide 55. Subscriptions use 42% of compute for 20% of revenue. Flat fees reward the heaviest users, not the
+                                                   company.
+
+Why might the per-use model also cap revenue?
+Because Anthropic keeps cutting its own price. On 22 September 2026 it released Claude Opus
+5.5, and the S-1 says the model cut customer costs per task by about 40% compared with Opus
+5. The company argues that cheaper tasks drive more usage.
+
+That may be true, but it also means some of the value goes back to customers as lower prices
+rather than to Anthropic as revenue.
+
+Takeaway. Pricing per job lets revenue grow with work done, but every price cut hands
+some value back to customers.
+
+
+Step Four. What Can't Be Copied, and Who Else Takes a
+Cut?
+Copying and the Gap
+Why can't a rival simply match Claude?
+Some already come close. In January 2025 the Chinese lab DeepSeek released a cheap,
+openly available model, and Nvidia lost about $589 billion of market value in one day as
+investors questioned whether frontier AI could stay expensive.
+
+"Open models" are ones whose inner settings are published so anyone can run them.
+     Slide 30. Open models trail the leaders by about four months, so any lead has to be renewed constantly.
+
+Why does that four-month gap not erase Anthropic's business?
+Because the gap is wider on the hardest, best-paid work. On long coding tasks, the best open
+model scores about half of Claude's result.
+
+
+
+
+Slide 32. On long coding tasks the best open model scores about half of Claude's. The lead is real where customers
+                                                    pay most.
+
+Why can't rivals close that gap by copying?
+They try. In February 2026 Anthropic said three Chinese labs used about 24,000 fake accounts
+to run more than 16 million conversations with Claude. This is "distillation", training a cheaper
+model on a stronger model's answers.
+The S-1 lists it as a risk. Copying answers is cheap. Licensed data is not, as the $1.5 billion
+Bartz settlement with authors showed. The S-1 records it as a 2025 charge, and a court
+approved it in July 2026.
+
+The Apple Rule
+Why did the DeepSeek panic not wreck the leaders' revenue?
+The most useful pattern here comes from phones. In 2022 Apple shipped only 18% of the
+world's smartphones but took 85% of the industry's operating profit, according to Counterpoint.
+
+Volume went to cheap Android phones. Money went to the brand people trusted most.
+
+AI is splitting the same way. Open models now carry about a third of all tokens, the units of text
+AI processes, on the router OpenRouter, according to its 100 trillion token study with a16z. Yet
+in Menlo Ventures' survey open models account for only 11% of business use, down from 19% a
+year earlier.
+
+Hobbyists and startups chase the cheapest token. Companies that pay real money pick the
+model they trust with real work.
+
+
+
+
+  Slide 131. The Apple rule. Apple had 18% of phone units and 85% of profit. Open models carry about a third of
+                                      tokens but only 11% of business use.
+
+Why does that matter for the $40 trillion?
+Because Anthropic does not need to win on volume. It needs to be the model businesses trust
+for the costliest work, the way Apple is the phone people pay most for.
+
+Prices Fall Within Months
+Why can't Anthropic simply hold a lead once it has one?
+Because prices fall within months. On 22 September 2026, the same day Opus 5.5 launched,
+Epoch AI published The Plunging Price of Thought. It found that the cost of reaching a fixed
+level of AI performance has fallen about 47% a quarter since 2023, or about 13 times a year.
+
+For a skill that has just become possible, the fall is steeper, about two-thirds in the first quarter.
+
+
+
+
+ Slide 43. Prices for a fixed level of skill fall about 47% a quarter on average, and about two-thirds in the first quarter
+                                                       after a skill debuts.
+
+
+
+
+       Slide 130. Open models trail by months, not years, so each new Claude buys a short window at the top.
+
+So the premium on a new Claude lasts months, not years. By our rough reading, each release
+buys about one quarter at the top before the price of that skill collapses. The Apple rule explains
+who gets the money. Falling prices explain why it has to be won again with every release.
+
+Compute and Talent
+Why could Anthropic keep winning it with less?
+Epoch AI's AI chip users explorer, last updated on 9 September 2026, puts Anthropic at about
+1.19 million H100-equivalents of computing power in December 2025, against about 1.74 million
+for OpenAI. An H100-equivalent is a common unit that counts all chips as if they were Nvidia's
+H100.
+
+Anthropic stayed at the frontier on about two-thirds of OpenAI's compute. The deck's answer is
+focus on coding and business work, the tasks that pay. The ranges are wide, and Anthropic has
+added capacity since, so treat 68% as a December 2025 snapshot.
+
+
+
+
+  Slide 66. Anthropic reached the frontier on about two-thirds of OpenAI's compute. Epoch medians for December
+                                              2025, the latest available.
+
+The other reason is people. Zeki Data, cited by Fortune, counts 22 research hires for every
+departure at Anthropic in 2025, against 5.7 at OpenAI. The recruiting firm SignalFire found that
+engineers move from OpenAI to Anthropic about eight times more often than the reverse.
+
+Its talent lead, Heather Doshay, says the draw is the mission and safety culture, not pay.
+ Slide 77. Anthropic hires 22 researchers for every one who leaves, against 5.7 at OpenAI. The mission, not pay, is
+                                                      the draw.
+
+Trust as the Moat
+Why does the mission matter to revenue?
+Because trust is part of what businesses buy. In February 2026 the President directed federal
+agencies to stop using Claude, after Anthropic refused to allow its models to be used for mass
+domestic surveillance or fully autonomous weapons. The S-1 records that the Department of
+War then labelled Anthropic a "supply-chain risk to national security".
+
+A district court in California largely ruled for Anthropic on 27 August, finding unlawful retaliation.
+On 25 September the federal appeals court in Washington ruled 2 to 1 that one of the
+designations was proper. Anthropic has asked the full court to rehear the case.
+
+       Slide 110. Placeholder for slide 110, the Pentagon dispute timeline. No current render was available.
+
+Why would a company turn down its largest possible customer?
+Because what it sells is trust. Claude's constitution, the public document that shapes how
+Claude behaves, lets Claude act as a "conscientious objector" and refuse requests it judges
+unethical, even from Anthropic. No other major lab publishes such a clause.
+                          Slide 112. Only Claude's rulebook lets it refuse its own maker.
+
+If the Apple rule holds, the buyers who pay most are the ones who care most about trust.
+Outside graders back the claim, within limits. The Future of Life Institute's AI Safety Index for
+Summer 2026 gave Anthropic the best grade of any lab, but that grade was only a C+, and no
+lab scored higher.
+
+In one July 2026 week, Anthropic measured that about 6% of its research compute went to
+safety work, a figure it calls conservative.
+
+
+
+
+   Slide 100. Anthropic scores highest on the FLI safety index, but the top grade is a C+ and no lab reaches a B.
+
+Why should investors care about a lab that improves itself?
+Because it cuts both ways. Anthropic's August 2026 Risk Report says 18 technical staff
+surveyed reported an average speed-up of about four times from Claude on their own work. The
+report adds that the lab as a whole is not yet twice as fast, its own trigger for stronger
+safeguards.
+
+On the Vals RSI Index, which tests whether a model can do the research that builds the next
+model, Anthropic models hold the top three places.
+
+       Slide 83. Placeholder for slide 83, the Risk Report speed-up chart. No current render was available.
+
+
+
+
+         Slide 86. Anthropic models hold the top three places on the Vals RSI Index of AI research skill.
+
+That speed is the product's edge, and also its risk. Under version 3.0 of its Responsible Scaling
+Policy, the rulebook for when to pause, Anthropic narrowed the promise to stop. TIME reported
+in February that it dropped its pledge never to train a model unless its safety measures were
+proven adequate in advance.
+
+Why does the mission bend?
+Because the company sells AI workers while warning about AI's effect on workers. In May 2025
+Dario Amodei, the chief executive, warned that AI could wipe out half of entry-level office jobs.
+On 12 September 2026 he called on the industry to pace the frontier, and ten days later
+Anthropic shipped Opus 5.5, the top model.
+
+The company says pacing does not mean stopping. Customers and investors can decide how
+much the irony costs.
+
+            Slide 22. Placeholder for slide 22, the mission tensions. No current render was available.
+One more cost sits in the S-1. The prospectus says concerns about model welfare, meaning
+whether a model's experience matters, may lead Anthropic to delay retiring older models. It
+already keeps the weights of retired models and lets Claude end abusive chats.
+
+Anthropic's working hypothesis is that a settled model works more reliably. That is a bet, not a
+finding, and it has a price in computing power.
+
+
+
+
+                Slide 108. Anthropic is the only lab with public commitments on model welfare.
+
+So trust works as Anthropic's Apple brand. It lets the company charge a premium for business
+work. But it is graded at C+, tested in court, and strained each time the company ships faster
+than it says the industry should.
+
+Who Else Takes a Cut
+Who else takes a share of each dollar?
+Here the comparison with SpaceX, which builds its own rockets and runs its own network, is
+useful. Anthropic owns its models but rents most of the chips and data centres it runs on. It also
+sells heavily through partners.
+
+The S-1 shows that 47% of 2025 revenue and 48% of first-half 2026 revenue came through
+cloud marketplaces, mainly Amazon and Google, which resell Claude and take a cut. So three
+groups take money before Anthropic does. They are the clouds that resell and rent, the open
+models that push prices down, and customers, who keep savings like the 40% Opus 5.5 cut.
+
+Takeaway. Anthropic wins the profit, not the volume, as long as it stays the trusted brand
+and renews its lead every few months.
+
+
+Step Five. Does the Money Add Up?
+Why does any of this matter if revenue is growing?
+Because revenue only counts if enough is left after paying for the computing power that serves
+it. That leftover share is the gross margin. In 2025 Anthropic kept about 40 cents of each dollar
+after serving customers. In the first half of 2026 it kept about 85 cents, by the S-1's own cost
+figures.
+
+
+
+
+Slide 54. Anthropic keeps 44 to 88 cents of each dollar after serving customers, depending on what is counted. The
+                                S-1's own costs give about 85 cents in early 2026.
+
+Why was 2025 so painful?
+Total costs were $12.6 billion against $4.6 billion of revenue, or about $2.76 spent for every
+dollar earned. That included the $1.5 billion book settlement.
+                        Slide 61. In 2025 Anthropic spent $2.76 for every dollar it earned.
+
+Why does 2026 look so different?
+Revenue grew faster than costs. The operating loss shrank to $693 million in the first half, and
+day-to-day operations brought in $3.9 billion of cash. The headline net loss of $80.7 billion is
+mostly a $72.4 billion non-cash accounting charge on the value of financing, not money spent.
+
+
+
+
+Slide 132. The prospectus shows compute now costs less than revenue, and most of the headline loss is non-cash.
+
+Why worry, then?
+Because the next bill is far bigger. By our own sum of the deals the S-1 describes, Anthropic
+has signed about $637 billion of compute. About $431 billion must be paid whatever happens,
+with Microsoft, Google, Amazon and Broadcom.
+
+About $206 billion is conditional, including a SpaceXAI deal that can be cancelled from early
+2027. The S-1 warns that margins may shrink as this new capacity comes online before the
+revenue it supports.
+
+
+
+
+              Slide 63. Signed compute equals more than nine years of revenue at today's pace.
+
+
+
+
+             Slide 70. Most of the $637B in signed compute must be paid whatever demand does.
+
+If the money adds up, why did the price talk fall?
+On 15 October 2026 Reuters reported that investors had cut their talk of Anthropic's listing value
+from about $2 trillion to about $1.5 trillion.
+The reason is that growth slowed. The S-1 shows quarterly revenue of $4.73 billion in the first
+quarter of 2026 and $11.56 billion in the second, a jump of 144% in one quarter. The S-1 does
+not report the third quarter.
+
+Reuters reported on 14 October that it was about $16.8 billion, up 45%. Reuters Breakingviews
+noted that a price war on tokens lifted use but cut revenue per unit, the same price collapse
+Epoch measured.
+
+
+
+
+ Slide 125. Quarterly growth slowed from 144% to 45%, and price talk fell from about $2T to about $1.5T. The chart
+                                         rounds the S-1's 144% to 147%.
+
+Investors price Anthropic on growth, not on today's revenue. Growth of 45% a quarter is still
+extraordinary, but a $2 trillion price assumed the faster pace would last. Every quarter from here
+is a vote on the valuation.
+
+Takeaway. The money now adds up per dollar served, but $431 billion of firm compute
+and slowing growth make the price a bet on speed.
+
+
+Rebuilding the Answer
+Put the parts back together. The prize is real, and Anthropic needs less than 1% of it. Pricing
+per use, not per seat, lets it grow with the amount of work AI does.
+
+The Apple rule says the money goes to the most trusted brand, not the biggest volume, and
+Anthropic is that brand for business today. But each lead lasts months, so it must be won again
+with every release, and clouds and customers take their share along the way. Efficiency in
+compute and talent lowers the cost of winning it again.
+The money now adds up on a gross basis, but $431 billion of firm compute is owed before the
+revenue that justifies it has arrived, and growth has slowed from 144% to 45% a quarter.
+
+So the honest answer is that Anthropic can probably get paid for a few hundred billion dollars of
+the world's knowledge work, but only if four things hold together. It must keep the trust that
+earns the Apple premium, renew its lead each quarter, keep selling per job rather than per seat,
+and grow fast enough to cover compute it has already promised to buy.
+
+A $2 trillion price assumed all four. The S-1 shows the first three are working today. The fourth is
+the bet, and the market has already marked it down to $1.5 trillion.
+
+
+Appendix. Figures Checked Against the S-1
+  ●​ $40 trillion knowledge work value in 2025. Matches the S-1.
+  ●​ Revenue of $4.6B in 2025 and $16.3B in the first half of 2026. Matches.
+  ●​ Quarterly revenue of $4,731M and $11,555M for the first two quarters of 2026, growth of
+     144%. Matches the S-1. The deck chart for slide 125 shows 147% and should read 144%.
+  ●​ Third-quarter revenue of $16.8B, up 45%. Not in the S-1, whose Q3 fields are blank.
+     Source is Reuters, 14 October. The $67.2B run rate on other slides also comes from
+     outside reporting.
+  ●​ Price talk falling from about $2T to about $1.5T. Reuters, 15 October.
+  ●​ Total 2025 costs of $12,645M. The deck's slide 61 heading says $12.7B and should read
+     $12.6B. The $2.76 per dollar is correct.
+  ●​ Gross margin of about 85 cents in early 2026 and about 40 cents in 2025, cloud share of
+     47% and 48%, operating loss of $693M, $80.7B net loss with a $72.4B non-cash charge.
+     All match the S-1.
+  ●​ $637B signed compute is our own sum, split into about $431B firm and about $206B
+     conditional. Slide 70 cites a WSJ figure of about $450B, higher than our firm sum.
+  ●​ Pentagon dispute. Checked against the S-1. The appeals court upheld only the
+     designation under one statute, section 4713, while the district court ruled for Anthropic on
+     retaliation. "Upheld the label" on slide 110 is right only in that narrow sense.
+  ●​ "Conscientious objector" clause. Confirmed in Claude's constitution. It is not in the S-1.
+  ●​ Model welfare. The S-1 mentions welfare once, as a reason Anthropic may delay retiring
+     models. The claim that a settled model works more reliably is Anthropic's hypothesis, not
+     an S-1 statement, and is framed that way.
+  ●​ Compute share. Epoch medians for December 2025 are 1.19M H100-equivalents for
+     Anthropic and 1.74M for OpenAI, or 68%. No newer Epoch estimate exists, and the
+     uncertainty ranges overlap.
+  ●​ Apple share of 18% of units and 85% of profit. Counterpoint, 2022. Confirmed.
+●​ Open models at 11%. Menlo measures share of business use, not spend. Slide 131 says
+   "spend" and should say "use".
+●​ Vals RSI top three, all Anthropic. Confirmed on the leaderboard updated 15 October.
+●​ FLI grade C+ for Anthropic, the highest, with no lab above C+. Confirmed.
+●​ 4x speed-up. Confirmed as the average self-report of 18 staff in the Risk Report survey,
+   which Anthropic itself treats as weak evidence.
+●​ 6% of research compute to safety. Confirmed for the week of 13 to 20 July 2026.
+●​ Pacing call on 12 September and Opus 5.5 on 22 September, ten days apart. Confirmed.
+●​ Talent ratios of 22 and 5.7. Zeki Data via Fortune, for 2025. Confirmed.
+●​ Price falls of 47% a quarter on average and 66% for newly reached skills. Epoch, 22
+   September 2026. Confirmed.
+●​ The $300B revenue needed for a $2T valuation, the 42% subscription compute share and
+   "one quarter at the top" are our own estimates.
+

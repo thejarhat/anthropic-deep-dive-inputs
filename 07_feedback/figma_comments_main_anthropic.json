@@ -1,0 +1,3874 @@
+{
+  "comments": [
+    {
+      "id": "1979963074",
+      "uuid": "936125bc-092d-46ab-a32c-8a9722377e88",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-24T00:14:22.379Z",
+      "resolved_at": null,
+      "message": "the seven co-founders pledged to donate 80% of their personal equity wealth to philanthropic causes before the company ever went public",
+      "reactions": [],
+      "order_id": "179"
+    },
+    {
+      "id": "1979954859",
+      "uuid": "6c1e01b1-71d8-4df1-b798-a0401d485ec8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:34:01.306Z",
+      "resolved_at": null,
+      "message": "wont need this once we get s1.",
+      "reactions": [],
+      "order_id": "178"
+    },
+    {
+      "id": "1979954767",
+      "uuid": "87f092f8-4c09-4493-b170-86b508633c22",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979954285",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:33:42.283Z",
+      "resolved_at": null,
+      "message": "i think the more nuanced convo on the models side is the debate if it is fully commoditized or fi there is a separation with frontier level int at a premium. \n\naka the iphone vs android model of sales vs profit % \n\nandroid outsells iphones but iphone makes the 80% ofall the profit of phone sales? \n\nwill same happen on th emodel layer? or will it all get commoditized?\n\nis there bar wher epeopel swap? aka my call center worker vs bio engineer (but does even teh bio engineer at certain model layer also get commoditized?) is there a field it wont? \n\nthese are the questions my brain goes to so we can see if there is a non obivous insight that changes how people see these businesses",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979954285",
+      "uuid": "4b3cdb13-f5ad-4120-abbf-4a6629e535a5",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:31:46.286Z",
+      "resolved_at": null,
+      "message": "this seems obvious. we basically say as long as it stays first place its first place?",
+      "reactions": [],
+      "order_id": "177"
+    },
+    {
+      "id": "1979953100",
+      "uuid": "feaeaa6a-8bf4-4e2e-8f89-fdc7600b90cb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:27:04.544Z",
+      "resolved_at": null,
+      "message": "this assumes that if ant stopped open models would go ahead. but isnt it also true the only reasons why open models are able to look fast is because they distill the best closed models?\n\nthis is again why id like to go deeper into comparing distilled open vs non distilled open to see how much of a diff distilling does to model capabilities",
+      "reactions": [],
+      "order_id": "176"
+    },
+    {
+      "id": "1979950894",
+      "uuid": "7bf64da7-5b92-4aaa-9674-bd22915adb0e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979950835",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:17:58.551Z",
+      "resolved_at": null,
+      "message": "the reason: i have a feeling that in the next 2 years ant will get nationalized due to dual capabilities rising exponentially + conflict arises with external nations (mapping last times this has happened to businesses)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979950835",
+      "uuid": "5cb084b1-a935-48e8-8e7b-9801b9ed41e3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:17:43.435Z",
+      "resolved_at": null,
+      "message": "i think a very important factor to model/track is the regulatory regime. \n\nesp because they want it and the govt seems to be mobilizing. \n\nlook at any and all bills currently in action + in proposal and see if anythign interesting pops up.",
+      "reactions": [],
+      "order_id": "175"
+    },
+    {
+      "id": "1979950564",
+      "uuid": "27308138-aa9b-4d16-98ac-585a97ec69e4",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979950338",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:16:35.508Z",
+      "resolved_at": null,
+      "message": "shouldnt the columns be 2025 vs 2026 (post s1)?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979950338",
+      "uuid": "4e01b2ec-b878-43d3-bde5-c0b814853ce6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:15:40.032Z",
+      "resolved_at": null,
+      "message": "this is future compute bought ahead of time right vs 2025 rev?\n\nif so why do we say \"now\"? as in 2026?",
+      "reactions": [],
+      "order_id": "174"
+    },
+    {
+      "id": "1979947010",
+      "uuid": "eb9c885c-7312-4a59-94ad-60b3f2d2f2e1",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:03:27.769Z",
+      "resolved_at": null,
+      "message": "im curious does ant only rent or are they buidling custom compute/data centers?\n\ncuz openai is making custom chips + stargate facilities not just renting from hyperscalers?",
+      "reactions": [],
+      "order_id": "173"
+    },
+    {
+      "id": "1979946791",
+      "uuid": "2abc7c83-1fa4-488e-8eec-1aba0f04a79d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:02:41.082Z",
+      "resolved_at": null,
+      "message": "hmm this slide doesnt really say much.\n\nits like \"this can happen or that can happen\"\n\ndoesnt give me actual cause effect to be able to make my own conclusions.\n\nthe data point on \"high priced ipo has poor record\" is good, but that was already covered in ipos priced at 40x right? and thats a slightly diff nuanced point",
+      "reactions": [],
+      "order_id": "172"
+    },
+    {
+      "id": "1979946075",
+      "uuid": "415e0ecc-fd1b-4dc5-9936-ff8629415e09",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T23:00:10.395Z",
+      "resolved_at": null,
+      "message": "recently we hear 1.5T?",
+      "reactions": [],
+      "order_id": "171"
+    },
+    {
+      "id": "1979945437",
+      "uuid": "9a5e8d1f-10d0-413a-9af5-9ea7d4f95cf4",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979945179",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:58:05.244Z",
+      "resolved_at": null,
+      "message": "this current chart just tracks valuations at different raises. \n\nmaybe more interesting is what did they raise at each stage for? \n\n(obvious is mainly compute right? thats where all the money seems to be  going and to pay for more inference?)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979945179",
+      "uuid": "629b55dd-d6e4-4054-ad8b-49ab9e86a265",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:57:16.232Z",
+      "resolved_at": null,
+      "message": "i feel like there should be a chart that was previously shared that these 2 or 3 ai companies (spacex, openai, ant) is togethe bigger than all ipos since the beginning? and how much wealth will explode in SF? :thinking_face:",
+      "reactions": [],
+      "order_id": "170"
+    },
+    {
+      "id": "1979944978",
+      "uuid": "5e09b30a-ac90-4a81-8362-880cb172c95e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979944788",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:56:35.859Z",
+      "resolved_at": null,
+      "message": "while the companies who already invested in ant + the companies ant buys compute from are most likely to buy as the circularity?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979944788",
+      "uuid": "92828eb6-2b3f-4314-9cd0-225b2c7dc51c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:56:00.980Z",
+      "resolved_at": null,
+      "message": "spacex had a work around right? but ant goes the regular way? \n\nso demand from funds arent guaranteed for ant :thinking_face:",
+      "reactions": [],
+      "order_id": "169"
+    },
+    {
+      "id": "1979936062",
+      "uuid": "c1acd2aa-fe74-4221-8a5c-68d76e126e3d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979934837",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:30:34.236Z",
+      "resolved_at": null,
+      "message": "https://www.anthropic.com/research/ai-expectations-gap",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979935738",
+      "uuid": "c8e6192b-1125-4c54-8a73-03d6162d4e2f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979934837",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:29:46.027Z",
+      "resolved_at": null,
+      "message": "https://x.com/kimmonismus/status/2113744300131451128?s=20\n\nlol example",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979934837",
+      "uuid": "b88545b2-6726-46e8-b230-37a696e30248",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:27:29.580Z",
+      "resolved_at": null,
+      "message": "this is speucaltino. was okay as quote from brad but idk if i need double click as chart. i rather know how he comes to these projects? out of his ass or is anthropic showing \"we will get into pharma make x return\" or \"we will sell cyber solutions and our enterprise grwoth rate is x -> with x dollars = 250b rev\" or only 2% of households use ai -> we have massive tam ahead.\n\nbasically i want to know what is ant plan that they are communicating/strategy to gain growth.",
+      "reactions": [],
+      "order_id": "168"
+    },
+    {
+      "id": "1979934147",
+      "uuid": "117dee4d-ab90-43ef-8deb-3643dd6080bb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:25:55.697Z",
+      "resolved_at": null,
+      "message": "writing a bit awkward. \n\nwe are saying they need to stay #1 model company to keep getting paid by enterprises?",
+      "reactions": [],
+      "order_id": "167"
+    },
+    {
+      "id": "1979933700",
+      "uuid": "7465e5d0-1f00-4d4e-ac85-0bcaea4f2e0b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978590902",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:24:51.770Z",
+      "resolved_at": null,
+      "message": "this chapter needs to cove where they get their money and where they spend it.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979933441",
+      "uuid": "f7619e85-7950-4284-974f-ffb5ca4e79ce",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:24:12.414Z",
+      "resolved_at": null,
+      "message": "also need to know what their total margins are right? cuz we know they have 700b+ compute commitments capex? \nthey make margins on tokens but total profit is down because they keep reinvesting? or are they genuinely unprofitable?",
+      "reactions": [],
+      "order_id": "166"
+    },
+    {
+      "id": "1979932927",
+      "uuid": "e8b2066f-c3d3-41a5-b32b-9cef95e7a696",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:22:53.667Z",
+      "resolved_at": null,
+      "message": "id like to see what they forecast of the tam or growth they plan to capture to justify this.",
+      "reactions": [],
+      "order_id": "165"
+    },
+    {
+      "id": "1979932697",
+      "uuid": "73d43cbf-ab66-4d1a-8a73-31ff14032945",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:22:19.164Z",
+      "resolved_at": null,
+      "message": "better photo needed",
+      "reactions": [],
+      "order_id": "164"
+    },
+    {
+      "id": "1979932551",
+      "uuid": "fa05ccf9-10c8-4954-8589-021cb61c4d66",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:21:55.969Z",
+      "resolved_at": null,
+      "message": "this means underperformed the market?\n\naka if they launched at 40x -> 3 years later  against the spy the stock was down almost 60%?",
+      "reactions": [],
+      "order_id": "163"
+    },
+    {
+      "id": "1979932325",
+      "uuid": "b470d024-0395-497b-ba7d-0ed4c2f9cbe8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:21:20.904Z",
+      "resolved_at": null,
+      "message": "this is very interesting slide. but also just shows all IPOs are over priced for the first 3 years no matter how good the ratio is?",
+      "reactions": [],
+      "order_id": "162"
+    },
+    {
+      "id": "1979931933",
+      "uuid": "c2469c5a-4fa1-4c53-9dfc-ba9ff023bc0b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:20:26.532Z",
+      "resolved_at": null,
+      "message": "im confused here. \n\nwhat are we trying to say with this slide?\n\n31x is expensive? and if things go up or down its less expensive? is that an interesting insight?",
+      "reactions": [],
+      "order_id": "161"
+    },
+    {
+      "id": "1979931469",
+      "uuid": "6c335f2a-d090-458d-af33-3e08d53470a9",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:19:26.801Z",
+      "resolved_at": null,
+      "message": "is htere a reason we want it to be 15? why 15? why not 20 or 10?",
+      "reactions": [],
+      "order_id": "160"
+    },
+    {
+      "id": "1979922917",
+      "uuid": "920738c8-ce2b-4f8e-85c3-f137426198cb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T22:00:34.952Z",
+      "resolved_at": null,
+      "message": "https://app.hyperliquid.xyz/trade/io:ANTH\n\ncan see live trading to see what some $$ thinks its worth",
+      "reactions": [],
+      "order_id": "159"
+    },
+    {
+      "id": "1979918522",
+      "uuid": "943d8d4d-284c-417c-bf27-bb6379bc67b2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T21:52:07.518Z",
+      "resolved_at": null,
+      "message": "big topic. prolly tease ai safety debate deck when ready",
+      "reactions": [],
+      "order_id": "158"
+    },
+    {
+      "id": "1979898322",
+      "uuid": "f3e4133e-2e94-4424-97e0-d30f0a4aff6e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T21:17:04.143Z",
+      "resolved_at": null,
+      "message": "lol seems random to bring sam here and say his title? \n\ni think this slide again can be replaced by what is actual legal battles going on right now/being proposed this will be helpful for investors to know who is pushing what and what is already being acted on.",
+      "reactions": [],
+      "order_id": "157"
+    },
+    {
+      "id": "1979896857",
+      "uuid": "5cf9bf98-eefb-42d6-b766-a93f287ab2d9",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T21:14:48.170Z",
+      "resolved_at": null,
+      "message": "we should explain the diff so its not confusing. there is a separate mandat for pentagon defense vs civilian beaurcracy? which is why you can ban it in one area and not the other?",
+      "reactions": [],
+      "order_id": "156"
+    },
+    {
+      "id": "1979802144",
+      "uuid": "484163ce-45e3-4c64-8fe0-3954205e95d7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:26:04.516Z",
+      "resolved_at": null,
+      "message": "claudes character? i donthtink this is why. it was disagreement from admin vs founders at ant on who gets control over final decision no? or am i misremembering this disagreement which led to supply chain risk of ant for govt",
+      "reactions": [],
+      "order_id": "155"
+    },
+    {
+      "id": "1979800916",
+      "uuid": "4635353c-f946-4c42-8823-58ecfc36ab3d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:24:50.151Z",
+      "resolved_at": null,
+      "message": "should talk about their cofounder going to the pope and exactly what they said/lobby to make this more real if true",
+      "reactions": [],
+      "order_id": "154"
+    },
+    {
+      "id": "1979800303",
+      "uuid": "da2d2479-d713-4937-a5d6-336fa1c4f828",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:24:14.051Z",
+      "resolved_at": null,
+      "message": "the bullying policy?",
+      "reactions": [],
+      "order_id": "153"
+    },
+    {
+      "id": "1979800114",
+      "uuid": "f9f76abd-65a9-4355-b0f3-245aec3487cf",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:24:01.709Z",
+      "resolved_at": null,
+      "message": "what do they say exactly? \nis this their 5% of stock or whatever to the public?",
+      "reactions": [],
+      "order_id": "152"
+    },
+    {
+      "id": "1979794716",
+      "uuid": "47f37cbd-126e-44a9-a296-8b49212bba43",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:18:45.944Z",
+      "resolved_at": null,
+      "message": "more recently",
+      "reactions": [],
+      "order_id": "151"
+    },
+    {
+      "id": "1979793736",
+      "uuid": "138580ba-ac03-46b1-acf8-7cae4a7605f2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979793571",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:17:47.380Z",
+      "resolved_at": null,
+      "message": "all the different NGOs they funded? including evaluators?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979793571",
+      "uuid": "ebf167eb-a138-4ccd-9e08-d9e87ff94b07",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:17:37.821Z",
+      "resolved_at": null,
+      "message": "alot more has happened in the last week. see if anything worthy related here. \n\nbut i think overall for this chapter i want to understand what makes anthropic the safest lab or if they have a unique advantage/strategy here\n\naka is it them asking for regulation? can we track the money they fund for bill that they put forth: https://x.com/DarioAmodei/status/2112732230124818891?s=20\n\nalong with $$ to politicians? lobbying?",
+      "reactions": [],
+      "order_id": "150"
+    },
+    {
+      "id": "1979791606",
+      "uuid": "c1ec14b5-646c-46ad-ae73-c0f828d544ba",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:15:33.028Z",
+      "resolved_at": null,
+      "message": "i heard many break out because they are given \"impossible goals\"",
+      "reactions": [],
+      "order_id": "149"
+    },
+    {
+      "id": "1979790752",
+      "uuid": "8a5a6afe-6a81-4fa6-b7e5-e7dffb25a173",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979785494",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:14:40.208Z",
+      "resolved_at": null,
+      "message": "https://arxiv.org/pdf/2605.11496\n\n in SWE-bench verified coding evaluations, NLA analysis showed Claude was aware it was being tested in 16% of runs. On a separate evaluation set, that figure climbed to 26%. Among real users who opted into training, the same model suspected it was being tested less than 1% of the time.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979790153",
+      "uuid": "cb157d8f-3a73-4dca-819b-9e9bb09f5bf1",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979785494",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:14:04.125Z",
+      "resolved_at": null,
+      "message": "seems helpful to know when its eval awareness spikes?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979788190",
+      "uuid": "aa1ab99f-8015-482d-a358-e8343603196f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979785494",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:12:09.458Z",
+      "resolved_at": null,
+      "message": "but this was with openai and argon latest models. not sure i see anything for more recent for 5.5",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979785494",
+      "uuid": "57075e8a-7f60-4e80-97ee-bb1a6364d20f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:09:23.008Z",
+      "resolved_at": null,
+      "message": "theres been some recent dev here. so showing that thought trace of it being aware of it being teseted (and the debate around keepign CoT vs neuralease is important here)",
+      "reactions": [],
+      "order_id": "148"
+    },
+    {
+      "id": "1979784312",
+      "uuid": "1135d9a8-07d1-4cfb-9845-e452cd4c74eb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979784004",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:08:06.520Z",
+      "resolved_at": null,
+      "message": "same with 5.5 models. did it go up like gpt 5 went up?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979784004",
+      "uuid": "345aa277-45bb-4ef1-9f96-cdc1889f12e7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:07:47.715Z",
+      "resolved_at": null,
+      "message": "we say mostly comply but htats false? o3 is highest and gpt 5 is 88%? why does this etnece say that? just for gpt 4o? if so why did it get worse for gpt5?",
+      "reactions": [],
+      "order_id": "147"
+    },
+    {
+      "id": "1979783339",
+      "uuid": "1ba992ee-bfcd-4d72-bd46-38923c7c5506",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:07:06.786Z",
+      "resolved_at": null,
+      "message": "wow very impressive differnce. im curious WHY.",
+      "reactions": [],
+      "order_id": "146"
+    },
+    {
+      "id": "1979782597",
+      "uuid": "498d0dee-d384-4df1-88e8-824325edfd57",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:06:19.508Z",
+      "resolved_at": null,
+      "message": "recent changes in outside reviewers like METR? any update here. i heard the relatinoship might bias them, so what is the recent news on what is the actual plan for safety?",
+      "reactions": [],
+      "order_id": "145"
+    },
+    {
+      "id": "1979781475",
+      "uuid": "7a4acfd9-2375-4456-b14b-bd58b7d0337c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:05:04.793Z",
+      "resolved_at": null,
+      "message": "have we fully explored then the scores inside the labs? aka i think i asked in a previos section (maybe it fits better here to go into detail) but what is the constitution/rsp to help with safety/alignemnt mission?",
+      "reactions": [],
+      "order_id": "144"
+    },
+    {
+      "id": "1979780741",
+      "uuid": "9885387b-95e1-4cf8-9c64-3fce71f1dec0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:04:18.798Z",
+      "resolved_at": null,
+      "message": "this is the same chart as last one. not really adding anything",
+      "reactions": [],
+      "order_id": "143"
+    },
+    {
+      "id": "1979780483",
+      "uuid": "965ab42c-883f-4565-9a6c-7b6265dc5b95",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979780188",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:04:02.630Z",
+      "resolved_at": null,
+      "message": "biased against opensource? why? im curious as a reader.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979780188",
+      "uuid": "6206bb4b-c938-406a-995f-69689dac92f2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:03:44.146Z",
+      "resolved_at": null,
+      "message": "to trust their score (which seems biased) i need to know exactly what the grading rubric is and how they test/score it vs just \"vibes\" which it currently feels like.",
+      "reactions": [],
+      "order_id": "142"
+    },
+    {
+      "id": "1979779516",
+      "uuid": "502a4d11-1a19-4420-b097-7fc8184a9a75",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:03:00.463Z",
+      "resolved_at": null,
+      "message": "what is this actually? \n\ni want to know exactly what safety protocols look like in more deail and how antrhopic does it/sees it.\n\nsafeguards? guardrails? SFT alignment? what is the frontier  of this? i know goodfire essay said mech interp, but what is ant releasing to showcase their edge here?",
+      "reactions": [],
+      "order_id": "141"
+    },
+    {
+      "id": "1979778140",
+      "uuid": "9633c36d-4a3f-4b9a-b165-2765aaadf8ff",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:01:25.737Z",
+      "resolved_at": null,
+      "message": "interesting because HF breakout was during testing... so is ther esomehing before that to know if its even safe to test?",
+      "reactions": [],
+      "order_id": "140"
+    },
+    {
+      "id": "1979776872",
+      "uuid": "c2adf644-6246-40f5-9fb1-4d431df89b7c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1979776577",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T19:00:03.689Z",
+      "resolved_at": null,
+      "message": "i believe usa has already regulated weights at 10^26 parameters cant export?. verify",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1979776577",
+      "uuid": "369cf1b1-5dcb-437b-9cc8-dc8732d59040",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T18:59:46.008Z",
+      "resolved_at": null,
+      "message": "if anything id be more interested in what are the current regulations at play / liability rules keeping the company restricted because some say they already exist while others say they need more.\n\nthere are also low level risks vs the existential risks (again will see how they define or insure that in s1)",
+      "reactions": [],
+      "order_id": "139"
+    },
+    {
+      "id": "1979775717",
+      "uuid": "af0d327e-b855-48ff-9115-a9168c137a19",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T18:58:55.245Z",
+      "resolved_at": null,
+      "message": "weird grammar. im confused",
+      "reactions": [],
+      "order_id": "138"
+    },
+    {
+      "id": "1979775317",
+      "uuid": "a2947f56-321a-4c27-a548-dd8e86d219c7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T18:58:33.069Z",
+      "resolved_at": null,
+      "message": "harris is from the outside. is there any info from inside ant that shows their share of compute/resources divided from alignment vs capabilties research?",
+      "reactions": [],
+      "order_id": "137"
+    },
+    {
+      "id": "1979703363",
+      "uuid": "bdfeb9a2-72d7-43c2-ae09-c2e967fa8791",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T17:52:47.036Z",
+      "resolved_at": null,
+      "message": "So again, so if we start with what you're saying, which is let's get behind the people, all the seven co-founders, again very unique that none of them left. Every other AI lab, high level has left. Anthropic's the only one that they kept their seven co-founders. So psychographic behind them. Are there any tensions between them? And once we understand their motives and their incentives, how does that then translate into what they do organisationally? And so for me, one of the unique points is it's a PBC and a long-term benefit trust that is very unique to any other company that's public. I believe no other company. So for me, that goes to your second point of like understanding profits and all that. But all of this doesn't make sense unless you first understand how did they structure the company. So they structured it in a way that the shareholders can't overrule their decisions on what is best for humanity and best for safety and best for these type of things. Again, super wild because generally a public corporation is only due to their shareholders, right? This is why they have a special board and all this type of. So again, that if you don't understand that, but then obviously this only makes sense if you understood why they're doing this. Like, what is the reason? What does what does success look like, right? Because most companies are like success means higher valuation, more profit. Anthropic's very unique. They don't really care about that. So they do, but but there's a there's a supplemental, instrumental goal that they have. I like that. That's almost like the middle step between the two. If you have the psychographic, then you have the organizational structure. Correct. And like this is how they distribute the profits. Yeah, because then, correct. Because then, if I understand that organizational thing, which is all aligned with their goals, then I can start to predict how they use their money. So again, most, if I, I don't know if we have this data, but if we could, a good way to show that they're being consistent is how much compute do they have? Sure, they have less than OpenAI. Very unique information. The thing is, how much compute does OpenAI give safety researchers? Because one of the reasons why I think people are leaving OpenAI and going to Anthropic is because. They actually align with their mission of safety. They give their safety researchers more resources, more clout, more money, more compute, right? Because that's one of the things that they need it. This is also why you've seen so many people leave either of these companies. All to say, this is just one example of if we understood this and this, then the next steps make sense of like where is the money going, right? I think if we can get that just through line, foundationally stacking on top of each other, that is the goal.",
+      "reactions": [],
+      "order_id": "136"
+    },
+    {
+      "id": "1978647089",
+      "uuid": "e72201ec-5fdf-4217-8b94-4d42cc0ba938",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:28:52.097Z",
+      "resolved_at": null,
+      "message": "this goes itno much more complicated and might be confusing to reader who doesnt understand how neurons inside these llms work.. but i guess the insight is there is some mech interp here and controlability",
+      "reactions": [],
+      "order_id": "135"
+    },
+    {
+      "id": "1978645662",
+      "uuid": "b884ccf0-dab5-4240-bc40-271378c81057",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:27:37.927Z",
+      "resolved_at": null,
+      "message": "but did it actually stop cheating or because it knows it was being tested it stopped cheating?",
+      "reactions": [],
+      "order_id": "134"
+    },
+    {
+      "id": "1978645196",
+      "uuid": "e9d9889a-0406-417b-a42b-f29ba1f3ca48",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:27:12.979Z",
+      "resolved_at": null,
+      "message": "https://x.com/lukaspet/status/2104634759339298930?s=20\n\nverify but i think this shows the picture more clearly. \n\neven the og post had a big arrow to show how it backed up. rn its not immediatley obvious",
+      "reactions": [],
+      "order_id": "133"
+    },
+    {
+      "id": "1978642233",
+      "uuid": "a86ecb97-0da7-4d86-974a-a2949b39ecf5",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978641492",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:24:34.202Z",
+      "resolved_at": null,
+      "message": "mcp feels more like origin when sharing how they got everyone onto their standard early by undersatnding what agents needed. or somewhere else in the deck but not in the last half of the deck.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978641492",
+      "uuid": "15e9d20e-4cc3-4445-b59d-5a4dd9532ec0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:23:52.916Z",
+      "resolved_at": "2026-10-23T06:24:50.924Z",
+      "message": "mcp feels weirdly late to explain at this point in the deck :thinking_face:",
+      "reactions": [],
+      "order_id": "132"
+    },
+    {
+      "id": "1978641122",
+      "uuid": "7a28aee1-765a-4025-b931-f57e6b23d4ec",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978640650",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:23:30.421Z",
+      "resolved_at": null,
+      "message": "if this wetlab is fully automated researcher than i can see it fitting here",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978640650",
+      "uuid": "a5daee13-626f-431f-b9ef-950a08b62ad2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:23:04.048Z",
+      "resolved_at": null,
+      "message": "talking about labs i guess kinda goes to automated rsi research? feels a bit stretchy. almost like i rather have it in where ant is investing in outside opporutunties. but maybe its okay.\n\nbecuase this chapter feels more like RSI for their core business. while wetlab seems like dario vision around bio product?",
+      "reactions": [],
+      "order_id": "131"
+    },
+    {
+      "id": "1978639333",
+      "uuid": "9a335572-57cb-437f-9493-b223f8d58b4d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978639224",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:21:53.225Z",
+      "resolved_at": null,
+      "message": "jus twant ot make sure we arent saying old news",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978639224",
+      "uuid": "e4e5f549-7009-4ed8-9837-0c5fca67f4e2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:21:46.439Z",
+      "resolved_at": null,
+      "message": "i believe scion already works like this which is why i brought it up",
+      "reactions": [],
+      "order_id": "130"
+    },
+    {
+      "id": "1978637103",
+      "uuid": "fb60ae29-d5b9-49ed-b603-af69540562af",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:19:42.908Z",
+      "resolved_at": null,
+      "message": "id like to see non log chart to make it look more interesting. i generally hate log (because it dampens the \"FEEL THE EXPONENTIAL\" which is what AI is all about.)\n\nunless it literally cant fit on reg chart.",
+      "reactions": [],
+      "order_id": "129"
+    },
+    {
+      "id": "1978636051",
+      "uuid": "2e3bb4a7-bc33-46fb-962e-5444510419dc",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978635260",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:18:38.221Z",
+      "resolved_at": null,
+      "message": "weird to say fable 5.1 is premium when opus 5.5 is better? \n\nbut i guess the point is fable > opus > sonnet > haiku\n\nbut you gotta compare 5.5 vs 5.5 to make it even.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978635260",
+      "uuid": "c4df5e3a-f833-46cf-b626-3b359501ee06",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:17:51.913Z",
+      "resolved_at": null,
+      "message": "fable 5.5 might drop along with ipo",
+      "reactions": [],
+      "order_id": "128"
+    },
+    {
+      "id": "1978632462",
+      "uuid": "898408e9-df0d-4b4d-b7ce-7c60e566b70f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978624984",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:15:10.888Z",
+      "resolved_at": null,
+      "message": "also please confirm but reading it the bar actually seems to be \"drop in replacement\" is the real factor that they are looking at. i guess thats why 2x? matters cuz its a copy of researcher? \n\nIt’s Claude replacing all of Anthropic’s researchers, or the pace of AI progress doubling, and Anthropic says its safeguards aren’t ready for that.\n\nbut plz verify. i only manually read a few pages of the pdf.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978629143",
+      "uuid": "24a0489c-3459-4180-b923-6a5ea289f3bd",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978624984",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:12:01.047Z",
+      "resolved_at": null,
+      "message": "but also that leads to highest risk of loss of control. and i guess arbitrarily they choose 2x as the bar? im really curious who set that and why 2x. why not 1.5 or 10x",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978628636",
+      "uuid": "218d4cdf-c292-40f1-b888-fc1dc650b0b2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978624984",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:11:31.708Z",
+      "resolved_at": null,
+      "message": "so its from their RSP.. and that doc seems like the key insight is their risk is when things can auto automate themselves. \n\nthey even mention robotics and measuring capabilities there for RSI. \n\neven recently sam said that is the next frontier to tackle. robots making robots to make data centers etc.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978624984",
+      "uuid": "bb1e9d4d-8a5e-4bed-bed5-bd2dfef190c6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:07:48.450Z",
+      "resolved_at": null,
+      "message": "explain the alarm? who decided 2x/why?\n\nalso was it ant or openai that said their relationship changes once they hit \"agi\" there was some terms and conditions they had that the board/companies gets diff rules when a threshold is hit... i think it was openai? but i wonder if ant has something similar.",
+      "reactions": [],
+      "order_id": "127"
+    },
+    {
+      "id": "1978623488",
+      "uuid": "5f040f0d-a36f-4b66-bdf9-ce4ecab04faf",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978622014",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:06:14.369Z",
+      "resolved_at": null,
+      "message": "i see we share a bit next slide. feels abstract but i guess can work if we dont anythng more tangible (please dig into what boris and other researchers say their work is actually like now)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978622428",
+      "uuid": "88053dd2-1b9f-4be8-8d70-a0456ea7f1f0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978622014",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:04:57.698Z",
+      "resolved_at": null,
+      "message": "that is useful insight along with the data on code merge because it shows how they ar doing it + valuable to audience of ceo who want to learn that too",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978622014",
+      "uuid": "12dc7896-85b5-4098-8fe0-06b5ceede687",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:04:29.462Z",
+      "resolved_at": null,
+      "message": "i think the unique thing is the transition from code -> code review -> to full automated code all throughout -> what exactly are the engineers doing now? what is their workflow? \n\nboris cherny talks alot and im sure other engineers give insight on what exactly engineers do",
+      "reactions": [],
+      "order_id": "126"
+    },
+    {
+      "id": "1978621316",
+      "uuid": "adb86a43-d0a3-45a0-9a84-e5ac0d60c372",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:03:40.345Z",
+      "resolved_at": null,
+      "message": "this is helpful + we should maybe discuss scion that i mentioned prev in this chapter? better fit?",
+      "reactions": [],
+      "order_id": "125"
+    },
+    {
+      "id": "1978619853",
+      "uuid": "97c93b10-4aa0-4fd0-b917-314929ae812f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:01:58.194Z",
+      "resolved_at": null,
+      "message": "all gfx can be 10x more pretty/elegant and easier to understand. check updated skill on git or ask nils for his",
+      "reactions": [],
+      "order_id": "124"
+    },
+    {
+      "id": "1978618464",
+      "uuid": "b94ec974-45aa-4674-b899-9476f0de024d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978618292",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:00:19.272Z",
+      "resolved_at": null,
+      "message": "alhtough this fact might be more useful in origin story",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978618292",
+      "uuid": "1490df66-8908-458e-8c82-a65a15330431",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T06:00:06.653Z",
+      "resolved_at": null,
+      "message": "do we have any large key execs from ant leaving? if not that is also an insight. because (aka i believe all 7 founders are still at ant very rare)",
+      "reactions": [],
+      "order_id": "123"
+    },
+    {
+      "id": "1978611772",
+      "uuid": "06418d70-a9fd-4a3b-bebc-b7b4774877e6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978610109",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:52:36.636Z",
+      "resolved_at": null,
+      "message": "even better if we know why. for safety? cultuer? better pay?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978611477",
+      "uuid": "5ba65c7e-8963-45cc-92fe-a77983a861d8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978610109",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:52:15.986Z",
+      "resolved_at": null,
+      "message": "Engineers are 8 times more likely to leave OpenAI for Anthropic than the reverse. From DeepMind, the ratio is nearly 11:1 in Anthropic’s favor\n\nalso can we get an update from 2025? contact paper writer or reverse engineer how they got that to update for 2026",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978610109",
+      "uuid": "2a199deb-9d8d-40cd-9ab3-a249bf6726f9",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:50:45.720Z",
+      "resolved_at": null,
+      "message": "really unique insight. but feels a bit awkward to be i this chapter? maybe not tho... i guess we will see.",
+      "reactions": [],
+      "order_id": "122"
+    },
+    {
+      "id": "1978609449",
+      "uuid": "e35a1bad-ea19-434e-94be-a66591597537",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978608228",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:49:56.258Z",
+      "resolved_at": null,
+      "message": "we should pull from latest 2026 paper on RSI directly from ant. \n\nhttps://www.anthropic.com/institute/recursive-self-improvement\n\nhttps://www.anthropic.com/institute/measuring-pace-of-ai-development\n\nmost fresh. \nhttps://www.anthropic.com/research/ai-expectations-gap",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978608228",
+      "uuid": "66d62c4c-5780-4c9e-8a0f-984c19963abe",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:48:27.784Z",
+      "resolved_at": null,
+      "message": "sus if its 2022/2024 data?",
+      "reactions": [],
+      "order_id": "121"
+    },
+    {
+      "id": "1978607765",
+      "uuid": "1c16ab65-cd6b-479c-967c-6d04d43e5273",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:47:52.396Z",
+      "resolved_at": null,
+      "message": "we are doing RSI deck but this chapter is goign tob e about RSI.. i worry if we will even have neough to talk about for the new deck then?",
+      "reactions": [],
+      "order_id": "120"
+    },
+    {
+      "id": "1978607162",
+      "uuid": "491daedf-21f8-45d7-a24e-9b623d73fd50",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978606679",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:47:08.082Z",
+      "resolved_at": null,
+      "message": "so actually they are able to keep going? (but i guess we dont actually know cuz we dont know how much thier compute costs or how much china govt subsidizes them)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978606679",
+      "uuid": "2e677b8d-6621-4e40-a943-818452933d36",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:46:31.831Z",
+      "resolved_at": null,
+      "message": "we should also mention their margins tho. i believe even at super cheap token costs they still make like 70% + margins?",
+      "reactions": [],
+      "order_id": "119"
+    },
+    {
+      "id": "1978606065",
+      "uuid": "3a57df81-08a4-4d2b-94ec-24517c420804",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978605577",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:45:44.015Z",
+      "resolved_at": null,
+      "message": "or if i asked you IRL to explain on a call could you actually explain what this sentence means clearly? if not, write so you can",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978605739",
+      "uuid": "9581efdd-9788-416d-a7ea-68c01716edb0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978605577",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:45:20.010Z",
+      "resolved_at": null,
+      "message": "confusing sentence. please speak to me like im a dummy",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978605577",
+      "uuid": "b3b2d9fd-4194-418b-a3bf-c440df992147",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:45:08.673Z",
+      "resolved_at": null,
+      "message": "what does that mean.",
+      "reactions": [],
+      "order_id": "118"
+    },
+    {
+      "id": "1978604663",
+      "uuid": "68eddcd9-519b-4e4a-b6f9-ca6a4112cca3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:44:01.628Z",
+      "resolved_at": null,
+      "message": "something abou thte grammar is confusing. Whose 34.5b? what 50b? \n\ncuz title makes it seem like google gave that money to ant, then ant gave it back to google to buy their TPU.\n\nand then our gfx talks about broadcom as 34.5b but body says 42b from broadcom?",
+      "reactions": [],
+      "order_id": "117"
+    },
+    {
+      "id": "1978603848",
+      "uuid": "6c9da456-ab1a-49ba-a956-f5c127a0bd4c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:43:01.164Z",
+      "resolved_at": null,
+      "message": "does ant also buy broadcom chips? just want to see if broadcom is another example to prove the slides title...",
+      "reactions": [],
+      "order_id": "116"
+    },
+    {
+      "id": "1978602856",
+      "uuid": "f69a52e0-3b65-435b-ac82-6b245afb01a5",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978602709",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:41:49.815Z",
+      "resolved_at": null,
+      "message": "just written confusingly or im dumb",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978602709",
+      "uuid": "f027a20c-7449-46c4-b7ca-d534cdd671a2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:41:38.555Z",
+      "resolved_at": null,
+      "message": "idk what share of an rev sold through \n\nmeans. can you explain in simple terms what that means?\n\nare we saying 47% of all money made is given to amazon and google? or am i missing the point?",
+      "reactions": [],
+      "order_id": "115"
+    },
+    {
+      "id": "1978601886",
+      "uuid": "53f28b4e-1c4b-4bd9-9db9-53e95017c614",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:40:38.224Z",
+      "resolved_at": null,
+      "message": "marketplace dollar? like rev that ant made?",
+      "reactions": [],
+      "order_id": "114"
+    },
+    {
+      "id": "1978601373",
+      "uuid": "5739ab90-3cf4-4a4a-9c96-c36d8ea5fb90",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978600361",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:40:03.202Z",
+      "resolved_at": null,
+      "message": "$414B owed over 5 to 10 years is about $56B a year, roughly 84% of Q3 revenue pace?\n\nideally id get clean year vs year (or month vs month) and not just estimated/speculated run rate. \n\nim assuming s1 will give us concrete?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978600361",
+      "uuid": "af763c75-136d-4b5f-a637-27fc17497909",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:38:42.588Z",
+      "resolved_at": null,
+      "message": "sorry confusing writing. what are we saying?",
+      "reactions": [],
+      "order_id": "113"
+    },
+    {
+      "id": "1978597467",
+      "uuid": "7b66bddc-122f-4a6e-97d4-4652de954dc8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978496189",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:35:04.801Z",
+      "resolved_at": null,
+      "message": "cost matters for margins which funds next run? at least from the model companies POV. from consumer maybe doesnt mattera fter it hits certain capabiltiy threshold. then they become price senstive. \n\nbut until then certain customers will pay up to the point where it compares to market rate for that skill. \n\naka lets say bio researcher costs $300k a year. company should be willing to pay 299k for intelligence if it can do the same level of capabiilityes\n\nbut for call center worker, if capabilties is way better than that, then buyer becomes price sensitive to going as low as possible vs the $5/hour of call center worker overseas. its now just about price cuz the ceiling of that skill is maxed? (my assumption).",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978597026",
+      "uuid": "fa05a2ad-908a-4434-87cf-dd03d9ceae22",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978596690",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:34:29.313Z",
+      "resolved_at": null,
+      "message": "the more they lock in (the more it interprets that they see compute going up in price over time) but the more short term deals you can infer they think compute price will be more volatile (maybe towards the downside).",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978596690",
+      "uuid": "42aca184-b7fd-4f75-a233-3f4f40227ece",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:34:02.696Z",
+      "resolved_at": null,
+      "message": "id be curiou show much is locked vs more dyanmic spot. and the risks for either strat from the labs point of view.",
+      "reactions": [],
+      "order_id": "112"
+    },
+    {
+      "id": "1978595960",
+      "uuid": "3022c460-abb2-4a67-bb63-aa6591969e18",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978595296",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:33:05.781Z",
+      "resolved_at": null,
+      "message": "there was also interview with dwarkesh where dario was wayyy more gunshy on spending on compute because one mistep would erase his business, but now it seems like he is very aggressive in trying to catch back up?\n\nesp with openai stargate level projects (which is why ant pays premiums to xai data cneters etc?)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978595296",
+      "uuid": "d52eb354-91cc-447c-8b27-bd80127fd336",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:32:15.101Z",
+      "resolved_at": null,
+      "message": "theres a number right? thatw as leakked like 700+b already commited?",
+      "reactions": [],
+      "order_id": "111"
+    },
+    {
+      "id": "1978594538",
+      "uuid": "f0a9f3c7-c85f-4e07-af79-a92735f11307",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978517551",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:31:13.973Z",
+      "resolved_at": null,
+      "message": "will s1 even share this?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978594481",
+      "uuid": "a4b0dc66-d123-43c8-8407-88dfeed0f9af",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978517551",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:31:08.848Z",
+      "resolved_at": null,
+      "message": "agreed any info on 2026? or we have to wait for s1?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978594160",
+      "uuid": "1333d248-2ed6-4052-b89a-18ce3a8644f2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:30:41.427Z",
+      "resolved_at": null,
+      "message": "https://www.anthropic.com/research/redesigning-source-control\n\nhttps://www.youtube.com/watch?v=3199TC7Pt_o\n\npretty recent and big breakthrough on how they are able to advance so fast. totally changed org structure on merging code (and migrated off git)\n\nreally insightful because likely how other businesses will go into the future. \n\nnot exaclty sure how it relates to antrhopic compute spend? :thinking_face:",
+      "reactions": [],
+      "order_id": "110"
+    },
+    {
+      "id": "1978592906",
+      "uuid": "cecb9257-21ce-4ac0-aa2c-7a5f3f1e49d2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:29:02.543Z",
+      "resolved_at": null,
+      "message": "cool i see you addressed my prev comment on sharing actual compute comparison between model companies.\n\nnow jus thave ot think should we merge or does this chapter actually deserve its own carve out",
+      "reactions": [],
+      "order_id": "109"
+    },
+    {
+      "id": "1978592253",
+      "uuid": "745f79c0-8050-4785-8210-14cd1cf716e8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978517041",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:28:11.454Z",
+      "resolved_at": null,
+      "message": "agreed. try not to repeat the things we already covered. feels annoying as a reader because sometimes it feels like you arent respecting my time. \n\nin the ideal world i want to feel like im building cause -> effect -> to deeper NEW insights. not just going back to an older insight (unelss there is a good reason to build it back into something)\n\nthis is not a hard fast rule, but generally avoid repeating the same facts.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978591157",
+      "uuid": "7dc6ea60-4157-45d6-bf0a-a3429903de38",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978590902",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:26:45.055Z",
+      "resolved_at": null,
+      "message": "surprise our research didnt surface the above.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978590902",
+      "uuid": "fc68fc43-3fb5-40d3-b117-5758b7fb2b1d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:26:26.392Z",
+      "resolved_at": null,
+      "message": "I think we're missing a big part of how Anthropic spends money. I believe they make quite large acquisitions every single year. I think that could in itself be an interesting slide: what are they buying?\n\nThey obviously have a lot of money. They could build a lot of stuff in-house, I'm sure, but there are moments when they actually just acquire companies. I think that could also show us where their mind's at and what kind of moat or strategy they have, how they're horizontally scaling or vertically scaling to fill in their own gaps.\n\nI think that could be very helpful. We should definitely have a slide on that.",
+      "reactions": [],
+      "order_id": "108"
+    },
+    {
+      "id": "1978588253",
+      "uuid": "15d44a15-5c3e-4134-9a16-c6b8b79e88c7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:22:55.923Z",
+      "resolved_at": null,
+      "message": "If this is true I wonder why they support their subscription so much. If APIs make all the money, do we know the reason?",
+      "reactions": [],
+      "order_id": "107"
+    },
+    {
+      "id": "1978587306",
+      "uuid": "aaae4378-e93e-434f-98d0-acab30b510b3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:21:40.908Z",
+      "resolved_at": null,
+      "message": "Are we trying to say that Anthropic spends more to serve tokens than they get? Didn't they have crazy good margins on their tokens? Or what are we trying to say?",
+      "reactions": [],
+      "order_id": "106"
+    },
+    {
+      "id": "1978586836",
+      "uuid": "57cfe36f-d7e0-424b-b5d6-5f0209e77d5a",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978585916",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:20:58.435Z",
+      "resolved_at": null,
+      "message": "chamath idea of CPM -> CPC \n\ncost per millino tokens -> cost per action/task finished",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978586539",
+      "uuid": "9ce410b9-a75d-4787-af50-fc74b446990b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978585916",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:20:36.122Z",
+      "resolved_at": null,
+      "message": "because i want to see if that trend has stopped and the market share of REV is also being eaten, not just token amount \n\n(because in some ways # of tokens wont matter end of day. it will matter cost of task success)",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978585916",
+      "uuid": "f7ebbb1b-f3c2-4b08-8ad5-d13b475b31c2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:19:46.770Z",
+      "resolved_at": null,
+      "message": "I think there's also a chart that shows tokens and a lot of that has shifted over to open source. But if we just look at revenue, if we could map all the revenue of open source companies and closed source companies and highlight Anthropic, it still shows that they make the vast majority of all the money.\n\nAgain this is something David Sacks says. I'm sure there are other charts that someone else has created. I wonder if we could find that to get this point a little bit more clear.",
+      "reactions": [],
+      "order_id": "105"
+    },
+    {
+      "id": "1978585260",
+      "uuid": "d8ec6a82-ac4f-426c-8d88-be3f48fed345",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:18:56.845Z",
+      "resolved_at": null,
+      "message": "Yeah it's very important to know what the concentration is like and who pays Anthropic. I believe they make most of their revenue from just a couple people. If we have that info we can see how much of an impact concentration plays in their strategic positioning and what the risks are of those companies not continuing with them.",
+      "reactions": [],
+      "order_id": "104"
+    },
+    {
+      "id": "1978584289",
+      "uuid": "2dbbf859-54d0-4fa7-81b3-a8390d1ea399",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978584087",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:17:38.806Z",
+      "resolved_at": null,
+      "message": "because that seems to be the thesis people have. but is that able to be backed by research/data?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978584087",
+      "uuid": "d6d0b1a1-d3fa-41b0-a444-2e8df25e7946",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:17:22.684Z",
+      "resolved_at": null,
+      "message": "is this also when models got good enough they hit a threshold of capabilities where intellgiecne was no longer the factor but price? if so can we mark that as the insight that matters?",
+      "reactions": [],
+      "order_id": "103"
+    },
+    {
+      "id": "1978583014",
+      "uuid": "a3061bfc-c99e-40a5-98e7-dcfa2ba7b0f7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:15:58.065Z",
+      "resolved_at": null,
+      "message": "im okay with having the data point that they surpassed openai because it was big news when it happend, but that was 6months ago. can we go a bit deeper on why it happened/why it matters (unless we  will have already explained it earlier aka \"enterprise hyperfocus coding agents etc etc\" or stealing cursor business model? is this true? similar to how they took claude deisgn from figma in a sense (again all rumors so please verify) because i want to know what drove their decisions/allowed them to leapfrog\"",
+      "reactions": [],
+      "order_id": "102"
+    },
+    {
+      "id": "1978581618",
+      "uuid": "906e208c-3f55-4a77-987a-a24f7ec7d45e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978581451",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:14:10.029Z",
+      "resolved_at": null,
+      "message": "too low fidelity and not elegant.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978581451",
+      "uuid": "11412396-05c2-4939-82e3-6b9e43631177",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:13:56.494Z",
+      "resolved_at": null,
+      "message": "can make more beautiufl charts overal. github should hav eupdated and nils also has too.",
+      "reactions": [],
+      "order_id": "101"
+    },
+    {
+      "id": "1978581199",
+      "uuid": "ced4913e-52ee-49a4-96a8-af3f6d0dea0d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:13:36.853Z",
+      "resolved_at": null,
+      "message": "do we have any info on how they decide where money flows? how do they decide how much to compute, how much to talent vs data vs others?\n\nthey pay alot for data right?",
+      "reactions": [],
+      "order_id": "100"
+    },
+    {
+      "id": "1978580588",
+      "uuid": "36b0af5f-7ba0-4cb0-afcc-955011410e45",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978510053",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:12:49.593Z",
+      "resolved_at": null,
+      "message": "agreed. belongs in origin due to how they strategized to get to this position",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978580157",
+      "uuid": "b3442c70-2a68-4d00-8311-e7bb1e80a578",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T05:12:13.257Z",
+      "resolved_at": null,
+      "message": "i think fine to show this. if anything i want to see the full chart. when they first started making money-> to now. \nand as a line chart (compared to openai and potentially other labs that publically show their run rate specifically for models)?",
+      "reactions": [],
+      "order_id": "99"
+    },
+    {
+      "id": "1978550161",
+      "uuid": "68ef8f6c-353c-4318-8df8-4965b8afc326",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:26:01.438Z",
+      "resolved_at": null,
+      "message": "this is a key insight that antrhopic has less compute but leading the frontier (if possible even share that comparison how much is openai running on, vs xai vs google etc.)\n\nlike i think google and xai has way more than the other two but they still lag behind. so again this chapter landing on key insights on WHAT IS MOST IMPORTANT RESOURCE to stay on frontier? or do we know what is allowing anthropic to be ahead? \n\n(maybe its focus? antrhopic has more compute but spread it across multiple products and had to repivot?)\n\nif its all just speculation no need to dig deeper. but itd be nice to get a deeper look on what is driving the advancement to stay on the frontier. aka what is the competitive advantage? \n\ni think the 3 things are Compute, Research talent, and Data. confirm?",
+      "reactions": [],
+      "order_id": "98"
+    },
+    {
+      "id": "1978547037",
+      "uuid": "29de4bfc-f4b5-4742-9707-871ce814e0ff",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:21:26.281Z",
+      "resolved_at": null,
+      "message": "https://youtu.be/6D1wC95htTM?si=SQATfm3QUIBcyXdX\nThis can be for distillation slide but also here because the main point is frontire labs need to be able to monetize to train the next one.\n\nfrom the above antrhopic researcher why they are against distillation. it wont get you past the frontier. it just funnels money away from that R&D. \n\nbut getting to next frontier gets more and more expensive - and the other OS ones dont have to spend as much R&D cuz they can just \"steal\" it. \n\nagain steelman both sides here to see if they are right. \n\nand if we can find unique data on \"how much % rev is generated in what x months to get the vast majority before the advantage is lost and can it then train the next version\". \n\ni think pharma is kind of like this, which is why they have 20 year patent rules. because massive R&D cost -> drug -> sell drug -> fund next R&D and patent protects them during this time to make $$.",
+      "reactions": [],
+      "order_id": "97"
+    },
+    {
+      "id": "1978544444",
+      "uuid": "5bb0ed4b-9842-49da-8b3e-82955a9395f4",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978544073",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:17:16.732Z",
+      "resolved_at": null,
+      "message": "because that would be the real insight. they say the landscape changing on price and then started to attack that too while also being on the frontier. \n\naka now they wont lose as much business to OS tokens?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978544073",
+      "uuid": "62f55631-82bf-47c1-b9c6-52c55a29a1c8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:16:42.930Z",
+      "resolved_at": null,
+      "message": "i think the real insight is recently they shifted their strat to release models across the whole gamut to capture as much of the range. vs previous it was just an expensive frontier model and got the high end, but as opensource came up from behidn and 90% of tasks could be done there, it then quantized the forntier to also be served cheaper.\n\nplease verify if true. or were they always sharing cheaper frontier (i think the only thing they did was allow previous older models to depreicate?) but maybe im wrong.",
+      "reactions": [],
+      "order_id": "96"
+    },
+    {
+      "id": "1978543168",
+      "uuid": "5bc56a87-f255-4cca-9e8f-5ffcce16166b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:15:12.869Z",
+      "resolved_at": null,
+      "message": "use beige so its easier to see vs puprle vs purple.",
+      "reactions": [],
+      "order_id": "95"
+    },
+    {
+      "id": "1978542637",
+      "uuid": "f79fb8b0-8ba0-4960-8194-8babe3dff757",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:14:17.679Z",
+      "resolved_at": null,
+      "message": "a bit confusing as we use diff bench marks/measures (cost vs AA benchmark vs epoch) it should either be consistent or more clearly show why we are mentioning each one differently in a clearer way",
+      "reactions": [],
+      "order_id": "94"
+    },
+    {
+      "id": "1978542037",
+      "uuid": "67a3525b-0f8b-4505-88f6-bfaa3aca1b24",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978541645",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:13:19.587Z",
+      "resolved_at": null,
+      "message": "how to get data? look at all the benchmarks and find the most reputable that grade then draw the shape for each key model side by side.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978541645",
+      "uuid": "1e9b6d4a-8881-4f2b-b913-d8c544198eb1",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:12:41.186Z",
+      "resolved_at": null,
+      "message": "i can see why we talk about argon. but this will make our deck stale in a month or so when another model hops it. what is the underlying idea we are trying to give as the takeaway?\n\ntaht its jagged at the frontier? \nif so, the unique data no one else really compares is with all the frontier models can we show how each model shape has developed over time?\nhttps://www.anthropic.com/research/claude-shaped-science\n\nlike imagine we had the attached image as a graphic. i know some companies release their jagged shape of their best model. could we put them side by side to show each company prioritizes something diff? or maybe they all look the same and spike in the same areas. if not that shows me what each company is aiming towards. THATS interesting insight.\n\naka i remember muse wonder doing great and absolutely flopping on 3d gen vs other fonrtier models. that explains to me they didnt SFT or RLHF there. https://x.com/ChrisGPT/status/2109760948093522051?s=20\n\nand the point of doing this is again the INSIGHT that this shows what diff companies prioritize in training.",
+      "reactions": [],
+      "order_id": "93"
+    },
+    {
+      "id": "1978538179",
+      "uuid": "724a7c4d-e620-4d0f-b1f4-ed3317ccbd91",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:07:02.426Z",
+      "resolved_at": null,
+      "message": "this is important slide to understand what distillation is and how important it is to the race.\n\nmany likely know about this. what is the unique insight for those people?\n\nfor me itd be, can we quantify how much distillation actually impacts a model creation? how valuable is it (for both antrhopic rev wise, and how they recently were able to shut it down, some think its what led to the slump in rev becuz they cut out all those calls to their models)\n\nor on the deepseek/china models side. they opensource their training methods? do they share how much the distilled or curated data impacts model quality (i bleieve some western researchers also might have done research on this). \n\n WHAT DOES DISTILLATION ACTUALLY DO to give or take advantage in this race\n(some research? https://x.com/thesupermannx/status/2113205766111031548?s=20 ) \n\nNOT just that it happens. cool thats one fact but doesnt actually give me enough to know if its important or not by how much and who is responsbile/should it be allowed or not\n\n(goes into the larger picture where people think its nothing wrong - or its hypocritical cuz antrhopic also distilled the whole internet (or is that different?))",
+      "reactions": [],
+      "order_id": "92"
+    },
+    {
+      "id": "1978534246",
+      "uuid": "3656fc21-4f37-48cd-9dbe-42c533d16296",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978532628",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T04:00:29.404Z",
+      "resolved_at": null,
+      "message": "https://artificialanalysis.ai/leaderboards/models\n\nis this the best one or is there a better one the industry looks at/trusts?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978532628",
+      "uuid": "921b7db8-e57c-4c9e-92ff-5c3d098be497",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:57:51.207Z",
+      "resolved_at": null,
+      "message": "better way to make this and show who leads is choosing the best overall benchmark then just historically map who took the top #1 spot and which model. \n\naka back in 2023 was it chatgpt x -> how long did it hold that position before next model beat it, which company, etc. until we get to today.",
+      "reactions": [],
+      "order_id": "91"
+    },
+    {
+      "id": "1978526631",
+      "uuid": "dfb2b092-912c-4a95-ab18-5bcbfccd7b18",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978525743",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:47:55.153Z",
+      "resolved_at": null,
+      "message": "id ask yourself. why did you chose this data point vs the one where antrhopic literally shares their RSI r&d work? did you just not have this in your research? were you unaware? want to know how to improve your research which impacts writing",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978525743",
+      "uuid": "ceb40779-049b-418b-9182-e47479da53eb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:46:32.866Z",
+      "resolved_at": null,
+      "message": "better chart than this is the RSI slide. \nhttps://x.com/ChrisGPT/status/2100692455154737479?s=20\n\nalso just note on gfx so you know not to make this mistake. terrible to not show y axis and the whole point of what makes this chart shocking is that it is an exponential but making it log makes it look like its flatlining. but it isnt. its EXPLODING.",
+      "reactions": [],
+      "order_id": "90"
+    },
+    {
+      "id": "1978520834",
+      "uuid": "4c36c82d-0659-4895-97e1-413b835cbd73",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:39:05.007Z",
+      "resolved_at": null,
+      "message": "id expect to understand by the end of this chapter \"why does this race matter\" and what does it mean to \"WIN\" this race.",
+      "reactions": [],
+      "order_id": "89"
+    },
+    {
+      "id": "1978519822",
+      "uuid": "f4082dee-0ed4-4e8c-8255-461ed9b28687",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978495496",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:37:34.719Z",
+      "resolved_at": null,
+      "message": "even this slide feels more like a slide for a diff part of the deck where we explore their economics.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978519601",
+      "uuid": "bc6af179-1386-4f90-bb77-1a7075ff64c6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:37:14.507Z",
+      "resolved_at": null,
+      "message": "Well this is where we should probably have a chart, which is like Anthropic revenue sold through Amazon and Google. Amazon and Google take a slice of revenue. Amazon and Google also invested in Anthropic. There needs to be one graph which shows all of these relationships between these companies",
+      "reactions": [],
+      "order_id": "88"
+    },
+    {
+      "id": "1978519519",
+      "uuid": "2b73a312-db35-41ce-8265-b38fffa3ad95",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978495496",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:37:06.090Z",
+      "resolved_at": null,
+      "message": "agreed",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978519243",
+      "uuid": "343cf60e-1c16-4b6e-90a6-8e5515a3eea6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:36:38.807Z",
+      "resolved_at": null,
+      "message": "On a bigger level I think something that we should do here is look at what the bears say and what the bulls say about Anthropic. We should create this kind of duality and discuss it rather than just going through these numbers. Right now we have a lot of numbers but we don't really have emotions loaded into this, which I think is a weakness of this deck. We just need actors: people that are pricing against it, people that are pricing for it, and people asking, \"What's the tension in all of this?\"",
+      "reactions": [],
+      "order_id": "87"
+    },
+    {
+      "id": "1978518946",
+      "uuid": "e78c468b-058d-41df-a8ca-34b9469011d1",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:36:12.498Z",
+      "resolved_at": null,
+      "message": "What if, rather than writing this, you said, \"So can Anthropic outgrow its growth commitments or its compute commitments?\"",
+      "reactions": [],
+      "order_id": "86"
+    },
+    {
+      "id": "1978518638",
+      "uuid": "9e291bab-ab5c-413d-bee4-3f71b04fd37a",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:35:45.727Z",
+      "resolved_at": null,
+      "message": "Here we could talk about core weave and the whole compute market. It's not a wild west but if you lock in the price of your money and you lock in the price of the compute, you might be fine. If you lock in the price of the compute but not the price of the money, you might be fucked. It's kind of like we should see that some people have already burned their hands here, right? That's the main thing",
+      "reactions": [],
+      "order_id": "85"
+    },
+    {
+      "id": "1978518123",
+      "uuid": "e8ff7d48-26b7-4e92-ade0-4aa736183c41",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:34:57.617Z",
+      "resolved_at": null,
+      "message": "This is a slide where you actually did a good job. Like you said you made a transition on the previous slide, and here it's clear, which is good.\n\nI think here the interesting thing is when you talk about how Anthropic kind of didn't have that big of a profit but it's still spending. This is still the fans that it has. I think that's compelling because, oh damn, they have really, really strong conviction in what they're doing. I think that's another interesting data point to add to the tension of the image",
+      "reactions": [],
+      "order_id": "84"
+    },
+    {
+      "id": "1978517669",
+      "uuid": "29fd2530-0dd1-46cf-981f-bf2c90284a75",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:34:15.351Z",
+      "resolved_at": null,
+      "message": "We could still address that it's 24 data and tell why that would still be relevant but otherwise I think it's just a weird data point, a weak data point",
+      "reactions": [],
+      "order_id": "83"
+    },
+    {
+      "id": "1978517551",
+      "uuid": "bced2fac-9cf1-4efc-9eb8-75fb2f84a6c3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:34:04.908Z",
+      "resolved_at": null,
+      "message": "Given that this is 2024 data, I am kind of skeptical of not using it because this is like the stone age of AI",
+      "reactions": [],
+      "order_id": "82"
+    },
+    {
+      "id": "1978517290",
+      "uuid": "5cfdf44e-7d8f-440e-8140-e2ce79c6680d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:33:43.626Z",
+      "resolved_at": null,
+      "message": "It needs to come from how it spends compute or how its teams use the compute it has available. I think how it spends compute sounds more like money allocation but I think there's a way for us to make it sound more about the humans in the company",
+      "reactions": [],
+      "order_id": "81"
+    },
+    {
+      "id": "1978517041",
+      "uuid": "c67d1b30-ecf5-462a-8cb3-ec928648b70f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:33:22.412Z",
+      "resolved_at": null,
+      "message": "This is super interesting but we also added in a slide before. We don't want to repeat ourselves but here you present it in a much more compelling way with this chart",
+      "reactions": [],
+      "order_id": "80"
+    },
+    {
+      "id": "1978516824",
+      "uuid": "8e8ad8ec-714e-4262-a214-a6e5a8fc5dcc",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:33:01.427Z",
+      "resolved_at": null,
+      "message": "Maybe we make it more story-like and we're like, \"Well despite its dominance of the smartest models, Claude is still a comparatively small consumer business.\" \n\nWhere it still doesn't control that many consumers \n\nAnd this is interesting because if we were to talk about, for example, AI agents and Muse and ChatGPT, we don't yet know how big of a business that's going to be but it might be a big business",
+      "reactions": [],
+      "order_id": "79"
+    },
+    {
+      "id": "1978516299",
+      "uuid": "beba7f08-d937-4901-b2b3-60c93f69a37f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:32:16.792Z",
+      "resolved_at": null,
+      "message": "I also feel like here what we could do is mention the partner share, right? If $1 of Amropic spend is routed through Amazon, I think 17% or so goes to Amazon or something like that. It's ridiculously high.",
+      "reactions": [],
+      "order_id": "78"
+    },
+    {
+      "id": "1978516103",
+      "uuid": "ad435911-8d02-4997-a806-1f2982dfc9d3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:32:00.623Z",
+      "resolved_at": null,
+      "message": "Yeah the question is: does everything identifiable, does that include the researchers and all that stuff as well or no?",
+      "reactions": [],
+      "order_id": "77"
+    },
+    {
+      "id": "1978515658",
+      "uuid": "72bd0bec-063a-47cd-a834-f0b4d029b2cc",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:31:22.850Z",
+      "resolved_at": null,
+      "message": "That might be true. However it might also be more complex than that because, personally, I would not spend $4,000 a month on cloud. I don't think I would for the usage that I get right now.\n\nWe also should mention the fact that subscriptions are heavily subsidized but we actually do that. I also think that subscriptions themselves drive some consumer adoption and virality so I would kind of be careful with assuming that all of this could directly be converted into API revenue",
+      "reactions": [],
+      "order_id": "76"
+    },
+    {
+      "id": "1978515142",
+      "uuid": "876e5f1c-36d5-4ea2-abc8-035f14431086",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:30:36.496Z",
+      "resolved_at": null,
+      "message": "This is where we start to get interesting",
+      "reactions": [],
+      "order_id": "75"
+    },
+    {
+      "id": "1978514718",
+      "uuid": "ab5cce01-0d0b-4a6d-ae45-c2ca8975d2f2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:30:02.538Z",
+      "resolved_at": null,
+      "message": "There's something about this rhythm of writing that feels like it tries to be elegant but when I read it my brain is like, \"What the fuck?\"",
+      "reactions": [],
+      "order_id": "74"
+    },
+    {
+      "id": "1978514488",
+      "uuid": "75b780bd-ed75-4b5f-88db-e5f6a7f7c1d2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:29:42.517Z",
+      "resolved_at": null,
+      "message": "This tries to sound profound but it doesn't click for me",
+      "reactions": [],
+      "order_id": "73"
+    },
+    {
+      "id": "1978514282",
+      "uuid": "62c4b31f-5ce5-4922-8463-b9174ccee43b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:29:25.968Z",
+      "resolved_at": null,
+      "message": "I don't like the sentence \"while the money still follows the frontier.\" That sounds a little sloppy. Again keeping in mind that massive disclaimer that I gave about Open Router \n\nWhich gets stronger if you compare it with, by the way, OpenAI models are still only 5% of spend on Ramp \n\n_\n\nHowever what you should keep in mind, Mr. Rajat, is that we got an exclusive chart from Ramp. It shows that this is the breakdown of what the top 1% of businesses spend on AI on Ramp. This is not published data just yet. It shows that there is a fairly big part of that that's just spent on GPU compute, which means that they are buying chips and stuff so that they can run inference. That 5% number might actually be on the lower end of what actually it is because they might just spend it on open source, but indirectly",
+      "reactions": [],
+      "order_id": "72"
+    },
+    {
+      "id": "1978513158",
+      "uuid": "ad7ca0b1-7c7f-41d5-925f-af5d181c7921",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:27:48.376Z",
+      "resolved_at": null,
+      "message": "This is a slide where I'm like, \"This is very interesting\" but this, I feel like, should be two slides and it should give me the full story around this",
+      "reactions": [],
+      "order_id": "71"
+    },
+    {
+      "id": "1978512751",
+      "uuid": "b595c0c4-d970-4c22-8560-2f26c36e43b7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:27:12.324Z",
+      "resolved_at": null,
+      "message": "Here we have three slides now where we talk around this. The big thing is really that in the middle of the summer Anthropic seemed fucking unstoppable because they were crushing it on ramp. Everybody was like, \"Who the fuck are these guys?\" and talking about all these gigantic expectations and all that stuff. OpenRouter spend on Anthropic was just boom and all that stuff.\n\nBut then they shipped 4.6, 4.7, 4.8, and 5.0 Opus, which were expensive shitty models. Then OpenAI came out with GPT-6 and Astra and Codex also just improved a lot even before Astra. People just went back to it because it was a better product.\n\nThe big interesting thing is that Anthropic was almost coasting a little bit and almost getting a little arrogant. The big story here is that Anthropic might have tried to coast a little bit but they actually couldn't really. It cost them dearly. Only 4% of all spend on Anthropic and OpenAI is on OpenRouter by the way.\n\nI think we should make that clear and we should also make clear that OpenRouter is not for sale maybe. OpenRouter is the most price-sensitive part of the market because that is literally where people go so that they have flexibility of routing and using cheaper models or using the best model for the task. They have very low switching cost by design.",
+      "reactions": [],
+      "order_id": "70"
+    },
+    {
+      "id": "1978511445",
+      "uuid": "fe1b1907-cc64-4010-a600-a8d44bfe4413",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:25:13.352Z",
+      "resolved_at": null,
+      "message": "So what?",
+      "reactions": [],
+      "order_id": "69"
+    },
+    {
+      "id": "1978511320",
+      "uuid": "64d984b7-9573-4e85-9a1e-2cee3b6d001e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:25:05.531Z",
+      "resolved_at": null,
+      "message": "I talked with this guy yesterday and I'm going to talk with him on Monday. Again this is actually interesting data but why are we looking at this? I can understand that by looking at the slide for two minutes but I don't understand it immediately and that's the problem.",
+      "reactions": [],
+      "order_id": "68"
+    },
+    {
+      "id": "1978510731",
+      "uuid": "bf6134f8-df77-4479-b274-7e638219022e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:24:12.129Z",
+      "resolved_at": null,
+      "message": "This is also an extremely obvious data point that I've probably seen like 27 times already so unless there is any new insight we should replace this with something that's actually net novel",
+      "reactions": [],
+      "order_id": "67"
+    },
+    {
+      "id": "1978510543",
+      "uuid": "b243f87b-b19a-4fcd-b150-cf564eb42fc8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:23:54.377Z",
+      "resolved_at": null,
+      "message": "This should be a higher-fidelity chart with more than three data points. This should have a lot of data points. In general charts with more data points and higher fidelity are more interesting when it comes to timeline charts",
+      "reactions": [],
+      "order_id": "66"
+    },
+    {
+      "id": "1978510329",
+      "uuid": "36afea50-01dc-4831-928a-7f7c9fcec5ec",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:23:34.163Z",
+      "resolved_at": null,
+      "message": "This makes it sound as if coding was the one thing they focused on and then coding spread into other businesses. But it's more like coding gave the revenue into that flywheel that you're talking about over there, which just gave revenue, revenue, better research, research, better models, and boom, boom, boom",
+      "reactions": [],
+      "order_id": "65"
+    },
+    {
+      "id": "1978510053",
+      "uuid": "bb1cd5ab-3cd0-4be7-8f11-9f593e1fceef",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:23:09.349Z",
+      "resolved_at": null,
+      "message": "Here we should just mention this in the origin story and then we could pick it up back here: Anthropic focusing on coding models was one of the greatest strategic decisions ever. Coding is very much more task-intensive because you're producing all this stuff and that's really what immediately was a clear model, a clear use case, all the stuff. It just went zoom. That's one of the main things. I would say something like: Code turned out to be uniquely good for AI because of three reasons:\n1. It could be tested automatically. You can press a button and you can see the results or not.\n2. You kind of need a lot of it to run.\n3. Whatever the third one is we'll come up with a good third one.",
+      "reactions": [],
+      "order_id": "64"
+    },
+    {
+      "id": "1978509981",
+      "uuid": "5a62f76a-647c-4cbe-bf07-6db38c888b75",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:23:01.913Z",
+      "resolved_at": null,
+      "message": "weird to be last slide in march, then jan, then back to march. \n\nbut again i think we dont even need to be talking about the drama at this point. we should focus on more on anthropic origin vs this year drama",
+      "reactions": [],
+      "order_id": "63"
+    },
+    {
+      "id": "1978509355",
+      "uuid": "ed9310c1-afe0-4646-ba2d-1bc11d7a9882",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:22:00.127Z",
+      "resolved_at": null,
+      "message": "This slide might be necessary but it's obvious. We also introduced the revenue growth figure earlier, in slide 3. Everybody in our audience (and others on Twitter) will be aware of the saga. The question is: what's the so what?",
+      "reactions": [],
+      "order_id": "62"
+    },
+    {
+      "id": "1978508901",
+      "uuid": "1fbb1bb1-1b96-46b3-97fb-f198471f1b5d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:21:18.045Z",
+      "resolved_at": null,
+      "message": "You should start this with a sentence which is something like: \"One could imagine Empropix's business model as a flywheel,\" or something like that.\n\nSo again something interesting that I'm just realizing just now because it was so hidden is that Anthropic is leading the world even though it has about 32% less compute than OpenAI (and also probably less access to all of the hyperscalers themselves) \n\nWhich brings me to a very interesting insight, which is: Anthropic's edge needs to be the research, right? \n\nAnd that now would be the perfect transition into Anthropic's research and why they're better at their edge",
+      "reactions": [],
+      "order_id": "61"
+    },
+    {
+      "id": "1978507880",
+      "uuid": "dcb18d24-b81b-4551-91dd-fab5cc2f063c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:19:41.936Z",
+      "resolved_at": null,
+      "message": "We're introducing facts before we introduce the substance of why I should care and what this means",
+      "reactions": [],
+      "order_id": "60"
+    },
+    {
+      "id": "1978507687",
+      "uuid": "6a8f9566-db4c-4434-9916-c898c852de0d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:19:26.211Z",
+      "resolved_at": null,
+      "message": "Shorter, clearer. It's clever and intangible",
+      "reactions": [],
+      "order_id": "59"
+    },
+    {
+      "id": "1978507533",
+      "uuid": "1337b188-fa5b-4a2f-9f2d-bb88cdb8a4cf",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:19:12.891Z",
+      "resolved_at": null,
+      "message": "Again a lot of blabbering back and forth. The TL;DR is as if the AI competition wasn't already difficult enough. Even if you lead, the frontier models lose two-thirds of their pricing power in the first three months \n\nWe go into the technical details before we realize that and again we put the takeaway in the last sentence",
+      "reactions": [],
+      "order_id": "58"
+    },
+    {
+      "id": "1978507317",
+      "uuid": "b2eb1ff4-7b27-4546-af7f-e06f83117459",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978506098",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:18:52.429Z",
+      "resolved_at": null,
+      "message": "i see you talk about it in next slide. \n\nso now do i need to knw what the difference between a RSP is and constitution? does every lab have both? whats the purpose of each?\n\nis it just a large system prompt for the agent or is it for the people in the company to follow/understand?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978506931",
+      "uuid": "f4e0070b-4a5a-4c4d-bcc4-1dd3f30518e8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:18:15.938Z",
+      "resolved_at": null,
+      "message": "This is the compelling idea I was describing two slides ago but we waited with introducing it",
+      "reactions": [],
+      "order_id": "57"
+    },
+    {
+      "id": "1978506769",
+      "uuid": "7e474d20-05f9-44ca-9ca2-3aeb6ff3bd95",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978506576",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:17:59.231Z",
+      "resolved_at": null,
+      "message": "Because I like the chart principle itself but my brain directly went looking for it on the chart",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978506752",
+      "uuid": "18bb3be2-83c5-49c5-b1c1-0213175b6011",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978506098",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:17:57.791Z",
+      "resolved_at": null,
+      "message": "which again reveals internal view/culture that evolves vs other ai companies/outside view. \n\ntreat claude as entity -> more likely to have it aligned or misaligned/conscious belief vs if you dont treat it that way?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978506576",
+      "uuid": "dc268913-b5ee-43f4-a0c6-50d5e566469c",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:17:43.539Z",
+      "resolved_at": null,
+      "message": "This model is not on the chart, which is weird",
+      "reactions": [],
+      "order_id": "56"
+    },
+    {
+      "id": "1978506289",
+      "uuid": "372afce0-a93f-4c40-8d7f-76e765fffa63",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:17:18.506Z",
+      "resolved_at": null,
+      "message": "add Context: Another way to measure AI models is cost per task",
+      "reactions": [],
+      "order_id": "55"
+    },
+    {
+      "id": "1978506098",
+      "uuid": "78e88b5b-5839-4254-9189-080860002bfb",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:17:00.902Z",
+      "resolved_at": null,
+      "message": "instead of just saying RSP we should also explore when this was released/why and are there nay important things to highlight from this that was unique to them vs other model companies\n\naka does this say treating claude as an actual entity/and giving it more leeway\n\n(i see we explain some of that in the next slide gfx) would like one to compare rsp vs constitution and diff\n\nbut i dont jus want long table of more words but gets me to the key insight of what differentiates antrhopic and how that conncts to me understanding the larger vision.",
+      "reactions": [],
+      "order_id": "54"
+    },
+    {
+      "id": "1978505956",
+      "uuid": "c0d9a333-3f6b-4843-b1cc-2a4b42f70e95",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:16:48.381Z",
+      "resolved_at": null,
+      "message": "shorter and clearer",
+      "reactions": [],
+      "order_id": "53"
+    },
+    {
+      "id": "1978505793",
+      "uuid": "2f0d8b33-fe15-42bc-9bf3-34708aa15322",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:16:31.944Z",
+      "resolved_at": null,
+      "message": "ST",
+      "reactions": [],
+      "order_id": "52"
+    },
+    {
+      "id": "1978505621",
+      "uuid": "c2f2d4eb-1acc-4cb1-8451-6bfd638595ce",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:16:16.535Z",
+      "resolved_at": null,
+      "message": "This entire slide can be a chart of the leading AI model back and forth",
+      "reactions": [],
+      "order_id": "51"
+    },
+    {
+      "id": "1978505590",
+      "uuid": "5ea13980-6130-440c-9162-336b18cb98e8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978503345",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:16:13.394Z",
+      "resolved_at": null,
+      "message": "but the key insight is this is the shot that started the race condition commercially and had them going to product first/profit etc etc? \n\nagain if true. starting to map incentives and what drives them to take certain actions/set rules/etc",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978505360",
+      "uuid": "90b8be50-4c10-4650-8d05-1e205d7d0965",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:15:51.489Z",
+      "resolved_at": null,
+      "message": "Remove double heading. Make timeline go from left to right",
+      "reactions": [],
+      "order_id": "50"
+    },
+    {
+      "id": "1978505236",
+      "uuid": "6f2cb79b-d67e-4d2e-82d9-381d5aefe9aa",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:15:39.772Z",
+      "resolved_at": null,
+      "message": "The big idea that we're beating around here all the time is saying that it's very expensive to lead the world and it's actually fairly cheap to catch up through distillation. Anthropic is hoping that it can stay ahead and charge a premium because the open models are only 3 months behind it but now it also has other capital-intensive rivals that are close to it, which puts pricing pressure on them. By the way those rivals are extremely well capitalized. They're Gemini, Google, and Meta. They have deeper pockets than Fropic and they're already profitable because they have a huge business. That's the cool idea.\n\nNobody cares about this part. Nobody cares about the artificial analysis index because we already have 6 metrics over here. Again I actually don't know what to make of these metrics except that Gemini is about as good, right? We should never forget what we are giving. What is the real goal here, which is for the reader to understand and to contextualize what's going on?",
+      "reactions": [],
+      "order_id": "49"
+    },
+    {
+      "id": "1978505043",
+      "uuid": "79ce035f-19b3-4cbf-8b0e-89bf1c412051",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978503345",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:15:22.184Z",
+      "resolved_at": null,
+      "message": "how they built up. what models were they developing. for what? what was their launch strat (fyi i dont think they had one. they wanted to just research but were forced to releasing models after 2022 because openai released)\n\nalthough rumor says Altman was pressured to released because he though Dario was dev a commercial version first. aka first inkling of race condition. \n\nhttps://youtu.be/sh8prwwu-U8?si=5xTKQcsa0tUSgvDf&t=1133\n\nagain if you watched this interview i shared a week or so ago. you would know this.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978504226",
+      "uuid": "2b1f4960-f898-4ff1-9d50-c0eabac7a99f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:14:09.798Z",
+      "resolved_at": null,
+      "message": "This is a fine slide but it fails to answer the big question of what's the context around \"why should I care?\" The reason why I should care about the slide is mentioned in the final sentence. What if we just lead with it?",
+      "reactions": [],
+      "order_id": "48"
+    },
+    {
+      "id": "1978503638",
+      "uuid": "5599aba2-5ff9-4e55-a029-632c1a30a4c6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:13:17.205Z",
+      "resolved_at": null,
+      "message": "sloppytoppy",
+      "reactions": [],
+      "order_id": "47"
+    },
+    {
+      "id": "1978503345",
+      "uuid": "ddec0ec8-06e8-442b-aaf3-cc4b708f5592",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:12:52.716Z",
+      "resolved_at": null,
+      "message": "not sure again why we jump to this year. we barely scratched orgiin.",
+      "reactions": [],
+      "order_id": "46"
+    },
+    {
+      "id": "1978503068",
+      "uuid": "375a2af2-849a-4eed-8b85-78a78624e535",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978502300",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:12:30.840Z",
+      "resolved_at": null,
+      "message": "https://x.com/_NathanCalvin/status/2113273917544505798?s=20\n\nhttps://x.com/KelseyTuoc/status/2112771199160008870?s=20\n\nsome of this might not be relevant here so just leaving as resources to digest to see if it applies later on",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978502533",
+      "uuid": "f185c486-1779-479f-aade-872a5b345681",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:11:44.510Z",
+      "resolved_at": null,
+      "message": "One reason leads. This sentence is not a real sentence",
+      "reactions": [],
+      "order_id": "45"
+    },
+    {
+      "id": "1978502300",
+      "uuid": "9820d338-e32f-4a2e-b45f-8cf64705df76",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:11:26.212Z",
+      "resolved_at": null,
+      "message": "https://x.com/DarioAmodei/status/2112732230124818891?s=20\n\ndario speaks on the costly trade off they made for safety. new post this week. read and verify. also see quote tweets that disagree with him/back and forth.",
+      "reactions": [],
+      "order_id": "44"
+    },
+    {
+      "id": "1978502107",
+      "uuid": "f4e17904-7a05-4f8c-8071-0074627f3fc0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:11:09.990Z",
+      "resolved_at": null,
+      "message": "I think this should just be: if the previous slide is \"capability gap between the closed models,\" this should be \"capability gaps between closed and open.\"",
+      "reactions": [],
+      "order_id": "43"
+    },
+    {
+      "id": "1978501768",
+      "uuid": "3284aa63-2e3e-406f-9004-ec36fd6ea8ea",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:10:41.442Z",
+      "resolved_at": null,
+      "message": "is it important to know who these are/their beliefs? how they chose them/what they optimize for? \n\nesp if these are the ones who have ultimate power (do they?)",
+      "reactions": [],
+      "order_id": "42"
+    },
+    {
+      "id": "1978501737",
+      "uuid": "5e639014-4a80-427b-8c38-71f060c5b0f2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:10:39.049Z",
+      "resolved_at": null,
+      "message": "I find this slide somewhat useless because what does it mean that they sit within 6 points at the top? This is an index. This is the map not the territory.\n\nIf we want to show that this is a tight race, we should show the capabilities over time to see that it is a very very very tight race and how that impacts this. In and of itself it doesn't tell me much because it's an index. It's like, \"Oh yeah.\" You could put the index anywhere and if you index it to... this could be 58,000 and this could be 30,000, right?\n\nPut it a different way: it's like an index. It doesn't mean that much. The question from me to you, rather, is: what is the purpose of this?",
+      "reactions": [],
+      "order_id": "41"
+    },
+    {
+      "id": "1978501314",
+      "uuid": "9808ed6a-08f1-47f9-a7a7-22c50e29bf14",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:10:01.905Z",
+      "resolved_at": null,
+      "message": "i like going into org structure. i want to see if it evolved. \n\naka when they first started company what did it look like vs what it will look like today. \n\njust to see what guided their decisoins/tradeoffs/goals. \n\nagain how they structure HEAVILY informs how the reader should understand their true goals. \n\naka who gets control and who makes decisions and why. \n\nagain i think this company is unique because they are making it as hard to be forced into a profit only race condition and becuase they genuinely think they are creating intelligence/last tech on earth -> they need to build it diff than a rando saas product.\n\n^again dont assume im right. see if research backs this or im tlaking out my ass.",
+      "reactions": [],
+      "order_id": "40"
+    },
+    {
+      "id": "1978500901",
+      "uuid": "4c175d1b-be4e-4062-9ab1-351053eb1184",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:09:24.781Z",
+      "resolved_at": null,
+      "message": "Sounds hyperbole and untrue",
+      "reactions": [],
+      "order_id": "39"
+    },
+    {
+      "id": "1978500440",
+      "uuid": "11f7fa0e-64e0-4142-95a9-65c5e91f1156",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978498924",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:08:46.122Z",
+      "resolved_at": null,
+      "message": "Alternative\n\nik it's OpenAI but if point is about AI researchers... may make sense:\n\nhttps://x.com/EpochAIResearch/status/2107174397698289762?s=20",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978499852",
+      "uuid": "ac3fa98b-c574-4d7f-b5d0-c698857dbb6d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:07:56.296Z",
+      "resolved_at": null,
+      "message": "id be more intereste din origin of who tf funded them, where did they spend their money and on what reserach. what guided them etc. \n\nnot these numbers. these can come later (and when s1 udpates).",
+      "reactions": [],
+      "order_id": "38"
+    },
+    {
+      "id": "1978499284",
+      "uuid": "da9f2f9d-9d65-4854-93fa-78b9928c9f92",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:07:03.982Z",
+      "resolved_at": null,
+      "message": "idk why we go into this. seems irrelevant to origin story. i feel lik we skipped so much juice just to share $$ that will change anyways. \n\nthis chapter should feel more evergreen",
+      "reactions": [],
+      "order_id": "37"
+    },
+    {
+      "id": "1978498924",
+      "uuid": "5fcc03a6-6b9e-4235-bd2c-61bc3df18087",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:06:33.400Z",
+      "resolved_at": null,
+      "message": "I've seen this chart and this data point more times than I've seen my mom in the last 12 months and so I think we don't want to use it here",
+      "reactions": [],
+      "order_id": "36"
+    },
+    {
+      "id": "1978498680",
+      "uuid": "a9488bcb-492c-4541-a990-d8a09e20ed73",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978495510",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:06:09.317Z",
+      "resolved_at": null,
+      "message": "vet all this. dont just accept. chase it down for full accuracy not hearsay. this is also true for any note/research i share. dont believe what i say. i could be talking out my ass or wrong. im going off what i read previously to guide my taste, but judgement might still be wrong.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978497377",
+      "uuid": "6fda490c-a92f-4e48-a817-c9aeb09f91a8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978497174",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:04:11.201Z",
+      "resolved_at": null,
+      "message": "idk what \"winning on efficency\" means and \"rivals copy efficency\"",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978497174",
+      "uuid": "d26aadac-81bc-4bb4-8678-2b08a02c67f8",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:03:52.748Z",
+      "resolved_at": null,
+      "message": "writing is mushy. trying to say too many things at once and how much of this is evidence vs editorialiing? \n\ni through they won as strategy for laser focus on just the idea of RSI. \n\nmake coding good to accelerate coding to make better AI? vet if this is actual strategy/true.",
+      "reactions": [],
+      "order_id": "35"
+    },
+    {
+      "id": "1978496189",
+      "uuid": "a8212b91-5700-4d3c-a533-bef3f5a4c040",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:02:30.736Z",
+      "resolved_at": null,
+      "message": "Content without context. Why are we talking about how the no-lab-stop model is also cheap? Why are we doing this whole text? I don't understand why I'm looking at this. And I also don't understand why we use this chart when it comes to what raising superintelligence looks like. \n\nThat doesn't mean it's a bad chat to use. It just means that we failed at the task of contextualizing it \n\nAnd my second order objection would be: if it's smarter than humans, who cares if it costs $3 a task or $0.01 a task?",
+      "reactions": [],
+      "order_id": "34"
+    },
+    {
+      "id": "1978495586",
+      "uuid": "ba5e6b43-0d1d-4897-a0ee-aee1b9c564e9",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:01:42.878Z",
+      "resolved_at": null,
+      "message": "As flagged in the introduction this needs a better title",
+      "reactions": [],
+      "order_id": "33"
+    },
+    {
+      "id": "1978495510",
+      "uuid": "3a921fa6-1970-40ce-995f-39b747f4f2e2",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T03:01:35.601Z",
+      "resolved_at": null,
+      "message": "as in openai was not serious enough with alignment research. \n\n^again vet if this is the true reason they left. because it is very important to lay down the philosophical groundwork WHY the company split. \n\nbecause if it is true that SAFETY was the core their actions today make 100% more sense. not just a regulatory cash grab, because before there was even $1 of revenue, their focus was on aligning superintellligence and safety. this gives people the inside knowledge, not conspiracy speculation.",
+      "reactions": [],
+      "order_id": "32"
+    },
+    {
+      "id": "1978495496",
+      "uuid": "5d1b3e32-fde6-461b-9e15-217dd946bb8b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:01:34.668Z",
+      "resolved_at": null,
+      "message": "We're ending the introduction and it never, except for the very first slide, felt like an origin story of Anthropic (which either is on purpose or it's not on purpose). That is definitely something we need to change.\n\nThis didn't feel like an introduction. I felt like I got thrown right into the facts before getting any context, which was very confusing to me. There's also no transition to section two. It's like, \"Why are we going to talk about superintelligence?\" Introduction and hook need a lot of work",
+      "reactions": [],
+      "order_id": "31"
+    },
+    {
+      "id": "1978494920",
+      "uuid": "89ce12be-f0e0-449c-898d-41862d0e2aac",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:00:42.327Z",
+      "resolved_at": null,
+      "message": "This chart right here, I think we should just replace with a Sankey diagram of Anthropic's revenue streams we can create one of those using SEM analysis data, ramp data, and public data",
+      "reactions": [],
+      "order_id": "30"
+    },
+    {
+      "id": "1978494495",
+      "uuid": "269e058e-e142-455e-bce9-630738c0db44",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T03:00:09.320Z",
+      "resolved_at": null,
+      "message": "I like the chart. I feel like how it's used to model is just four different ways of saying that it's in the systems prompt but I could be wrong. I also don't know what the distinctive feature is. Sounds super weird on all of those except for Claude. I think the punchline is that it can refuse Anthropic itself. The distinctive feature of Google covers the consumer Gemini app. I don't know what to do with that information. Feel like you would kind of maybe force the visual",
+      "reactions": [],
+      "order_id": "29"
+    },
+    {
+      "id": "1978493759",
+      "uuid": "bfd5c40e-ee09-4267-a877-807f3046d4f4",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:59:04.960Z",
+      "resolved_at": null,
+      "message": "This is also interesting and it's an interesting piece of content but we're going pretty far ahead here again while we're still technically talking about the origin story. I feel like it's slightly misplaced. As I read more of the deck, I guess I'll know where we should put this",
+      "reactions": [],
+      "order_id": "28"
+    },
+    {
+      "id": "1978493193",
+      "uuid": "b9eb1342-e81e-4b8b-875b-f45ab27a5fa0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:58:18.342Z",
+      "resolved_at": null,
+      "message": "I do not know what narrowing a safety rule means. I feel like the interesting thing about this slide is: what does it cost to opt for safety or to choose integrity? That is interesting in and of itself but I'm still puzzled as to why we put it here because there is no context around it.\n\nI think with this whole introduction we just need to go way, way deeper into the actual origin story. Here I feel like there should be a timeline graph rather than what it is right now. Maybe we could even have a timeline graph back to 2021, when we found Anthropic to be about AI safety or something. If you have that as a quote, you just have that over time and you can see how they've changed that",
+      "reactions": [],
+      "order_id": "27"
+    },
+    {
+      "id": "1978492185",
+      "uuid": "15982c18-6f61-4416-a307-570d3563f66d",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:56:55.191Z",
+      "resolved_at": null,
+      "message": "I think this is a decent slide because it does provide some input. The visual on the right looks quite amateurish but I'm okay with it. Again I don't understand why we're talking about it going public and all these things in the introductory section where we talk about Enflopic's origin story. It feels extremely misplaced to me",
+      "reactions": [],
+      "order_id": "26"
+    },
+    {
+      "id": "1978491645",
+      "uuid": "fa7b9a0a-3529-43d6-8cc8-1fe6111dc26f",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:56:13.171Z",
+      "resolved_at": null,
+      "message": "On another note I feel like slide 11 started with the backstory of Anthropic and now suddenly we're looking at its financials. I don't understand how we got here or what the job of that was because now we jumped right away to 2025, which is 4 years after 2021. I don't understand how we jumped that fast and why. I'm looking at this right now and we're also looking at Q3 of 2026 already, when, again, we're writing about Anthropic's origin story. We started with Dario going on a journey after realizing something at OpenAI and now we're here.",
+      "reactions": [],
+      "order_id": "25"
+    },
+    {
+      "id": "1978490924",
+      "uuid": "23b536a3-0a2a-4534-a0fa-62f817a10e98",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:55:14.799Z",
+      "resolved_at": null,
+      "message": "I don't like this heading because it doesn't sound that memorable. It sounds like it's going longer than it needs to be but I'm not going to tear this slide apart because it might change with the S1",
+      "reactions": [],
+      "order_id": "24"
+    },
+    {
+      "id": "1978490683",
+      "uuid": "77c1795f-4753-4754-9f86-225c399135b6",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:54:55.351Z",
+      "resolved_at": null,
+      "message": "There's another version of this kind of bar chart that you can make where it goes down with the operating loss. It's not just four piles next to each other because now your brain thinks that they're all revenue but really revenue should be up. Compute and infrastructure should be down and then operating loss should be the difference between the two. It should also be shown in a different format here, of course, like with the one-by-one thing and the chart style but we're transferring the",
+      "reactions": [],
+      "order_id": "23"
+    },
+    {
+      "id": "1978490074",
+      "uuid": "e26df2be-870c-46ae-a97b-1634b75b6bf3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T02:54:03.935Z",
+      "resolved_at": null,
+      "message": "this is good to show his viewpoint. but to make it hit harder i believe we should find a quote or proof that he had this belief a decade earlier. \n\nand this was actually the key reason they fought at openai before leaving.",
+      "reactions": [],
+      "order_id": "22"
+    },
+    {
+      "id": "1978489864",
+      "uuid": "114e6cf3-ae0e-49a8-9b8e-65945cc80d92",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:53:47.249Z",
+      "resolved_at": null,
+      "message": "And I also wonder if we could even combine these three because these are kind of the three main factors that decided how smart AI models were (at least before the dataset size couldn't increase that much, right?). For a while it was just more compute, more datasets, more parameters: throw that at it and just train, train, train. I feel like, I don't know if we could put them all in one because they have different scales but it's just, yeah",
+      "reactions": [],
+      "order_id": "21"
+    },
+    {
+      "id": "1978489534",
+      "uuid": "2718e947-2910-4a5b-a858-8c30c4553fe0",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:53:18.629Z",
+      "resolved_at": null,
+      "message": "I actually think all of these, given that we say, \"Throw more compute at it, the better they get.\" This is kind of the inverse: the test loss goes down so that means you get fewer errors. I think the better one would be if you just invert the chart so it just goes up. It gets better if it goes up. I feel like that would be pretty good or just clearer",
+      "reactions": [],
+      "order_id": "20"
+    },
+    {
+      "id": "1978489298",
+      "uuid": "9d429524-36fc-450b-8640-1bacbc0ddf29",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:52:54.871Z",
+      "resolved_at": null,
+      "message": "And also maybe we could even say something like they show or they prove something, which is today a mundane insight or almost table stakes: if you throw more compute at more data, you make smarter AI models",
+      "reactions": [],
+      "order_id": "19"
+    },
+    {
+      "id": "1978489052",
+      "uuid": "10f15643-241f-4745-a05d-45826bab5271",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:52:35.482Z",
+      "resolved_at": null,
+      "message": "This visual exists to make a point clear but I look at it and even after looking at it for 10 seconds I do not understand what the takeaway of it is. We need to present it in a different way",
+      "reactions": [],
+      "order_id": "18"
+    },
+    {
+      "id": "1978488796",
+      "uuid": "a68deacd-af08-4ed9-8d48-a8845e50a272",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:52:14.547Z",
+      "resolved_at": null,
+      "message": "This sounds intangible and fluff \n\nMake it clearer \n\nThat pattern that you have in your writing is this kind of passive voice, which is like \"X decides this, this, this.\" The active voice would say \"or like the company.\" It's like \"Anthropic,\" right? What we're talking about is very passive. That is a pattern in all this copy I'm seeing quite often. That we need to have the whole \"pass on\"",
+      "reactions": [],
+      "order_id": "17"
+    },
+    {
+      "id": "1978488248",
+      "uuid": "f667b1ff-096c-43ae-862b-87678714c24b",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:51:29.556Z",
+      "resolved_at": null,
+      "message": "If you want to make this feel like a narrative, you should say, \"Only a few months after publishing that paper, Amodei and six other people left, right?\" Then you have the same idea but you just tell it so much more beautifully because then you show this causality and flow, which is really cool",
+      "reactions": [],
+      "order_id": "16"
+    },
+    {
+      "id": "1978487986",
+      "uuid": "466f0526-19e2-48bc-bf73-cc1254a9073e",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:51:07.120Z",
+      "resolved_at": null,
+      "message": "The first sentence here reads awkwardly. It's like you're throwing in Dario in the middle there. I would just do: In 2020, [one of the leading AI researchers at] OpenAI published a paper on [thing]. His name was Dario A. / or \"One of the authors was Dario\"\n\nMaybe we can even take a screenshot of that paper and, in yellow, highlight his name. I don't know if that would look good but I feel like that could be this kind of investigative style",
+      "reactions": [],
+      "order_id": "15"
+    },
+    {
+      "id": "1978487743",
+      "uuid": "314b4565-6151-4051-bf21-63299bde115a",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "1978481366",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T02:50:46.288Z",
+      "resolved_at": null,
+      "message": "https://www.figma.com/slides/i5FzTzGbIWaJAHBbm6AMDJ\n\nexample of latest deck and its design. its also on github. have your ai read/download it and see if it can execute against it.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "1978486454",
+      "uuid": "9a525fa1-1294-4d86-97d7-e72ef3a16433",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:49:05.314Z",
+      "resolved_at": null,
+      "message": "make shorter and clearer.",
+      "reactions": [],
+      "order_id": "14"
+    },
+    {
+      "id": "1978485802",
+      "uuid": "1a88c6a2-d2b1-4d87-86a2-c6bc63246709",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:48:13.457Z",
+      "resolved_at": null,
+      "message": "Face of Dario should be centered and not cut off in the middle",
+      "reactions": [],
+      "order_id": "13"
+    },
+    {
+      "id": "1978485633",
+      "uuid": "842689a5-1fc2-4412-af1d-1f772ce46a59",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:47:59.752Z",
+      "resolved_at": null,
+      "message": "This idea, we introduced in the previous slide we also introduced the fact that staying ahead is the hard part before the entire three intro slides just needed a lot of rework",
+      "reactions": [],
+      "order_id": "12"
+    },
+    {
+      "id": "1978484872",
+      "uuid": "9de27bba-1597-4925-9406-aa5889d9acb4",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:47:00.691Z",
+      "resolved_at": null,
+      "message": "This entire slide, I'm unhappy with because it is unclearly written and I feel like we have some sloppiness in the copy. The chart itself says Epoch AI is the source. It also says that this is the combined annualized revenue of OpenAI and Anthropic. We could save us the entire first paragraph here if we just gave OpenAI and Anthropic different colors in the chart because then the reader could see that Anthropic's share in August was $65 billion\n\nI also don't understand how this goes together with the first slide. If you want to show that unropic leads only last while it's moving, we should use a different chart. We should have the lead chart of different AI models and how smart they are. I think here we're introducing, or just asking for, a safe phase a little bit earlier.\n\nWith this one I'm actually really confused why we have it here. I'll see if I learn something more as we go to the third one but this slide in general, I'm just not that happy with, for all the reasons I already mentioned.\n\nThe main idea here is that it's kind of a self-reinforcing loop. It's like a flywheel, right? If you make a lot of money you can pay more for compute and all those things. That's the compelling idea but that's buried over here, not said that clearly. Paying for the next generation of computers already introduces a need for compute, which we didn't cover before, and a need for that money. We just go five steps too fast right now.",
+      "reactions": [],
+      "order_id": "11"
+    },
+    {
+      "id": "1978482126",
+      "uuid": "b13d69be-9442-42d4-b1ba-8a8e8737c09a",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:43:28.918Z",
+      "resolved_at": null,
+      "message": "This doesn't land well for me as the first sentence of the deep dive because we go into the content without the context. It might be worth mentioning that there needs to be some form of massage introduction, right? It throws me right into it. In 5 weeks, right? I would like you to could start on a date and tell that story or something else but here you just get thrown right into it. You kind of feel like, \"Why am I looking at this?\" That's the main thing and that's where we need to clean this up \n\nAs I go through the other slides, I might have thoughts on which direction or in which order we do the slides",
+      "reactions": [],
+      "order_id": "10"
+    },
+    {
+      "id": "1978481366",
+      "uuid": "03e10d35-8d50-4963-a0ac-a8b1dbf5ad87",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:42:24.296Z",
+      "resolved_at": null,
+      "message": "I would also just move these sources down to the actual bottom of the source",
+      "reactions": [],
+      "order_id": "9"
+    },
+    {
+      "id": "1978481281",
+      "uuid": "06ea97d9-4554-4bda-a362-40d5ae9a6877",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:42:16.472Z",
+      "resolved_at": null,
+      "message": "As a general rule for the deck I don't want any double headings so I want the timeline to be in here and just clarify 2026 somewhere else so that that is clear. I think we can actually more visually beautifully design this. We can also make the actual visual itself go full width. I think we have some good templates for that",
+      "reactions": [],
+      "order_id": "8"
+    },
+    {
+      "id": "1978480786",
+      "uuid": "ec691b05-2d43-4d2e-8f9c-f5dfa91f9515",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:41:33.733Z",
+      "resolved_at": null,
+      "message": "02\n03\n04\n\n08\n\nAre not 8/10 compelling enough\n\nThey're more so descriptions of understanding something rather than something that actually piques intrigue",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2026-10-23T12:35:07.224Z",
+          "user": {
+            "id": "1560247887461643387",
+            "handle": "Rajath",
+            "img_url": "https://s3-alpha.figma.com/profile/a66bcceb-7d8b-4df4-80b1-31f315391e70"
+          }
+        }
+      ],
+      "order_id": "7"
+    },
+    {
+      "id": "1978480161",
+      "uuid": "b222f650-649c-46a0-a0c5-63c0dadebde3",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:40:43.939Z",
+      "resolved_at": null,
+      "message": "Stylistic choice but I would say let's start to remove the \"Introduction:\" at start of our 1st section\n\nit's implied",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-10-23T12:34:33.345Z",
+          "user": {
+            "id": "1560247887461643387",
+            "handle": "Rajath",
+            "img_url": "https://s3-alpha.figma.com/profile/a66bcceb-7d8b-4df4-80b1-31f315391e70"
+          }
+        }
+      ],
+      "order_id": "6"
+    },
+    {
+      "id": "1978480062",
+      "uuid": "81f3086e-8243-4f8a-ba64-05d181dc7060",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T02:40:35.318Z",
+      "resolved_at": null,
+      "message": "this is not a bad intro. i like the timeliness to explain a contradiction of claims the company is making as a hook and assuming we answer it, it could work.\n\npotentially the other way to hook is to show what the vision is for the company and what they are trying to sell their investors on. \n\nlike his 2024 essay where he believes what they are making will allow them to crunch a century of human progress into this decade. \n\nhttps://darioamodei.com/essay/machines-of-loving-grace\n\n\"We can make 100 years of progress in areas like biology in five or ten years if we really get this A.I. stuff right.\"\n\"If you think about what we might expect humans to accomplish in an area like biology in 100 years, I think a doubling of the human lifespan is not at all crazy\"\nhttps://observer.com/2025/01/anthropic-dario-amodei-ai-advances-double-human-lifespans/#:~:text=%E2%80%9CIf%20you%20think%20about%20what%20we%20might,Up%20For%20Our%20Daily%20Newsletter.%20Sign%20Up.\n\nbasically what would be a vision the CEO has that would make people go wow. \n\nsimilar to how in spacex elon mission is to expand to the stars to spread conciousness. mars. etc. \nneuralink, merge with machines increase throughput as ultimate vision guiding them. \n\nfor anthropic we have another such crazy visionary ceo/company mission. they are not another saas company just trying to compound rev. we want to make sure our reader feels the impact of that.",
+      "reactions": [],
+      "order_id": "5"
+    },
+    {
+      "id": "1978479784",
+      "uuid": "0aea721e-b647-414a-9a16-7acf1a574ff7",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:40:10.395Z",
+      "resolved_at": null,
+      "message": "@Rajath add your actual editor's note here with what your vision for it is/was",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-10-23T12:34:26.801Z",
+          "user": {
+            "id": "1560247887461643387",
+            "handle": "Rajath",
+            "img_url": "https://s3-alpha.figma.com/profile/a66bcceb-7d8b-4df4-80b1-31f315391e70"
+          }
+        }
+      ],
+      "order_id": "4"
+    },
+    {
+      "id": "1978479527",
+      "uuid": "77019e08-ea55-4763-b6bc-356481ac542a",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "Nils",
+        "img_url": "https://s3-alpha.figma.com/profile/2b594374-30c3-4f1c-bb83-6442c9cf706a",
+        "id": "1342433176808618653"
+      },
+      "created_at": "2026-10-23T02:39:51.017Z",
+      "resolved_at": null,
+      "message": "need more intriguing title\n\ni.e. \"Anthropic: The World's Last Company?\"\n\nor \n\n\"Is Anthropic Worth $2 Trillion?\"",
+      "reactions": [],
+      "order_id": "3"
+    },
+    {
+      "id": "1978479231",
+      "uuid": "521ddda6-8fa3-404b-a548-27e598819834",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T02:39:27.806Z",
+      "resolved_at": null,
+      "message": "show dont tell when you have a good claim.\n\naka show me how often claude was #1 on frontier vs replaced.\ncuz off memory it seemed like it was always ahead for at least the past few releases.",
+      "reactions": [],
+      "order_id": "2"
+    },
+    {
+      "id": "1978476814",
+      "uuid": "c4ed031f-c81a-42dd-868a-374f9c8ee1e9",
+      "file_key": "19fg4pRpmyAKp7NtAljsZF",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-10-23T02:36:17.477Z",
+      "resolved_at": null,
+      "message": "if we make this as the hook i think better graphic to show them speeding up while saying slow down is the chart of model releases happening faster while capabilities go exponential across fields.",
+      "reactions": [],
+      "order_id": "1"
+    }
+  ]
+}

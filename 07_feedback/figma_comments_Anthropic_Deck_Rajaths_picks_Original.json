@@ -1,0 +1,1076 @@
+{
+  "comments": [
+    {
+      "id": "2003223911",
+      "uuid": "03793215-6b3a-4126-8949-a4d5d6c5019b",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:11:39.505Z",
+      "resolved_at": null,
+      "message": "not just that it happend, but why did it happen?",
+      "reactions": [],
+      "order_id": "55"
+    },
+    {
+      "id": "2003223233",
+      "uuid": "34bafb62-8140-41aa-879b-0c01d150039e",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:10:57.969Z",
+      "resolved_at": null,
+      "message": "honestly i reach this point and dont know what i spent the last couple hours really reading. what was an insight worth paying for? \n\nmaybe the insight on anthropic at risk of nationalization as a tail risk other companies dont have (would be worth it if we actually explained why or what would cause that risk)\n\nwould have loved a org strcuture with allt he voting power/who what where data all in one gfx. would be worth the immediate share to always ref back to who holds what power over who and why. \n\nthe rest felt more all over the place. like what does matching donation shares have to do with control and rules? etc etc. \n\ndid we explore who they fund or what the rules outside of the company they are trying to push for?",
+      "reactions": [],
+      "order_id": "54"
+    },
+    {
+      "id": "2003220308",
+      "uuid": "e53d5b9a-ed8c-4a39-9ed2-c44a58179532",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003220100",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:08:01.147Z",
+      "resolved_at": null,
+      "message": "makes no sense to me",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003220100",
+      "uuid": "235d6383-238b-4435-887c-72ed375ad3ad",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:07:48.254Z",
+      "resolved_at": null,
+      "message": "ugh ai language. also repeating concepts + random quote on if this set of people cant do it has nothing to do with chapter focus on what rules/who control. idk writing feels all over the place mixing concepts with internal all hands dario vision quests and then founders, then structure trust while public holds least?",
+      "reactions": [],
+      "order_id": "53"
+    },
+    {
+      "id": "2003218384",
+      "uuid": "38c000a7-d2ea-4d46-a60d-5386ccf591d9",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:05:48.522Z",
+      "resolved_at": null,
+      "message": "idk what this slide is saying? \n\npublic investors are worst off becuase sthey hold class A shares? huh? \n\nwhile chip makers and everyone above it does what? they have diff class shares? more votes? no shares but contracts that hold compute debt?",
+      "reactions": [],
+      "order_id": "52"
+    },
+    {
+      "id": "2003216501",
+      "uuid": "0a34e7a6-c3ad-4b21-bf2e-b48d7ab1a2eb",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:03:23.834Z",
+      "resolved_at": null,
+      "message": "what are the 3 points? what is 7, 8, 9? what? im confused what context did we just leave out",
+      "reactions": [],
+      "order_id": "51"
+    },
+    {
+      "id": "2003215027",
+      "uuid": "f82702a9-30b4-45ed-a32a-5bf0d1e34db5",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:01:50.478Z",
+      "resolved_at": null,
+      "message": "so it could build before it had to sell. \n\nanyone else think thats weird way to end of sentence and feels ai feel?",
+      "reactions": [],
+      "order_id": "50"
+    },
+    {
+      "id": "2003214313",
+      "uuid": "dd5d5d75-bb67-4791-8d5a-d0a043cd1af2",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:01:04.528Z",
+      "resolved_at": null,
+      "message": "this slide seems like a cold pivot. these funding orgs are more about shaping policy outside of ant?",
+      "reactions": [],
+      "order_id": "49"
+    },
+    {
+      "id": "2003213470",
+      "uuid": "83de7d22-3ac3-4bb6-95ff-71b7d01cd8a3",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T05:00:10.369Z",
+      "resolved_at": null,
+      "message": "im confused we mention these companies but not what they are doing.",
+      "reactions": [],
+      "order_id": "48"
+    },
+    {
+      "id": "2003212793",
+      "uuid": "b21207ef-8458-4040-941c-e9cf7e594bfa",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:59:31.983Z",
+      "resolved_at": null,
+      "message": "is FLI future of life instutite? if so should spell out or confusing to those without context",
+      "reactions": [],
+      "order_id": "47"
+    },
+    {
+      "id": "2003212332",
+      "uuid": "c61fceae-eaf1-40ed-a3ab-59a48d0dd4c0",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:59:03.065Z",
+      "resolved_at": null,
+      "message": "jaan also funds future of life institute and other things like control ai?",
+      "reactions": [],
+      "order_id": "46"
+    },
+    {
+      "id": "2003211773",
+      "uuid": "7fa07da2-55ec-40b1-983c-428c61c78c47",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:58:27.728Z",
+      "resolved_at": null,
+      "message": "Who checks the checker, and who pays them? Follow the money around the fight.\n\nis this a transition sentence to the next slide? if so are we insinuating coefficient and leading hte future are related to what? metr? something else? im confused",
+      "reactions": [],
+      "order_id": "45"
+    },
+    {
+      "id": "2003198151",
+      "uuid": "82be0d94-310c-4d31-b41f-1a574879df93",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2002837095",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:44:45.153Z",
+      "resolved_at": null,
+      "message": "AI found these updates necessary: \n“May imminently meet” is gone. It now says Anthropic “made a determination that we have met this threshold,” based on expected future models, not current ones.\n* Computing commitments are $900.9 billion, up from $895.4 billion.\n* The price range is $70 to $78 a share. The filing prints no valuation, so I cannot confirm $1.4 trillion.\n\nmy source for 1.4 tril: https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003195992",
+      "uuid": "1141e052-dfb4-45c6-8e89-99db69c6e223",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003195279",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:42:41.299Z",
+      "resolved_at": null,
+      "message": "only time i would use quotes is if its an actual full quote page or more full sentence pulling a point directly from a person saying it. vs just random source article.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003195279",
+      "uuid": "597289c0-5aca-4db5-8b87-1f9e19c3ecfb",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:42:02.860Z",
+      "resolved_at": null,
+      "message": "also lets avoid using scare quotes everywhere in the deck. even if it is a direct quote it can be read well without it. its a sign of opus 5.5 and claude family models. they love putting \"\" over words all throughout.\n\nit reads just as fine without quotes.",
+      "reactions": [],
+      "order_id": "44"
+    },
+    {
+      "id": "2003155505",
+      "uuid": "2bde49b2-1d09-44dd-9708-c9828a766d65",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T04:00:57.530Z",
+      "resolved_at": null,
+      "message": "we repeat this line \"right to be careful\" so often it gets overbearing. i think we can do a better job condensing some concepts to hit hard and hit once, maybe repeat at the conclusion again once, but not so often.",
+      "reactions": [],
+      "order_id": "43"
+    },
+    {
+      "id": "2003071139",
+      "uuid": "2cf4ce3a-03d7-4948-9c2a-2de224c95c57",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003069205",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:24:11.423Z",
+      "resolved_at": null,
+      "message": "the grok version of the deck answered it with \"SignalFire credits culture and autonomy, and its partner Heather Doshay says the mission and safety culture are the draw, not pay.\"\nhttps://www.figma.com/slides/mthMKPOq1WzFb37rrFVhe7/Anthropic---Grok-Bot?node-id=0-1&p=f&t=gueJ4nwU371sEljR-0",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003069205",
+      "uuid": "eff351cf-59fa-4d66-bb35-f09e9355dc9f",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:22:04.151Z",
+      "resolved_at": null,
+      "message": "i feel like our previous insight on the direction of the leave was more important than just the growth. and because it was signaling what makes ant UNIQUE vs other labs. we still didnt crack that question from my comment i left weeks ago.",
+      "reactions": [],
+      "order_id": "42"
+    },
+    {
+      "id": "2003066643",
+      "uuid": "24098f09-351c-4a9c-8557-13e9375aa81d",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:19:10.499Z",
+      "resolved_at": null,
+      "message": "i know you said we would talk about the other founders in the rest of the deck, but i couldnt find the info im looking for. aka what is each cofounder responsible for, what is driving them/their priorities/what kept them together/organized etc. @Nils",
+      "reactions": [],
+      "order_id": "41"
+    },
+    {
+      "id": "2003064717",
+      "uuid": "02a23f5b-a690-4a9e-998d-7546940c7270",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003060645",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:16:54.870Z",
+      "resolved_at": null,
+      "message": "https://x.com/AndrewCurran_/status/2120184484725428724?a=rHvg1vHr0EkS1f67Dqo&s=20",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003062795",
+      "uuid": "c2a1eb88-c610-4756-89dd-1207a83b2fe8",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:14:38.098Z",
+      "resolved_at": null,
+      "message": "but this is over 5 years right? makes it seem like 1 year to 1 year of rev not accurate way to represent?",
+      "reactions": [],
+      "order_id": "40"
+    },
+    {
+      "id": "2003061068",
+      "uuid": "e1918735-be95-445d-ad42-d8d1d389e79b",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:12:31.814Z",
+      "resolved_at": "2026-11-11T02:13:41.249Z",
+      "message": "like why are we doing this type of text boxing? :cry:",
+      "reactions": [],
+      "order_id": "39"
+    },
+    {
+      "id": "2003060645",
+      "uuid": "8a9bf44e-d6bc-4826-84b9-c9dba113ee21",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:11:59.899Z",
+      "resolved_at": null,
+      "message": "https://x.com/RyanGreenblatt/status/2118447235289817503?a=VOFSwKGqT8CpTqGZRFg&s=20\n\nmetr latest study basically says they met it",
+      "reactions": [],
+      "order_id": "38"
+    },
+    {
+      "id": "2003053992",
+      "uuid": "2f5cceb3-4c48-4029-92d8-9753868a04ff",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003051755",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:03:30.157Z",
+      "resolved_at": null,
+      "message": "it makes me miss how we wrote china part 1 and 2.. had more of a human touch in how we titled. was descriptive, sometimes bold/witty but not cringey or fake profound/aphoristic. same with the overal writing in this whole deck. \n\nim assuming 99% of it was written all by ai and thats why i keep feeling this ick with the style, but more biggre issue than just style is, ai doesnt understand that i dont understand everything it read, and im a layman trying to parse all this info/random context and cold pivots. like it explains some concepts like i already read the s1 or know what certain class shares are or what all these numbers reference.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003051755",
+      "uuid": "2f9ac564-029f-47dc-b0f2-3bd8637b08c2",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T02:00:28.209Z",
+      "resolved_at": null,
+      "message": "again just gonna cal out that almost all headlines are too long and ai wordy style.",
+      "reactions": [],
+      "order_id": "37"
+    },
+    {
+      "id": "2003051218",
+      "uuid": "b64634a0-7d73-41bf-91d8-b5ca4d0ed700",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:59:46.564Z",
+      "resolved_at": null,
+      "message": "so interesting takeaway for anthropic as company is they are incentivizing their staff to donate. \n\nim now more interested in WHAT they are donating to. because that will be the knock on effect of all this wealth generation..\n\nis it woke stuff? ai safety stuff? adopting puppies?",
+      "reactions": [],
+      "order_id": "36"
+    },
+    {
+      "id": "2003050313",
+      "uuid": "e68ea401-478c-4663-a055-d1bacee07c30",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:58:34.602Z",
+      "resolved_at": null,
+      "message": "something about this writing again is very ai messy and unclear in its structure and word choicing.. am i the only one who feels that? @Nils @Rajath",
+      "reactions": [],
+      "order_id": "35"
+    },
+    {
+      "id": "2003048936",
+      "uuid": "0a0e152b-cb35-4d59-b656-188ee3a352e3",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:56:44.882Z",
+      "resolved_at": null,
+      "message": "also random design note. what is the rule for whne titles go halfway or 2/3 or fully across the top? doesnt seem consistent?",
+      "reactions": [],
+      "order_id": "34"
+    },
+    {
+      "id": "2003041946",
+      "uuid": "5f24e79f-0be5-444c-8a6f-bb5fbc08fd18",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003041179",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:47:30.821Z",
+      "resolved_at": null,
+      "message": "also the timeline gfx can be more clear on the cause behind the nationalization, not just that it happened. maybe shading areas and labeling WW2, \"x strike\" or recession or whatever caused the nationalization because as a reader i want to know what anthropic is likely to trip over that makes them list that risk vs other companies.",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003041179",
+      "uuid": "3dc1bce9-fbd3-4ec1-a32a-710cb25d4c62",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:46:26.221Z",
+      "resolved_at": null,
+      "message": "these headlines are very ai writteny style and make sthe takeaway of the slide actually more confusing. \n\ni would have gottn more clarity if the writing overall was more clear. \n\n\"Even with the founders controlling 50.1% of the vote, there is still a risk that the company can be nationalized. In previous eras it was mainly due to war and crisis. In Anthropic's case, as capabilities increase and cross over with national security etc etc\" idk actual facts of s1 and where they see the risk coming from but that would better intro me to this concept.",
+      "reactions": [],
+      "order_id": "33"
+    },
+    {
+      "id": "2003039434",
+      "uuid": "07511ea5-afaf-41c9-b385-cc39f020b602",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:44:05.317Z",
+      "resolved_at": null,
+      "message": "sorry im confused what these examples have to do with anthropic?",
+      "reactions": [],
+      "order_id": "32"
+    },
+    {
+      "id": "2003038537",
+      "uuid": "5cbc1865-d93f-4a84-8eaf-41ecd46c5fa6",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003037979",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:42:50.781Z",
+      "resolved_at": null,
+      "message": "class f and e redeemed by us for no consideration?\n\nthis is like s1 legal jargon speak and means nothing to me as a reader and what it actually means or why it matters",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003037979",
+      "uuid": "d980a177-507a-4d8b-9d98-e854bf0f2bc0",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:42:07.084Z",
+      "resolved_at": null,
+      "message": "at the company? as csuite? or at the LLC? \n\nand idk what this sentence means",
+      "reactions": [],
+      "order_id": "31"
+    },
+    {
+      "id": "2003036470",
+      "uuid": "78cb0c72-0320-4024-ac9a-f8de47cd0b3e",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:40:07.147Z",
+      "resolved_at": null,
+      "message": "yeah idk what i just read or why its important. feels like slop",
+      "reactions": [],
+      "order_id": "30"
+    },
+    {
+      "id": "2003031707",
+      "uuid": "a8eca503-e781-4178-a53f-332040b25c35",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:33:29.119Z",
+      "resolved_at": null,
+      "message": "ai writing.. but also what is this slide trying to say? what is the important take away that changes how i view this company?",
+      "reactions": [],
+      "order_id": "29"
+    },
+    {
+      "id": "2003025478",
+      "uuid": "a40f1141-2f83-4990-813c-42e9070357a8",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:24:52.227Z",
+      "resolved_at": null,
+      "message": "wait slide 55 didnt say no economic rights? what does that mean? it cant be sold?",
+      "reactions": [],
+      "order_id": "28"
+    },
+    {
+      "id": "2003025021",
+      "uuid": "1477a239-320a-4f82-9e58-47dc6ac70f15",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:24:15.087Z",
+      "resolved_at": null,
+      "message": "so is founders company an external separate from PBC but owns the votes of the PBC? \n\nI feel like all the comments i left over this org structure (which is very confusing) can be solved with just one graphic in one place that draws out the full structure in an image with lines and labels on what type of votes, who is sitting where, and the direction of power/abilities each box has on the other.",
+      "reactions": [],
+      "order_id": "27"
+    },
+    {
+      "id": "2003023382",
+      "uuid": "ad5f9858-d942-40be-9b8d-a85562674aaf",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:21:59.362Z",
+      "resolved_at": null,
+      "message": "ai style writing/cadence in the titles subtitltes... im catching these in other places too...\n\nlets feed this to ai and see if it can clean up all of these tics from the deck.",
+      "reactions": [],
+      "order_id": "26"
+    },
+    {
+      "id": "2003019820",
+      "uuid": "d474d240-ac77-4d8f-82f6-7cbe60d918fc",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:17:02.281Z",
+      "resolved_at": null,
+      "message": "cofounders also have their own shares? what is difference between E vs A? and didnt they plan to donate 80%?",
+      "reactions": [],
+      "order_id": "25"
+    },
+    {
+      "id": "2003018521",
+      "uuid": "96e2b6a5-79fe-438d-9d0a-e712dbb2fc11",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003010607",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:15:22.348Z",
+      "resolved_at": null,
+      "message": "\"delaware law requires at least 2% of the shares or $2m worth of stock to sue the PBC (anthropic) over its balancing duty",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003017236",
+      "uuid": "cc535b23-0a9f-4a06-94f0-66edc029ab82",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003011196",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:13:41.014Z",
+      "resolved_at": null,
+      "message": "also does this board elect the c-suite? aka the 7 cofounders can be replaced (replacing who controls the 1 class F share)?",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003011196",
+      "uuid": "5afd3db1-1f70-4ac1-9a08-6241e6067e6e",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:04:51.156Z",
+      "resolved_at": null,
+      "message": "we should also label this anthropic PBC board",
+      "reactions": [],
+      "order_id": "24"
+    },
+    {
+      "id": "2003010938",
+      "uuid": "4bbcc619-aa62-4e57-9291-a5352e82caee",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2003010607",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:04:24.465Z",
+      "resolved_at": null,
+      "message": "as in i own less than 2mil shares i can sue pbc, or i have to own more than 2mil? \n\nthe term \"lesser of 2% of the shares\" is confusing to me",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2003010607",
+      "uuid": "e02b9bb2-3ae5-4487-b9e2-c0ddbe23b3ed",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:03:54.841Z",
+      "resolved_at": null,
+      "message": "idk what this means.",
+      "reactions": [],
+      "order_id": "23"
+    },
+    {
+      "id": "2003010168",
+      "uuid": "f07a468d-f595-4302-9818-5bb834fafbcb",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:03:13.510Z",
+      "resolved_at": null,
+      "message": "the board is the anthropic PBC board right? if so why isnt it merged with the purple anthropic box (because anthropic is the PBC) the gfx makes it seem like they are separate entities",
+      "reactions": [],
+      "order_id": "22"
+    },
+    {
+      "id": "2003009313",
+      "uuid": "90074095-5b97-43e0-aeb6-e70faeee6c0b",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:01:53.804Z",
+      "resolved_at": null,
+      "message": "interesting so they pay the person on the truest \"buddy\" shah 400k + 8.4m split across all active trustees, but also they fund the trustees think tank or ngo on the side?",
+      "reactions": [],
+      "order_id": "21"
+    },
+    {
+      "id": "2003008665",
+      "uuid": "3ad96c6b-b543-4bba-87d5-52c4da67d39a",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T01:00:55.580Z",
+      "resolved_at": null,
+      "message": "so we introduce PBF, different than PBC? what is PBF goal and is it important to the PBC? how so",
+      "reactions": [],
+      "order_id": "20"
+    },
+    {
+      "id": "2003007500",
+      "uuid": "8f9fc95d-cb0f-4a69-93d2-624be4b9f9ab",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:59:16.726Z",
+      "resolved_at": null,
+      "message": "what does this mean? they only have 1 share right? what do you mean \"shares\" and the share does nothing anyways right? no votes on actual business?",
+      "reactions": [],
+      "order_id": "19"
+    },
+    {
+      "id": "2003006972",
+      "uuid": "f41f1193-0e0b-48aa-890c-718c2f764964",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:58:30.807Z",
+      "resolved_at": null,
+      "message": "i like our gfx to show what is being balanced as priorities, but also wanted to see something like this that shows me who owns what part of the process\n\nhttps://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/\n\ngfx might be outdated if latest amended s1 changes something",
+      "reactions": [],
+      "order_id": "18"
+    },
+    {
+      "id": "2003004359",
+      "uuid": "5065e597-aea0-4374-93c2-ab11619fc279",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:54:41.308Z",
+      "resolved_at": null,
+      "message": "idk why we mention mark here. makes me think he was involved in ant. but we are just saying he gets more voting power vs ant founders 1 share to 50.1%? okay not sure how thats relevant to understanding ant. id cut",
+      "reactions": [],
+      "order_id": "17"
+    },
+    {
+      "id": "2002997675",
+      "uuid": "b623fcfa-a44b-4561-8799-f55b36b2f059",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:45:02.192Z",
+      "resolved_at": null,
+      "message": "initially got confused by this gfx. i thought the body talked about the trust with one share, but gfx talks about founders with 1 share (which i didnt think that was true) basically left confused until i got to 2 slides later. \n\ni think we can improve this gfx and just draw the trust here with 1 share too but no voting power? rn it assumse the otehr 49.9% voting power is with the public shares but thats also not true. so i think we can make a more accurate image. \n\n(im also curious who is on the LTB trust and how they get into it?, same with who is on the board). but ill keep reading.",
+      "reactions": [],
+      "order_id": "16"
+    },
+    {
+      "id": "2002995909",
+      "uuid": "0e9402d3-59e0-44bb-bea4-f903d342b522",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:42:31.287Z",
+      "resolved_at": null,
+      "message": "as in 7 cofounders, one leaves -> they take 1/7 of the 50.1% voting power?",
+      "reactions": [],
+      "order_id": "15"
+    },
+    {
+      "id": "2002995269",
+      "uuid": "a60af622-2932-432b-bc62-e0c470519f02",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-11T00:41:29.872Z",
+      "resolved_at": null,
+      "message": "im confused. who are strategic partners and how does it make sense that they have no votes unless the shares are sold? if its sold they wont have the votes because they sold it? so they never get a vote? only people who buy their class N shares (turns into class A after sale?)",
+      "reactions": [],
+      "order_id": "14"
+    },
+    {
+      "id": "2002868558",
+      "uuid": "5a1ffc9b-79ac-4641-bd6d-b1fed603b992",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T22:04:11.747Z",
+      "resolved_at": null,
+      "message": "interesting comparison but as a reader, i ask why does it matter? \n\nmy interpretation: it directly impacts user experience as they change how one should interact with models (aka no bullying rule) and how it lobbies for certain designations (pope) or legal.",
+      "reactions": [],
+      "order_id": "13"
+    },
+    {
+      "id": "2002866309",
+      "uuid": "a0beadab-8158-42a2-8284-9afd2ada03bd",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T22:02:10.066Z",
+      "resolved_at": null,
+      "message": "last two sentences are ai slop and also dont tell me anything real. \nand then the next two slides dont connect at all to \"pattern 4: commit early to compute\" so idk where those ideas came in and why in this chapter",
+      "reactions": [],
+      "order_id": "12"
+    },
+    {
+      "id": "2002848632",
+      "uuid": "d88c5915-e2c5-430d-b076-5dbdfe983fe1",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:47:12.420Z",
+      "resolved_at": null,
+      "message": "do we know why? what event happened in 2026? did others also avoid pausing? i thought this was when things were ramping up with pause movement\n\nai answer (basically the company recognized the race condition and made the choice that having the lead will allow them to have more influence in shaping the race then dropping out individually): \n\n* Shift to a Conditional Two-Part Rule: In RSP v3.0, Anthropic replaced that automatic pause with a conditional standard:\n* * Anthropic will only voluntarily delay development or deployment if it has clear evidence that it has a significant lead over rivals and catastrophic risk cannot be contained.\n* If competitors are at or near parity and moving ahead anyway, Anthropic will not unilaterally pause.\n* Reclassifying Standards: Stricter standards (such as RAND Security Level 4 controls) were shifted from mandatory internal tripwires into non-binding “industry-wide recommendations,” with Anthropic pivoting toward publishing periodic Risk Reports and roadmaps instead.\n2. Why Did Anthropic Make This Change?\nAnthropic framed the decision around the reality of a collective action problem and the quote shown on the slide from CEO Dario Amodei:\n1. Unilateral Pauses Don't Stop Catastrophic Risk: If Anthropic pauses while competitors forge ahead, the global level of frontier AI risk does not decrease—it simply transfers market and frontier capability leadership to less cautious labs.\n2. \"Reluctantly Do X Ourselves\": Consistent with Amodei’s stance cited on the slide (advocate for industry-wide rules first, but if competitors refuse to follow, match behavior rather than handicap oneself), Anthropic argued that falling behind in capability undermines its leverage to steer safety norms or shape government policy.\n3. Lack of Enforceable Government Action: The original hope that voluntary pause thresholds would soon be mirrored by federal mandates or international treaties had not materialized by early 2026.",
+      "reactions": [],
+      "order_id": "11"
+    },
+    {
+      "id": "2002847660",
+      "uuid": "56eedf20-8a6d-425f-88f5-2c3ad8d2702c",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:46:27.405Z",
+      "resolved_at": null,
+      "message": "idk what asl 3 standard is and if i should care",
+      "reactions": [],
+      "order_id": "10"
+    },
+    {
+      "id": "2002846241",
+      "uuid": "d063715c-23bc-4198-9b94-a7f3abab424e",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:45:20.522Z",
+      "resolved_at": null,
+      "message": "i think we use this first 2022 as the pattern -> and then use 2026 example. vs 2026 -> then going back to 2022",
+      "reactions": [],
+      "order_id": "9"
+    },
+    {
+      "id": "2002838663",
+      "uuid": "0cb7175d-7506-47e1-ba72-83988979d0c3",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:39:35.774Z",
+      "resolved_at": null,
+      "message": "design on this slide is misaligned and chaotic/not clear.",
+      "reactions": [],
+      "order_id": "8"
+    },
+    {
+      "id": "2002837095",
+      "uuid": "f7e3b381-acf1-4326-acb7-059a7c1143f4",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:38:25.539Z",
+      "resolved_at": null,
+      "message": "2tril no longer the anchor. i believe they going live at 1.4tril?",
+      "reactions": [],
+      "order_id": "7"
+    },
+    {
+      "id": "2002836333",
+      "uuid": "18c92986-e62c-4e68-a44c-002ad739cb76",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:37:49.308Z",
+      "resolved_at": null,
+      "message": "we add this slide but now that im looking at it in sequence, it feels like random fact/cold pivot without context leaving me thinking we will explain it (why did growth slow). \n\ni think move this slide to a later portion where we will actually explain recent dynamics vs here in intro?",
+      "reactions": [],
+      "order_id": "6"
+    },
+    {
+      "id": "2002833891",
+      "uuid": "36d31ac0-81c5-4627-9228-977953f9b51c",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:35:57.286Z",
+      "resolved_at": null,
+      "message": "assuming these import fixes on alignment will be adjusted on actual slides version.",
+      "reactions": [],
+      "order_id": "5"
+    },
+    {
+      "id": "2002833374",
+      "uuid": "93d6960a-2f11-4d8e-adfc-7479993a5891",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "2002832946",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:35:34.081Z",
+      "resolved_at": null,
+      "message": "also not sure i like the split of color block. negative space looks awkward on this slide",
+      "reactions": [],
+      "order_id": null
+    },
+    {
+      "id": "2002832946",
+      "uuid": "ef98f2e0-7284-407d-b4ac-bd75986f4835",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T21:35:15.607Z",
+      "resolved_at": null,
+      "message": "need better scaling. maybe log or something else to actually show magnitude diff rn its exactly the same height.",
+      "reactions": [],
+      "order_id": "4"
+    },
+    {
+      "id": "2002784053",
+      "uuid": "475a446e-764f-452e-b73d-2ac92c84a831",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T20:58:16.681Z",
+      "resolved_at": null,
+      "message": "should we say dario said this? without context idk who says this",
+      "reactions": [],
+      "order_id": "3"
+    },
+    {
+      "id": "2002783325",
+      "uuid": "69c2d9aa-c0c7-43ae-ac4a-11cc07fa50e1",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T20:57:43.562Z",
+      "resolved_at": null,
+      "message": "i know this is what dario says but its more opinion. so rather not put it in here. \n\ncan just say 10% were able to see the same trend he did.",
+      "reactions": [],
+      "order_id": "2"
+    },
+    {
+      "id": "2002559767",
+      "uuid": "92f7236a-a695-4d25-be7e-edfb1fa2aec1",
+      "file_key": "4TKPZOEjDtVFG1vARkebdi",
+      "parent_id": "",
+      "user": {
+        "handle": "David K",
+        "img_url": "https://s3-alpha.figma.com/profile/bfb6b5c8-01be-465f-bd69-48b009a75528",
+        "id": "1552143541820656895"
+      },
+      "created_at": "2026-11-10T18:10:24.949Z",
+      "resolved_at": null,
+      "message": "adding my notes on just the visual language here. \nback to my message on slack on design rules. \n\nas a reader i leave wondering why change bg color to white vs beige? why are font sizes different at each section? Why is the design between slides different?\n\nultimately I would rather simplify things. no need to go above an beyond basic design clarity when it isnt necessary. hierarchy should be maintained at the slide level but also at the deck level. \n\naka when do we bold vs when do we increase font size? when is text left aligned vs center? When are things color blocked for emphasis vs not?",
+      "reactions": [],
+      "order_id": "1"
+    }
+  ]
+}

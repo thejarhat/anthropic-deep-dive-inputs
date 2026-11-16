@@ -1,0 +1,1073 @@
+[00:32] This is going to be the most promising [music] technology in human history. AI
+[00:35] [music] technology in human history. AI is capturing the essence of cognition.
+[00:38] is capturing the essence of cognition. In 2024 and 2025, coding became
+[00:41] In 2024 and 2025, coding became possible. And now we're starting to find
+[00:43] possible. And now we're starting to find that agents that do things end to end in
+[00:46] that agents that do things end to end in other areas of knowledge work are
+[00:47] other areas of knowledge work are possible. And even more recently, we're
+[00:51] possible. And even more recently, we're starting to see that fundamental
+[00:52] starting to see that fundamental discoveries in areas like biology and
+[00:55] discoveries in areas like biology and mathematics and physics are becoming
+[00:57] mathematics and physics are becoming possible. If humans can use AI to cure
+[01:01] possible. If humans can use AI to cure cancer, an evil human can use AI to make
+[01:04] cancer, an evil human can use AI to make a bioweapon or do a cyber attack.
+[01:07] a bioweapon or do a cyber attack. We cannot succeed if we don't address
+[01:09] We cannot succeed if we don't address these risks. And And we are absolutely
+[01:12] these risks. And And we are absolutely determined to get this right because
+[01:13] determined to get this right because this is why I and this is why many
+[01:15] this is why I and this is why many people who work at Anthropic, this is
+[01:17] people who work at Anthropic, this is why we work on this technology.
+[01:28] &gt;&gt; Intelligence is now something humans can build. The implications of this are
+[01:31] build. The implications of this are profound.
+[01:32] profound. We believe it will make every person far
+[01:34] We believe it will make every person far more capable and expand the world's
+[01:36] more capable and expand the world's capacity for cognitive work,
+[01:38] capacity for cognitive work, transforming every industry and every
+[01:40] transforming every industry and every discipline. This enormous economic
+[01:42] discipline. This enormous economic impact begins with frontier
+[01:44] impact begins with frontier intelligence, [music]
+[01:45] intelligence, [music] with what Claude can do.
+[01:47] with what Claude can do. In 2024, Claude could answer a question,
+[01:50] In 2024, Claude could answer a question, retrieve information, or summarize
+[01:52] retrieve information, or summarize [music] a document. By the end of 2025,
+[01:55] [music] a document. By the end of 2025, Claude could do deep research and
+[01:56] Claude could do deep research and multi-step projects, like refactoring an
+[01:58] multi-step projects, like refactoring an entire codebase. The of tasks that
+[02:01] entire codebase. The of tasks that required hours or even days of human
+[02:04] required hours or even days of human work.
+[02:05] work. Today, Claude can take on complex
+[02:07] Today, Claude can take on complex open-ended projects that once took
+[02:10] open-ended projects that once took months or years of research, analysis,
+[02:13] months or years of research, analysis, and execution by many people and
+[02:15] and execution by many people and complete them in days.
+[02:17] complete them in days. In the near future, we see potential for
+[02:19] In the near future, we see potential for Frontier AI to drive some of humanity's
+[02:22] Frontier AI to drive some of humanity's greatest breakthroughs and open entirely
+[02:25] greatest breakthroughs and open entirely new markets. Our success thus far
+[02:28] new markets. Our success thus far emerges from five core advantages. These
+[02:31] emerges from five core advantages. These are our mission and focus,
+[02:33] are our mission and focus, talent and culture,
+[02:35] talent and culture, Frontier research and safety work,
+[02:37] Frontier research and safety work, our approach to compute, and our
+[02:39] our approach to compute, and our enterprise strategy. All of this begins
+[02:41] enterprise strategy. All of this begins with our mission, the responsible
+[02:43] with our mission, the responsible development and maintenance of advanced
+[02:45] development and maintenance of advanced [music] AI for the long-term benefit of
+[02:48] [music] AI for the long-term benefit of humanity. It's an organizing force and
+[02:51] humanity. It's an organizing force and key to our focused execution. We manage
+[02:53] key to our focused execution. We manage a universe of finite resources, compute,
+[02:56] a universe of finite resources, compute, talent, and research [music] capacity.
+[02:58] talent, and research [music] capacity. The mission is how we create clarity for
+[03:00] The mission is how we create clarity for the team and deploy those resources to
+[03:02] the team and deploy those resources to maximum effect. [music] At challenging
+[03:05] maximum effect. [music] At challenging moments that call for hard choices, our
+[03:07] moments that call for hard choices, our mission sharpens our decision-making.
+[03:09] mission sharpens our decision-making. [music] It let us to deploy models like
+[03:11] [music] It let us to deploy models like Mythos exclusively to Cyber Defenders.
+[03:14] Mythos exclusively to Cyber Defenders. It also let us to commit to keep Claude
+[03:16] It also let us to commit to keep Claude free of advertising. [music]
+[03:18] free of advertising. [music] This mission and focus continued to
+[03:20] This mission and focus continued to attract the very best talent in the
+[03:21] attract the very best talent in the industry. That's been true since our
+[03:23] industry. That's been true since our founding. Our seven co-founders include
+[03:26] founding. Our seven co-founders include [music] the originators of ideas that
+[03:28] [music] the originators of ideas that now make up the foundation of the AI
+[03:30] now make up the foundation of the AI industry. This concentration of top
+[03:33] industry. This concentration of top talent extends to all levels of the
+[03:35] talent extends to all levels of the organization, and we lead the industry
+[03:37] organization, and we lead the industry in attracting and retaining the
+[03:39] in attracting and retaining the brightest minds in the field.
+[03:48] &gt;&gt; [music] &gt;&gt; Why do I work at Anthropic?
+[03:50] &gt;&gt; Why do I work at Anthropic? &gt;&gt; Why do I work at Anthropic?
+[03:51] &gt;&gt; Why do I work at Anthropic? &gt;&gt; at Anthropic?
+[03:52] &gt;&gt; at Anthropic? &gt;&gt; do I work at Anthropic?
+[03:53] &gt;&gt; do I work at Anthropic? &gt;&gt; Why do I work at Anthropic?
+[03:56] &gt;&gt; Why do I work at Anthropic? &gt;&gt; Because I'm an optimist.
+[03:59] &gt;&gt; Because I'm an optimist. I want a safer, better world for my
+[04:00] I want a safer, better world for my family
+[04:01] family and for humanity.
+[04:08] 3 years ago, my older brother died of a brain tumor at the age of 42 which is
+[04:11] brain tumor at the age of 42 which is the age that I am now.
+[04:12] the age that I am now. And I believe deeply that through our
+[04:15] And I believe deeply that through our mission [music] and this technology
+[04:17] mission [music] and this technology there will be a situation where people
+[04:19] there will be a situation where people like my brother don't have to die.
+[04:25] &gt;&gt; Somebody has to carry the weight of getting this right and I really didn't
+[04:27] getting this right and I really didn't want to watch from the sidelines.
+[04:33] &gt;&gt; People here ask is this the right thing to do before they ask can we do it?
+[04:40] &gt;&gt; It's a rare combination of a group of people who care deeply about making AI
+[04:43] people who care deeply about making AI go well and also care deeply about
+[04:46] go well and also care deeply about competence, coherence, integrity,
+[04:48] competence, coherence, integrity, [music]
+[04:49] [music] qualities that actually make an
+[04:52] qualities that actually make an organization effective.
+[04:54] organization effective. &gt;&gt; These benefits and these risks, this
+[04:56] &gt;&gt; These benefits and these risks, this light and this shade precisely why I
+[04:59] light and this shade precisely why I chose to come to work at Anthropic.
+[05:00] chose to come to work at Anthropic. [music]
+[05:08] &gt;&gt; The work we do to make our models safe and reliable is the same work that makes
+[05:10] and reliable is the same work that makes them more capable. We care about useful
+[05:13] them more capable. We care about useful intelligence, how effectively a model
+[05:15] intelligence, how effectively a model handles a real world task and the value
+[05:18] handles a real world task and the value this delivers to customers. We're
+[05:20] this delivers to customers. We're relentlessly focused on answering the
+[05:22] relentlessly focused on answering the question, what can Claude do for me that
+[05:25] question, what can Claude do for me that other models can't?
+[05:27] other models can't? Compute is the critical infrastructure
+[05:29] Compute is the critical infrastructure that enables this work.
+[05:31] that enables this work. We've built a differentiated advantage
+[05:32] We've built a differentiated advantage here, not just in how we build our
+[05:34] here, not just in how we build our compute capacity but in how we make the
+[05:36] compute capacity but in how we make the most of this capacity through the
+[05:38] most of this capacity through the discovery of compute multipliers.
+[05:40] discovery of compute multipliers. We are the leading AI lab that has been
+[05:42] We are the leading AI lab that has been focused on building for the enterprise
+[05:44] focused on building for the enterprise from day one. We train our frontier
+[05:46] from day one. We train our frontier models to address knowledge work.
+[05:48] models to address knowledge work. As a result, our customers get the best
+[05:50] As a result, our customers get the best of both capability and value. These
+[05:53] of both capability and value. These customers have enabled our historic
+[05:54] customers have enabled our historic growth
+[05:55] growth and they span industries across
+[05:57] and they span industries across financial services, technology, pharma,
+[06:01] financial services, technology, pharma, healthcare, government, manufacturing
+[06:03] healthcare, government, manufacturing and more.
+[06:05] and more. And this is also where our public
+[06:06] And this is also where our public benefit mission and safety focus find
+[06:08] benefit mission and safety focus find natural alignment. Enterprises care that
+[06:11] natural alignment. Enterprises care that the frontier is safe, trustworthy, and
+[06:13] the frontier is safe, trustworthy, and useful as much as we do. As frontier
+[06:15] useful as much as we do. As frontier intelligence grows more capable, our
+[06:17] intelligence grows more capable, our dedicated focus on safety research
+[06:19] dedicated focus on safety research becomes that much more important.
+[06:22] becomes that much more important. It's critically important to our
+[06:23] It's critically important to our customers and necessary for realizing
+[06:26] customers and necessary for realizing AI's full potential. [music] And
+[06:28] AI's full potential. [music] And Anthropic is fully committed to doing
+[06:29] Anthropic is fully committed to doing this work with excellence. Our public
+[06:31] this work with excellence. Our public benefit mission is what brought us to
+[06:33] benefit mission is what brought us to this point, and it will continue to
+[06:35] this point, and it will continue to shape our work, including at the
+[06:36] shape our work, including at the governance level. In addition to our
+[06:38] governance level. In addition to our executive leadership and our board of
+[06:40] executive leadership and our board of directors, Anthropic is advised by the
+[06:42] directors, Anthropic is advised by the long-term benefit trust, an independent,
+[06:44] long-term benefit trust, an independent, financially disinterested body that
+[06:46] financially disinterested body that selects a majority of our board.
+[06:48] selects a majority of our board. The LTBT's role is to help Anthropic
+[06:50] The LTBT's role is to help Anthropic plan for and fulfill our public benefit
+[06:52] plan for and fulfill our public benefit mission as we grow. We believe AI's
+[06:55] mission as we grow. We believe AI's future should be shaped and led by
+[06:56] future should be shaped and led by democratic societies. We want to be good
+[06:59] democratic societies. We want to be good partners in helping governments adapt to
+[07:01] partners in helping governments adapt to the changes that come with AI's rising
+[07:03] the changes that come with AI's rising capability. We do this at the executive
+[07:05] capability. We do this at the executive level through the work of our policy
+[07:07] level through the work of our policy team and through efforts like the
+[07:08] team and through efforts like the Anthropic Institute, which shares
+[07:10] Anthropic Institute, which shares research on how frontier AI shapes how
+[07:13] research on how frontier AI shapes how we live our lives.
+[07:14] we live our lives. We are still early in what we believe
+[07:16] We are still early in what we believe will be the biggest transformation of
+[07:18] will be the biggest transformation of the human experience in the modern age,
+[07:20] the human experience in the modern age, [music] not just the profound economic
+[07:22] [music] not just the profound economic potential,
+[07:23] potential, but in all the ways in which we believe
+[07:25] but in all the ways in which we believe AI can help humanity flourish.
+[07:27] AI can help humanity flourish. From curing diseases to accelerating
+[07:29] From curing diseases to accelerating growth to helping people live more
+[07:31] growth to helping people live more fulfilled and abundant lives.
+[07:37] &gt;&gt; So if you think about our Claude model family, it's designed to deliver value
+[07:39] family, it's designed to deliver value across all the goals you might have,
+[07:42] across all the goals you might have, whether you're optimizing for cost or
+[07:44] whether you're optimizing for cost or speed or intelligence.
+[07:47] speed or intelligence. At the top end, Mythos and Fable push
+[07:49] At the top end, Mythos and Fable push the frontier forward. We see customers
+[07:52] the frontier forward. We see customers use it to harden cyber infrastructure or
+[07:55] use it to harden cyber infrastructure or make new scientific discoveries.
+[07:57] make new scientific discoveries. At the other end, we have models that
+[07:59] At the other end, we have models that are extremely capable and highly
+[08:01] are extremely capable and highly cost-effective, and businesses can rely
+[08:04] cost-effective, and businesses can rely on them at scale for well-defined
+[08:06] on them at scale for well-defined routine tasks. A key thing we think
+[08:08] routine tasks. A key thing we think about is how everyone can get the
+[08:10] about is how everyone can get the benefit of that whole spectrum of
+[08:12] benefit of that whole spectrum of models. Because even as model capability
+[08:15] models. Because even as model capability increases exponentially, what most
+[08:18] increases exponentially, what most people do with the models doesn't change
+[08:20] people do with the models doesn't change that fast.
+[08:21] that fast. We think about three principles as we
+[08:24] We think about three principles as we build.
+[08:25] build. The first is meeting customers where
+[08:27] The first is meeting customers where they are.
+[08:28] they are. There's a few ways to use Claude.
+[08:30] There's a few ways to use Claude. First is through our own applications
+[08:33] First is through our own applications like Claude Code or the Claude desktop
+[08:34] like Claude Code or the Claude desktop or mobile app.
+[08:36] or mobile app. But Claude is also available in
+[08:37] But Claude is also available in enterprise applications like Word and
+[08:39] enterprise applications like Word and Excel. [music] We go deep into verticals
+[08:41] Excel. [music] We go deep into verticals and try to understand what does an
+[08:44] and try to understand what does an expert in this domain need to be
+[08:46] expert in this domain need to be successful immediately? [music]
+[08:48] successful immediately? [music] For instance, if you're a lawyer, we
+[08:50] For instance, if you're a lawyer, we have a Claude for Legal bundle which
+[08:52] have a Claude for Legal bundle which connects directly to the tools you need.
+[08:55] connects directly to the tools you need. This is something we think about for
+[08:58] This is something we think about for every domain.
+[08:59] every domain. We have bundles for healthcare,
+[09:01] We have bundles for healthcare, financial services, life sciences, and
+[09:04] financial services, life sciences, and more. Our second principle is that we
+[09:07] more. Our second principle is that we build models and products side by side.
+[09:10] build models and products side by side. We develop products for tomorrow's
+[09:12] We develop products for tomorrow's models, not just today's.
+[09:14] models, not just today's. Claude Code is a great illustration of
+[09:17] Claude Code is a great illustration of why that matters.
+[09:19] why that matters. A couple of years ago, we could see that
+[09:21] A couple of years ago, we could see that our pre-release models were getting
+[09:23] our pre-release models were getting better at understanding code.
+[09:25] better at understanding code. Couldn't quite do it all yet, but we
+[09:27] Couldn't quite do it all yet, but we could see the trend line.
+[09:29] could see the trend line. We built a product around that thinking.
+[09:31] We built a product around that thinking. And Claude Code was launched just a few
+[09:33] And Claude Code was launched just a few months later. That introduced people to
+[09:36] months later. That introduced people to an entirely new way of coding and of
+[09:39] an entirely new way of coding and of understanding what AI can do. This
+[09:42] understanding what AI can do. This flywheel between model and product is a
+[09:44] flywheel between model and product is a durable advantage in how we build. The
+[09:47] durable advantage in how we build. The model gets better, we develop new
+[09:49] model gets better, we develop new features powered by those advancements,
+[09:51] features powered by those advancements, then we train the models to get even
+[09:52] then we train the models to get even better at what people are trying to do,
+[09:54] better at what people are trying to do, which reinforces the whole system.
+[09:57] which reinforces the whole system. And we do that in coding and beyond. Our
+[10:00] And we do that in coding and beyond. Our third principle is that we close the gap
+[10:02] third principle is that we close the gap between the frontier and customers
+[10:04] between the frontier and customers day-to-day.
+[10:05] day-to-day. Most people still think about their AI
+[10:07] Most people still think about their AI tools as a replacement for search or a
+[10:09] tools as a replacement for search or a simple Q&amp;A tool. And it can be those
+[10:12] simple Q&amp;A tool. And it can be those things, but that understates the power
+[10:15] things, but that understates the power of what people can really do with this
+[10:17] of what people can really do with this intelligence. This is where product
+[10:19] intelligence. This is where product [music] becomes a meaningful competitive
+[10:22] [music] becomes a meaningful competitive differentiator. Without a strong
+[10:24] differentiator. Without a strong product, the difference between growing
+[10:26] product, the difference between growing intelligence and where users [music] are
+[10:29] intelligence and where users [music] are just keeps compounding. We think the
+[10:31] just keeps compounding. We think the future will involve making Claude feel
+[10:33] future will involve making Claude feel as simple and natural as possible. So
+[10:37] as simple and natural as possible. So people everywhere can just treat Claude
+[10:39] people everywhere can just treat Claude the same way you'd treat a colleague and
+[10:41] the same way you'd treat a colleague and get high quality output every time. We
+[10:44] get high quality output every time. We think these three principles are how we
+[10:47] think these three principles are how we bring frontier intelligence to everyone.
+[10:50] bring frontier intelligence to everyone. This is what we mean when we say we want
+[10:52] This is what we mean when we say we want to give people superpowers. Claude
+[10:54] to give people superpowers. Claude starts by helping you do what you need
+[10:57] starts by helping you do what you need to better and faster. Then it takes on
+[11:00] to better and faster. Then it takes on the things you never would have tried
+[11:02] the things you never would have tried because they were just too hard. And in
+[11:05] because they were just too hard. And in the future, it means all of us doing
+[11:07] the future, it means all of us doing what used to be impossible.
+[11:09] what used to be impossible. So we can all live better, fuller lives.
+[11:18] &gt;&gt; When we discovered scaling laws in AI, we realized that AI capabilities could
+[11:20] we realized that AI capabilities could improve very fast. That's why we founded
+[11:23] improve very fast. That's why we founded Anthropic to ensure that if AI became a
+[11:26] Anthropic to ensure that if AI became a transformational technology, it would be
+[11:28] transformational technology, it would be safe and beneficial. Our fundamental bet
+[11:31] safe and beneficial. Our fundamental bet is that AI would make tremendous
+[11:33] is that AI would make tremendous progress this decade. These
+[11:35] progress this decade. These transformational capabilities are why
+[11:37] transformational capabilities are why research and safety must advance
+[11:40] research and safety must advance together. It's the only way we'll
+[11:42] together. It's the only way we'll realize the benefits of the technology.
+[11:44] realize the benefits of the technology. We assess our models across three
+[11:46] We assess our models across three dimensions, capability, efficiency, and
+[11:50] dimensions, capability, efficiency, and safety. We optimize our models to be
+[11:52] safety. We optimize our models to be able to plan and complete complex work
+[11:54] able to plan and complete complex work accurately across hours and even days.
+[11:58] accurately across hours and even days. A good example is Opus 5.5. One of our
+[12:01] A good example is Opus 5.5. One of our users was able to complete a 680k line
+[12:04] users was able to complete a 680k line code migration in less than a day. This
+[12:06] code migration in less than a day. This would have taken an engineering team
+[12:08] would have taken an engineering team weeks just a few years ago. We think our
+[12:10] weeks just a few years ago. We think our Our are the very best at this long
+[12:12] Our are the very best at this long horizon work, where accuracy really
+[12:14] horizon work, where accuracy really matters. The capability begins in the
+[12:17] matters. The capability begins in the model [music] training process. In the
+[12:19] model [music] training process. In the pre-training phase, a model learns from
+[12:21] pre-training phase, a model learns from the totality of human knowledge, text,
+[12:23] the totality of human knowledge, text, images, scientific papers, code.
+[12:27] images, scientific papers, code. This phase is where it comes to
+[12:28] This phase is where it comes to understand fundamental human concepts
+[12:31] understand fundamental human concepts and ideas.
+[12:32] and ideas. The second phase is reinforcement
+[12:34] The second phase is reinforcement learning. This is where Claude learns to
+[12:36] learning. This is where Claude learns to be helpful, honest, and harmless. It's
+[12:38] be helpful, honest, and harmless. It's where we draw out useful capabilities,
+[12:41] where we draw out useful capabilities, encoding, knowledge work, and science.
+[12:44] encoding, knowledge work, and science. As models have moved from conversational
+[12:46] As models have moved from conversational assistance to autonomous agents,
+[12:47] assistance to autonomous agents, reinforcement learning has evolved into
+[12:49] reinforcement learning has evolved into one of the largest areas of research
+[12:51] one of the largest areas of research investment,
+[12:52] investment, one that really matters to our
+[12:54] one that really matters to our customers. In 2021, I wrote an internal
+[12:57] customers. In 2021, I wrote an internal memo outlining how our most likely
+[12:59] memo outlining how our most likely product might be an aligned AI program.
+[13:03] product might be an aligned AI program. I wrote a lot of other things too, but
+[13:04] I wrote a lot of other things too, but this one turned out to be pretty
+[13:06] this one turned out to be pretty accurate. Claude's training process is
+[13:08] accurate. Claude's training process is integral to Anthropic's mission.
+[13:10] integral to Anthropic's mission. We need to understand how to train
+[13:11] We need to understand how to train frontier intelligence and how to make it
+[13:13] frontier intelligence and how to make it safe. And this is how we deliver the
+[13:15] safe. And this is how we deliver the benefits of AI.
+[13:26] &gt;&gt; We think that AI will help us reduce the time to do a clinical trial by 20 to
+[13:28] time to do a clinical trial by 20 to 30%. If you get a drug to market two or
+[13:30] 30%. If you get a drug to market two or three years sooner, those are either
+[13:32] three years sooner, those are either cures or treatments that patients that
+[13:35] cures or treatments that patients that actually don't have solutions can have
+[13:36] actually don't have solutions can have sooner. So we think it's actually a huge
+[13:38] sooner. So we think it's actually a huge win for patients, and it's also a huge
+[13:40] win for patients, and it's also a huge win for BMS.
+[13:43] win for BMS. We chose Anthropic for a couple reasons.
+[13:44] We chose Anthropic for a couple reasons. One is they had the most mature
+[13:46] One is they had the most mature enterprise capabilities. So it's one
+[13:48] enterprise capabilities. So it's one thing to have a chatbot that you can
+[13:50] thing to have a chatbot that you can use. It's a whole different thing to
+[13:52] use. It's a whole different thing to actually put it in an environment where
+[13:53] actually put it in an environment where you're giving it access to some of the
+[13:55] you're giving it access to some of the company's most confidential information,
+[13:57] company's most confidential information, and you're able to do observability,
+[14:00] and you're able to do observability, manage the security, manage what the
+[14:02] manage the security, manage what the fine-tuned controls of what you give
+[14:04] fine-tuned controls of what you give users. So there's like the enterprise
+[14:05] users. So there's like the enterprise controls that you'd often see that IT
+[14:08] controls that you'd often see that IT organizations really value a lot. We
+[14:10] organizations really value a lot. We rolled it out across all 30,000 of our
+[14:12] rolled it out across all 30,000 of our employees. This is the fastest, most
+[14:14] employees. This is the fastest, most well-adopted AI in the history of what
+[14:18] well-adopted AI in the history of what we've rolled out. So now you can ask a
+[14:20] we've rolled out. So now you can ask a very, very complicated question, and it
+[14:22] very, very complicated question, and it will go through it will figure out which
+[14:24] will go through it will figure out which database or databases, because it can
+[14:26] database or databases, because it can actually [music] cross those databases,
+[14:28] actually [music] cross those databases, can be queried, and then it will produce
+[14:30] can be queried, and then it will produce a report that actually has the context
+[14:32] a report that actually has the context of the epidemiology built right into it.
+[14:34] of the epidemiology built right into it. [music] So that takes you from what
+[14:36] [music] So that takes you from what would have typically taken 1 to 2 months
+[14:39] would have typically taken 1 to 2 months to get a simple question answered
+[14:41] to get a simple question answered to being able to get it in 4 to 5
+[14:42] to being able to get it in 4 to 5 [music] minutes.
+[14:44] [music] minutes. And we're now finally at a stage both
+[14:46] And we're now finally at a stage both with high throughput computation, but
+[14:48] with high throughput computation, but also large language models where you're
+[14:50] also large language models where you're able to scale up your computation, your
+[14:52] able to scale up your computation, your analytics to match the better scale of
+[14:54] analytics to match the better scale of biology that can help the way that you
+[14:55] biology that can help the way that you inform [music] and and change the
+[14:57] inform [music] and and change the standard of care.
+[15:03] &gt;&gt; Consider all the reasons the Frontier AI Lab needs to use compute efficiently. We
+[15:05] Lab needs to use compute efficiently. We use it at every stage of the research
+[15:07] use it at every stage of the research and model training process. It's how we
+[15:09] and model training process. It's how we serve models to customers and [music]
+[15:11] serve models to customers and [music] how we use cloud at scale internally. By
+[15:13] how we use cloud at scale internally. By training what we believe to be the most
+[15:14] training what we believe to be the most efficient models, we can do more of all
+[15:17] efficient models, we can do more of all these things with the same amount of
+[15:18] these things with the same amount of compute. It's also how we drive down
+[15:20] compute. It's also how we drive down costs both for customers as well as our
+[15:23] costs both for customers as well as our own underlying costs. We're accelerating
+[15:25] own underlying costs. We're accelerating these efficiency gains through our
+[15:26] these efficiency gains through our [music] research process. Our pace of
+[15:28] [music] research process. Our pace of discovery is speeding up,
+[15:30] discovery is speeding up, and a lot of that acceleration comes
+[15:32] and a lot of that acceleration comes from cloud itself.
+[15:33] from cloud itself. When you deploy Frontier models, safety
+[15:35] When you deploy Frontier models, safety is critical. This idea brought the
+[15:37] is critical. This idea brought the co-founders together, and it's been at
+[15:38] co-founders together, and it's been at the foundation of Anthropic from the
+[15:40] the foundation of Anthropic from the beginning. Excellence in safety is how
+[15:42] beginning. Excellence in safety is how you manage organizational and systemic
+[15:44] you manage organizational and systemic risk. [music] It's how you safely enable
+[15:45] risk. [music] It's how you safely enable Frontier capabilities in fields like
+[15:47] Frontier capabilities in fields like coding and medicine, and it's valued by
+[15:49] coding and medicine, and it's valued by our customers. It gives them the trust
+[15:51] our customers. It gives them the trust they need to point AI at important work.
+[15:53] they need to point AI at important work. We build safety in at every stage.
+[15:56] We build safety in at every stage. Through alignment training, we train
+[15:57] Through alignment training, we train models to follow user intent and avoid
+[15:59] models to follow user intent and avoid taking harmful actions, and we build in
+[16:01] taking harmful actions, and we build in the right safeguards aimed at preventing
+[16:02] the right safeguards aimed at preventing misuse.
+[16:04] misuse. We also pioneer fields like
+[16:05] We also pioneer fields like interpretability, which gives us insight
+[16:07] interpretability, which gives us insight into what's happening inside the model's
+[16:08] into what's happening inside the model's brain. Within Anthropic, we increasingly
+[16:11] brain. Within Anthropic, we increasingly turn Frontier models back on improving
+[16:13] turn Frontier models back on improving our own processes. We call this closing
+[16:15] our own processes. We call this closing the loop,
+[16:16] the loop, and it drives forward all three of our
+[16:17] and it drives forward all three of our research priorities. Claude is
+[16:19] research priorities. Claude is increasingly our equal partner here.
+[16:21] increasingly our equal partner here. The better Claude gets, the more it
+[16:23] The better Claude gets, the more it helps us with all of our work.
+[16:25] helps us with all of our work. It improves our security, it makes
+[16:26] It improves our security, it makes training and inference more efficient,
+[16:28] training and inference more efficient, it drives safety work, it helps us try
+[16:30] it drives safety work, it helps us try out more research ideas more quickly,
+[16:32] out more research ideas more quickly, and it makes the whole organization more
+[16:34] and it makes the whole organization more effective.
+[16:35] effective. Our most important work is still ahead.
+[16:37] Our most important work is still ahead. If we keep research and safety advancing
+[16:39] If we keep research and safety advancing together, we believe that we can help
+[16:41] together, we believe that we can help bring about some of the most significant
+[16:43] bring about some of the most significant breakthroughs in human [music] history.
+[16:53] &gt;&gt; Take a number and double it, and double that, then double that.
+[16:56] that, then double that. That curve is really at the heart of
+[16:58] That curve is really at the heart of what we do at Anthropic.
+[17:01] what we do at Anthropic. We noticed early on that performance
+[17:03] We noticed early on that performance seemed to scale very smoothly with
+[17:05] seemed to scale very smoothly with compute.
+[17:12] Our bet was there is a whole internet's worth of context.
+[17:14] worth of context. What if the limiting factor of model
+[17:16] What if the limiting factor of model size just went away?
+[17:20] size just went away? So in 2022 or 23, we had chatbots.
+[17:25] So in 2022 or 23, we had chatbots. You could ask them for a history of the
+[17:26] You could ask them for a history of the samurai and it would come back with a
+[17:28] samurai and it would come back with a little essay.
+[17:34] In 2024, coding becomes possible, but Claude still struggles on hard problems.
+[17:38] Claude still struggles on hard problems. In 2025, the models start to be able to
+[17:41] In 2025, the models start to be able to do surprising things.
+[17:43] do surprising things. Coding gets much better.
+[17:45] Coding gets much better. Claude can even play video games
+[17:48] Claude can even play video games quite badly.
+[17:50] quite badly. This same year, it found a flaw in
+[17:52] This same year, it found a flaw in OpenBSD that had gone unnoticed for 27
+[17:55] OpenBSD that had gone unnoticed for 27 years.
+[18:00] Suddenly, it can do multi-step processes,
+[18:02] processes, knowledge work.
+[18:05] knowledge work. It builds a controller for laser locks
+[18:08] It builds a controller for laser locks at a quantum computer company, a task
+[18:10] at a quantum computer company, a task that used to take a team of people with
+[18:12] that used to take a team of people with PhDs a week.
+[18:14] PhDs a week. And it does this without human
+[18:16] And it does this without human intervention overnight.
+[18:21] We start to see Claude making fundamental discoveries in math,
+[18:24] fundamental discoveries in math, working at the frontier of life science.
+[18:28] working at the frontier of life science. This acceleration can be disorienting.
+[18:31] This acceleration can be disorienting. But there's still this sense that we're
+[18:34] But there's still this sense that we're just setting out. That exponential curve
+[18:37] just setting out. That exponential curve stretches up ahead of us,
+[18:39] stretches up ahead of us, and it's only just begun.
+[18:48] &gt;&gt; Achieving Anthropic's mission requires staying at the frontier, and staying at
+[18:50] staying at the frontier, and staying at the frontier depends on compute. Our
+[18:52] the frontier depends on compute. Our approach here goes back to [music]
+[18:53] approach here goes back to [music] research that I did with several of my
+[18:55] research that I did with several of my other co-founders on scaling laws. We
+[18:57] other co-founders on scaling laws. We found that with the right recipe, more
+[18:59] found that with the right recipe, more compute reliably and predictably yields
+[19:02] compute reliably and predictably yields more intelligence. Later, we found that
+[19:04] more intelligence. Later, we found that it was possible to improve this recipe
+[19:05] it was possible to improve this recipe over time to achieve more intelligence
+[19:08] over time to achieve more intelligence with the same amount of physical
+[19:09] with the same amount of physical compute. So by the time we started
+[19:11] compute. So by the time we started Anthropic in 2021, we knew two things.
+[19:14] Anthropic in 2021, we knew two things. One, compute is the foundation of the
+[19:16] One, compute is the foundation of the business, and two, getting the most out
+[19:18] business, and two, getting the most out of every unit of compute is key to
+[19:20] of every unit of compute is key to making increasingly intelligent models.
+[19:22] making increasingly intelligent models. That's why we're so focused on
+[19:23] That's why we're so focused on efficiency, and it's why we believe a
+[19:25] efficiency, and it's why we believe a dollar of compute at Anthropic goes
+[19:27] dollar of compute at Anthropic goes further than a dollar at any other
+[19:28] further than a dollar at any other frontier lab. We've achieved that
+[19:30] frontier lab. We've achieved that advantage in two ways.
+[19:32] advantage in two ways. I'll start with the first.
+[19:33] I'll start with the first. Our proprietary approach to bringing up
+[19:35] Our proprietary approach to bringing up and deploying silicon. We train and
+[19:38] and deploying silicon. We train and serve Claude now across all four major
+[19:40] serve Claude now across all four major chip families. That's only possible
+[19:42] chip families. That's only possible because early on we made an
+[19:44] because early on we made an unconventional bet on a multi-chip
+[19:46] unconventional bet on a multi-chip strategy.
+[19:47] strategy. At the time, many people thought that
+[19:49] At the time, many people thought that running AI models on different chips
+[19:50] running AI models on different chips wasn't worth the effort.
+[19:52] wasn't worth the effort. Each chip needs its own tailored
+[19:53] Each chip needs its own tailored software stack and inference stack,
+[19:56] software stack and inference stack, which is expensive and difficult to
+[19:58] which is expensive and difficult to build.
+[19:58] build. We've now been doing it for years, and
+[20:00] We've now been doing it for years, and we've gotten incredibly good at it.
+[20:02] we've gotten incredibly good at it. This comes with two key advantages. In a
+[20:04] This comes with two key advantages. In a supply-constrained compute market, our
+[20:06] supply-constrained compute market, our multi-silicon strategy allows us to
+[20:08] multi-silicon strategy allows us to focus on the best price performance
+[20:10] focus on the best price performance regardless of the provider. We can match
+[20:12] regardless of the provider. We can match each chip to the job that it's best at.
+[20:15] each chip to the job that it's best at. Some are better at training, some are
+[20:17] Some are better at training, some are better at inference. Our multi-silicon
+[20:19] better at inference. Our multi-silicon chip strategy means we can treat all of
+[20:21] chip strategy means we can treat all of our chips across providers,
+[20:23] our chips across providers, architectures, and locations as one
+[20:25] architectures, and locations as one fungible pool of compute.
+[20:27] fungible pool of compute. This is also made us really good at
+[20:29] This is also made us really good at bringing up new chips. As an example,
+[20:31] bringing up new chips. As an example, this year we started working with AMD
+[20:33] this year we started working with AMD GPUs for the first time.
+[20:35] GPUs for the first time. In the past, bringing on a new chip
+[20:36] In the past, bringing on a new chip platform took dozens of engineers months
+[20:39] platform took dozens of engineers months of work.
+[20:40] of work. This time, we had Mythos try it out. It
+[20:42] This time, we had Mythos try it out. It got Claude running on AMD in just 3 days
+[20:45] got Claude running on AMD in just 3 days [music] with basically no human
+[20:46] [music] with basically no human intervention. Claude ported or wrote
+[20:48] intervention. Claude ported or wrote almost 100% of the kernels. We also have
+[20:51] almost 100% of the kernels. We also have a distinct approach to the data centers
+[20:53] a distinct approach to the data centers that house our chips.
+[20:54] that house our chips. Historically, we bought compute as a
+[20:56] Historically, we bought compute as a cloud service.
+[20:57] cloud service. We've now added a second approach where
+[20:59] We've now added a second approach where we lease chips and run them in
+[21:00] we lease chips and run them in purpose-built data centers designed for
+[21:02] purpose-built data centers designed for us. We call this Anthropic Direct.
+[21:05] us. We call this Anthropic Direct. That approach has a couple advantages
+[21:07] That approach has a couple advantages for us. It helps to lower the total cost
+[21:09] for us. It helps to lower the total cost of ownership of compute [music] and
+[21:10] of ownership of compute [music] and allows us to separate the commitment to
+[21:12] allows us to separate the commitment to data centers from the chips.
+[21:15] data centers from the chips. The second driver of our compute
+[21:16] The second driver of our compute advantage is our rate of discovery of
+[21:18] advantage is our rate of discovery of compute multipliers. We focus on total
+[21:21] compute multipliers. We focus on total effective compute, which is the
+[21:22] effective compute, which is the multiplicative product of physical
+[21:24] multiplicative product of physical capacity times the compute multipliers
+[21:26] capacity times the compute multipliers that we discover.
+[21:27] that we discover. Each one we discover makes our pool of
+[21:30] Each one we discover makes our pool of total effective compute bigger. For
+[21:32] total effective compute bigger. For example, say you need 100 units of
+[21:34] example, say you need 100 units of compute to train a model of a certain
+[21:35] compute to train a model of a certain intelligence. A 4x compute multiplier
+[21:38] intelligence. A 4x compute multiplier means you can use 25 units of compute to
+[21:40] means you can use 25 units of compute to train the [music] exact same model, or
+[21:42] train the [music] exact same model, or you can use those 100 physical units to
+[21:44] you can use those 100 physical units to train an even more intelligent model
+[21:46] train an even more intelligent model that would have previously required 400
+[21:48] that would have previously required 400 units.
+[21:49] units. Compute multipliers create a competitive
+[21:51] Compute multipliers create a competitive advantage for us that's hard to
+[21:52] advantage for us that's hard to replicate. They build on each other.
+[21:54] replicate. They build on each other. Each new multiplier we discover has a
+[21:56] Each new multiplier we discover has a positive effect on the multipliers
+[21:58] positive effect on the multipliers before it. They stack. We believe that
+[22:00] before it. They stack. We believe that this can accelerate even further as we
+[22:02] this can accelerate even further as we approach recursive self-improvement.
+[22:04] approach recursive self-improvement. Claude will be able to discover compute
+[22:05] Claude will be able to discover compute multipliers entirely by itself, allowing
+[22:08] multipliers entirely by itself, allowing the number of compute multipliers to
+[22:10] the number of compute multipliers to grow faster and faster. [music]
+[22:11] grow faster and faster. [music] We believe this combination of smart
+[22:13] We believe this combination of smart investments, breakthrough research, and
+[22:15] investments, breakthrough research, and the improving capabilities of Claude
+[22:17] the improving capabilities of Claude have put Anthropic in a leading position
+[22:19] have put Anthropic in a leading position among the frontier labs.
+[22:29] &gt;&gt; AI is [music] a breakthrough innovation, but only reinvention is going to get the
+[22:32] but only reinvention is going to get the value that AI promises. At Accenture,
+[22:35] value that AI promises. At Accenture, our job is to be the bridge between
+[22:37] our job is to be the bridge between technology and real outcomes for our
+[22:39] technology and real outcomes for our clients.
+[22:41] clients. I love the question about, you know, are
+[22:43] I love the question about, you know, are we using Claude because we have tens of
+[22:46] we using Claude because we have tens of thousands of engineers using it [music]
+[22:48] thousands of engineers using it [music] every day. We use it across our entire
+[22:51] every day. We use it across our entire software development lifecycle and it
+[22:53] software development lifecycle and it frees up time, it makes us go faster,
+[22:56] frees up time, it makes us go faster, and it allows our engineers to spend
+[22:57] and it allows our engineers to spend more time focusing on solving our
+[22:59] more time focusing on solving our clients' challenges, leading decision
+[23:02] clients' challenges, leading decision making, and setting [music] strategy.
+[23:05] making, and setting [music] strategy. We defend thousands of our clients from
+[23:08] We defend thousands of our clients from cyber attacks and [music] we've paired
+[23:10] cyber attacks and [music] we've paired Claude code and Claude's agent software
+[23:12] Claude code and Claude's agent software development kit with cyber.ai, our
+[23:15] development kit with cyber.ai, our cutting edge platform that we use
+[23:17] cutting edge platform that we use [music] to help protect our clients.
+[23:19] [music] to help protect our clients. Just one result of using this is that we
+[23:22] Just one result of using this is that we can now do scans that used to take days
+[23:24] can now do scans that used to take days in under an hour. We are focused on our
+[23:26] in under an hour. We are focused on our clients' success and [music] safety and
+[23:29] clients' success and [music] safety and our mindset is that because of our
+[23:31] our mindset is that because of our partnership, our clients can get to
+[23:34] partnership, our clients can get to value [music]
+[23:34] value [music] faster.
+[23:41] &gt;&gt; The early bet we made was that intelligence was the highest value asset
+[23:44] intelligence was the highest value asset that a business could get from AI. We
+[23:46] that a business could get from AI. We believe Frontier Intelligence solves the
+[23:48] believe Frontier Intelligence solves the toughest problems and for that reason it
+[23:51] toughest problems and for that reason it drives the biggest [music] impact.
+[23:53] drives the biggest [music] impact. AI capability doesn't improve gradually.
+[23:56] AI capability doesn't improve gradually. When models cross a certain threshold,
+[23:58] When models cross a certain threshold, there is a step change [music] and an
+[24:00] there is a step change [music] and an entire category of work is done
+[24:03] entire category of work is done differently.
+[24:04] differently. Coding is the example we're most
+[24:06] Coding is the example we're most familiar with.
+[24:07] familiar with. The speed of the change is remarkable.
+[24:09] The speed of the change is remarkable. We went from autocomplete a few lines of
+[24:12] We went from autocomplete a few lines of code to fleets of agents working around
+[24:15] code to fleets of agents working around the clock in just a year. For a company
+[24:17] the clock in just a year. For a company like Rakuten, this means they're
+[24:19] like Rakuten, this means they're shipping new features four to five times
+[24:21] shipping new features four to five times faster than their competitors.
+[24:24] faster than their competitors. After coding came cyber and with Mythos
+[24:27] After coding came cyber and with Mythos and Project Glasswing, Claude has helped
+[24:29] and Project Glasswing, Claude has helped cyber defenders identify and patch
+[24:31] cyber defenders identify and patch vulnerabilities at a societal [music]
+[24:33] vulnerabilities at a societal [music] scale.
+[24:34] scale. Consider a company like Mozilla.
+[24:37] Consider a company like Mozilla. In the past, they used to fix over 20
+[24:39] In the past, they used to fix over 20 security bugs per release.
+[24:41] security bugs per release. And with Mythos Preview, they identified
+[24:43] And with Mythos Preview, they identified and fixed 271.
+[24:46] and fixed 271. Knowledge work is on a similar curve.
+[24:48] Knowledge work is on a similar curve. Scientific research, investment
+[24:50] Scientific research, investment analysis, underwriting, all great
+[24:52] analysis, underwriting, all great examples of what we're seeing across
+[24:54] examples of what we're seeing across industries.
+[24:55] industries. Claude helped an insurer like AIG cut
+[24:58] Claude helped an insurer like AIG cut down time to quote by 55%. In each
+[25:00] down time to quote by 55%. In each domain, we see an improvement, then a
+[25:03] domain, we see an improvement, then a step change, [music] and then a whole
+[25:05] step change, [music] and then a whole category of work moves fast.
+[25:14] &gt;&gt; It's hard to imagine the speed with which that Anthropic has
+[25:18] the speed with which that Anthropic has become embedded inside of AIG with
+[25:20] become embedded inside of AIG with Claude. It's helped us create better
+[25:22] Claude. It's helped us create better underwriters. We're able to
+[25:24] underwriters. We're able to use their skill set more frequently
+[25:26] use their skill set more frequently because we're able to pull the
+[25:28] because we're able to pull the submission information, get it in a
+[25:29] submission information, get it in a format where they can then underwrite.
+[25:31] format where they can then underwrite. We've seen a significant uptick in the
+[25:33] We've seen a significant uptick in the speed with which they can make
+[25:35] speed with which they can make decisions, and which really means we're
+[25:37] decisions, and which really means we're able to get to more submissions in a
+[25:39] able to get to more submissions in a more consistent way. And for clients,
+[25:41] more consistent way. And for clients, we're able to respond faster.
+[25:47] I think Anthropic and Claude together have a very similar value proposition
+[25:49] have a very similar value proposition that we try and bring in terms of safety
+[25:51] that we try and bring in terms of safety and resilience and technical capability.
+[25:53] and resilience and technical capability. [music] And we communicate pretty
+[25:54] [music] And we communicate pretty closely with the regulators on how we're
+[25:56] closely with the regulators on how we're using AI and how the human element and
+[25:59] using AI and how the human element and the human oversight is obviously very
+[26:01] the human oversight is obviously very important to us and to our regulators
+[26:03] important to us and to our regulators and is embedded in the process.
+[26:11] &gt;&gt; Everything Anthropic does, from research to product to go to market, it all comes
+[26:14] to product to go to market, it all comes together in how we serve the customer.
+[26:16] together in how we serve the customer. Today, we have deep engagements across
+[26:19] Today, we have deep engagements across the Fortune 500 and all of the Fortune
+[26:21] the Fortune 500 and all of the Fortune 10. [music] More than 50% of the Fortune
+[26:24] 10. [music] More than 50% of the Fortune 500 spends more than 100k with us.
+[26:27] 500 spends more than 100k with us. And that's true for more than 30% of the
+[26:30] And that's true for more than 30% of the Global 2000.
+[26:31] Global 2000. With all of these customers, we believe
+[26:34] With all of these customers, we believe we are still in the early stages of a
+[26:36] we are still in the early stages of a multi-decade transformation.
+[26:38] multi-decade transformation. On average, spending from these Fortune
+[26:40] On average, spending from these Fortune 500 customers is less than 0.1% of their
+[26:43] 500 customers is less than 0.1% of their total expenses.
+[26:45] total expenses. Even among the top 10, it's still less
+[26:47] Even among the top 10, it's still less than 1% of their total expense line.
+[26:50] than 1% of their total expense line. Let's zoom in [music] on the journey of
+[26:51] Let's zoom in [music] on the journey of a typical customer.
+[26:53] a typical customer. And it starts with a single use case.
+[26:55] And it starts with a single use case. [music] Often that's Claude code for
+[26:57] [music] Often that's Claude code for developers and engineers, and it soon
+[26:59] developers and engineers, and it soon expands to adjacent roles. Knowledge
+[27:01] expands to adjacent roles. Knowledge workers start using Claude for their
+[27:03] workers start using Claude for their highest value work. Then teams automate
+[27:05] highest value work. Then teams automate more business processes and build AI
+[27:08] more business processes and build AI into core infrastructure. And
+[27:10] into core infrastructure. And ultimately, they embed Claude into
+[27:12] ultimately, they embed Claude into entirely new products and services. The
+[27:15] entirely new products and services. The process happens quickly, and that's why
+[27:17] process happens quickly, and that's why we see an unprecedented net revenue
+[27:19] we see an unprecedented net revenue retention rate of approximately 900%.
+[27:22] retention rate of approximately 900%. What excites me is that the most
+[27:24] What excites me is that the most interesting and transformative use cases
+[27:27] interesting and transformative use cases are still ahead of us. Everything we've
+[27:29] are still ahead of us. Everything we've seen in coding and cyber, we're now
+[27:31] seen in coding and cyber, we're now starting to see across virtually every
+[27:33] starting to see across virtually every function, [music]
+[27:34] function, [music] every company, and every industry. And
+[27:37] every company, and every industry. And they want to partner with Anthropic
+[27:39] they want to partner with Anthropic [music] because they trust we will help
+[27:41] [music] because they trust we will help them see the future first, that we will
+[27:43] them see the future first, that we will keep them on the frontier, and that we
+[27:45] keep them on the frontier, and that we will help them transform and win.
+[27:55] &gt;&gt; Something exciting happens when the discoveries unlocked by Claude move into
+[27:58] discoveries unlocked by Claude move into our world
+[28:00] our world or even beyond it.
+[28:03] or even beyond it. In December [music] 2025, Claude helped
+[28:05] In December [music] 2025, Claude helped plan the Perseverance rover's route on
+[28:07] plan the Perseverance rover's route on Mars.
+[28:09] Mars. It wrote the code in the rover's own
+[28:11] It wrote the code in the rover's own markup language.
+[28:12] markup language. Engineers checked everything before the
+[28:15] Engineers checked everything before the commands went out.
+[28:16] commands went out. 400 m driven,
+[28:19] 400 m driven, mission accomplished.
+[28:24] Claude's ability to process vast amounts of data came to the fore again in the
+[28:27] of data came to the fore again in the summer of 2026.
+[28:29] summer of 2026. About 950 Claude agents spent 21 hours
+[28:33] About 950 Claude agents spent 21 hours sifting 1.9 billion protein clusters.
+[28:36] sifting 1.9 billion protein clusters. One spotted an unusual pattern, a system
+[28:39] One spotted an unusual pattern, a system with a CRISPR-like repeat array. Our
+[28:42] with a CRISPR-like repeat array. Our scientists were able to check Claude's
+[28:43] scientists were able to check Claude's findings in the lab. The new array had
+[28:46] findings in the lab. The new array had never [music] been published before, a
+[28:48] never [music] been published before, a genuine discovery.
+[28:56] The ability to quickly understand new information really matters where
+[28:58] information really matters where resources are thin.
+[29:04] In September 2026, teams responding to an Ebola outbreak in Eastern Congo were
+[29:07] an Ebola outbreak in Eastern Congo were able to process each region's daily
+[29:10] able to process each region's daily reports in under [music] an hour,
+[29:12] reports in under [music] an hour, creating a better picture of the
+[29:14] creating a better picture of the epidemic and freeing up time for patient
+[29:17] epidemic and freeing up time for patient care.
+[29:22] The power to affect the real world makes safety even more important.
+[29:24] safety even more important. It's why Claude's [music] full biology
+[29:26] It's why Claude's [music] full biology capabilities go only to organizations
+[29:28] capabilities go only to organizations we've verified.
+[29:35] And why Claude has a constitution. It equips it to make judgment calls in
+[29:37] It equips it to make judgment calls in situations it has never encountered
+[29:40] situations it has never encountered before.
+[29:42] before. And it's why we put so much energy into
+[29:44] And it's why we put so much energy into interpretability and alignment to keep
+[29:47] interpretability and alignment to keep Claude accountable in situations where
+[29:49] Claude accountable in situations where people will rely on it.
+[29:52] people will rely on it. Again and again, we're finding safety
+[29:54] Again and again, we're finding safety doesn't hold us back. In fact, it's
+[29:56] doesn't hold us back. In fact, it's because we can trust Claude's work that
+[29:59] because we can trust Claude's work that we can take its discoveries and apply
+[30:01] we can take its discoveries and apply them in the real world
+[30:03] them in the real world in ways that will benefit everyone.
+[30:12] &gt;&gt; We believe the transformation of the global economy through AI is the
+[30:15] global economy through AI is the greatest economic opportunity in
+[30:16] greatest economic opportunity in history, and Anthropic is uniquely
+[30:18] history, and Anthropic is uniquely positioned to capture it. We have
+[30:20] positioned to capture it. We have leadership at the frontier of AI where
+[30:22] leadership at the frontier of AI where we expect value will differentially
+[30:23] we expect value will differentially accrue, and the strength of our business
+[30:25] accrue, and the strength of our business model allows us to keep investing to
+[30:27] model allows us to keep investing to advance the frontier while delivering
+[30:29] advance the frontier while delivering more value to customers and superior
+[30:32] more value to customers and superior returns for our shareholders. The
+[30:33] returns for our shareholders. The clearest evidence of that is our
+[30:35] clearest evidence of that is our financial results. In Q3, we earned
+[30:37] financial results. In Q3, we earned nearly $17 billion of revenue, up 12
+[30:40] nearly $17 billion of revenue, up 12 times year over year. And year-to-date,
+[30:42] times year over year. And year-to-date, we've delivered a compute margin of 43%,
+[30:45] we've delivered a compute margin of 43%, gross margin of 85%, adjusted operating
+[30:48] gross margin of 85%, adjusted operating margin of 12%, and positive free cash
+[30:51] margin of 12%, and positive free cash flow.
+[30:52] flow. These results come from our frontier
+[30:54] These results come from our frontier leadership, and they give us the
+[30:55] leadership, and they give us the capacity to invest heavily to extend it.
+[30:58] capacity to invest heavily to extend it. So while our profitability is strong,
+[31:00] So while our profitability is strong, [music] we're in an aggressive
+[31:01] [music] we're in an aggressive investment mode as we focus on building
+[31:03] investment mode as we focus on building this business for the long term. There
+[31:05] this business for the long term. There are five elements that differentiate
+[31:07] are five elements that differentiate Anthropic's business model. First, we
+[31:09] Anthropic's business model. First, we build models that deliver the most
+[31:11] build models that deliver the most useful intelligence. As we've pushed the
+[31:13] useful intelligence. As we've pushed the frontier, our customers have found more
+[31:15] frontier, our customers have found more valuable work for Claude, and our
+[31:17] valuable work for Claude, and our revenue growth has followed.
+[31:19] revenue growth has followed. We call this model-led growth. The
+[31:21] We call this model-led growth. The trajectory of our business demonstrates
+[31:23] trajectory of our business demonstrates this. Quarterly revenue grew from $376
+[31:26] this. Quarterly revenue grew from $376 million in Q1 of 2025
+[31:28] million in Q1 of 2025 to nearly $17 billion in Q3 of 2026.
+[31:32] to nearly $17 billion in Q3 of 2026. This tracked a significant increase in
+[31:34] This tracked a significant increase in the capabilities of our models in
+[31:36] the capabilities of our models in coding, agentic workflows, and
+[31:38] coding, agentic workflows, and real-world tasks.
+[31:40] real-world tasks. Being at the frontier unlocks new use
+[31:42] Being at the frontier unlocks new use cases and capabilities. It also moves us
+[31:45] cases and capabilities. It also moves us towards Pareto dominance across most
+[31:47] towards Pareto dominance across most customer workloads, enabling us to
+[31:49] customer workloads, enabling us to deliver the most capable models at a
+[31:51] deliver the most capable models at a given cost. That is because smarter
+[31:53] given cost. That is because smarter models are more efficient. They can
+[31:56] models are more efficient. They can complete tasks at lower effort levels
+[31:58] complete tasks at lower effort levels which use fewer tokens. We also cascade
+[32:01] which use fewer tokens. We also cascade the frontier intelligence from our
+[32:03] the frontier intelligence from our larger models [music] into our smaller
+[32:05] larger models [music] into our smaller models. So we address the full range of
+[32:07] models. So we address the full range of cost, capability, and speed.
+[32:10] cost, capability, and speed. Each generation has pushed that further.
+[32:13] Each generation has pushed that further. Our recent Claude 3.5 family of models
+[32:16] Our recent Claude 3.5 family of models are a significant step up in capability
+[32:18] are a significant step up in capability from the Claude 3 family we released
+[32:20] from the Claude 3 family we released just a few months prior.
+[32:21] just a few months prior. They're also significantly cheaper on a
+[32:23] They're also significantly cheaper on a cost-per-task basis. That is the power
+[32:26] cost-per-task basis. That is the power of building at the frontier. We believe
+[32:28] of building at the frontier. We believe we deliver the highest value
+[32:29] we deliver the highest value intelligence at the lowest cost, which
+[32:32] intelligence at the lowest cost, which means we can serve the entire market
+[32:33] means we can serve the entire market efficiently. While we lead across most
+[32:35] efficiently. While we lead across most benchmarks, the The measure of our
+[32:37] benchmarks, the The measure of our success
+[32:39] success is our customers. And that leads me to
+[32:41] is our customers. And that leads me to our second differentiator.
+[32:43] our second differentiator. We build the leading platform and
+[32:45] We build the leading platform and products to make frontier intelligence
+[32:47] products to make frontier intelligence accessible to our customers.
+[32:49] accessible to our customers. Our platform solutions are the
+[32:51] Our platform solutions are the foundation of our business. And there's
+[32:54] foundation of our business. And there's significant opportunity for customers to
+[32:56] significant opportunity for customers to build products and reimagine processes
+[32:59] build products and reimagine processes on top of our APIs and SDK. At the same
+[33:02] on top of our APIs and SDK. At the same time, our own products have become a key
+[33:04] time, our own products have become a key driver of diffusion. For example, Claude
+[33:07] driver of diffusion. For example, Claude Code was fundamentally a bet on the
+[33:09] Code was fundamentally a bet on the exponential in model progress. Getting
+[33:11] exponential in model progress. Getting it into the hands of our customers put
+[33:13] it into the hands of our customers put us in a position to capitalize on
+[33:15] us in a position to capitalize on agentic coding capabilities as they
+[33:17] agentic coding capabilities as they dramatically improved. We followed that
+[33:19] dramatically improved. We followed that same playbook with Claude Co Work.
+[33:22] same playbook with Claude Co Work. And its adoption has exceeded that of
+[33:23] And its adoption has exceeded that of Claude Code at the equivalent point
+[33:25] Claude Code at the equivalent point following its own research preview last
+[33:27] following its own research preview last year. Together, our products and
+[33:29] year. Together, our products and platform enable us to serve the needs of
+[33:32] platform enable us to serve the needs of our customers. Today, the majority of
+[33:34] our customers. Today, the majority of enterprise customers use both our
+[33:36] enterprise customers use both our platform [music] and at least one of our
+[33:38] platform [music] and at least one of our products up from 30% in the fourth
+[33:40] products up from 30% in the fourth quarter of 2025. Our product velocity is
+[33:43] quarter of 2025. Our product velocity is also accelerating as we expand our
+[33:45] also accelerating as we expand our internal use of Claude. The average
+[33:47] internal use of Claude. The average daily volume of code contributed per
+[33:49] daily volume of code contributed per engineer is up 45 X relative to the 2024
+[33:53] engineer is up 45 X relative to the 2024 average. And that's showing up in our
+[33:55] average. And that's showing up in our launches. In the first 9 months of 2026,
+[33:58] launches. In the first 9 months of 2026, we shipped 250 [music] models, products,
+[34:00] we shipped 250 [music] models, products, and features.
+[34:02] and features. And Claude isn't just accelerating our
+[34:03] And Claude isn't just accelerating our engineering teams. Across the company,
+[34:06] engineering teams. Across the company, our employees' use of Claude grew more
+[34:08] our employees' use of Claude grew more than 250 times between January and
+[34:11] than 250 times between January and September of 2026. Together, these help
+[34:14] September of 2026. Together, these help explain why our revenue per employee has
+[34:16] explain why our revenue per employee has grown more than 4.5 X from $1.4 million
+[34:19] grown more than 4.5 X from $1.4 million in Q3 of 2025 to over $6.6 million as of
+[34:24] in Q3 of 2025 to over $6.6 million as of Q3 2026. Anthropic's third
+[34:26] Q3 2026. Anthropic's third differentiator is that we are extremely
+[34:28] differentiator is that we are extremely efficient users of compute. We treat our
+[34:31] efficient users of compute. We treat our compute as one fungible pool that serves
+[34:33] compute as one fungible pool that serves customers, [music] trains our models,
+[34:36] customers, [music] trains our models, and powers our own use of Claude. We are
+[34:38] and powers our own use of Claude. We are focused on getting the most out of every
+[34:40] focused on getting the most out of every unit of compute.
+[34:41] unit of compute. This gives us a cost to serve and a
+[34:43] This gives us a cost to serve and a reinvestment advantage.
+[34:45] reinvestment advantage. As Tom described, there are two drivers
+[34:47] As Tom described, there are two drivers of this efficiency.
+[34:49] of this efficiency. The first is our multi-tenant strategy,
+[34:52] The first is our multi-tenant strategy, which lets us buy the most
+[34:53] which lets us buy the most price-performant chips [music] and run
+[34:55] price-performant chips [music] and run them as a single fungible pool. The
+[34:57] them as a single fungible pool. The second is compounding compute
+[34:59] second is compounding compute multipliers, which have scaled our total
+[35:01] multipliers, which have scaled our total effective compute significantly faster
+[35:04] effective compute significantly faster than our physical capacity.
+[35:06] than our physical capacity. You can see this in our financial
+[35:07] You can see this in our financial results. Over the last six quarters, we
+[35:09] results. Over the last six quarters, we grew revenue by more than 45 x while
+[35:12] grew revenue by more than 45 x while computing infrastructure costs grew only
+[35:14] computing infrastructure costs grew only 10 x, [music] a more than 4 x
+[35:16] 10 x, [music] a more than 4 x improvement in revenue per dollar of
+[35:18] improvement in revenue per dollar of compute. In year to date, our gross
+[35:20] compute. In year to date, our gross margin has improved to over 85% up from
+[35:23] margin has improved to over 85% up from 29% in the same period of 2025. We think
+[35:27] 29% in the same period of 2025. We think of these efficiency gains as capital
+[35:29] of these efficiency gains as capital [music] that we get to allocate. In some
+[35:31] [music] that we get to allocate. In some cases, we pass them along to customers
+[35:33] cases, we pass them along to customers by lowering prices, which drives
+[35:35] by lowering prices, which drives diffusion of Claude across those
+[35:37] diffusion of Claude across those customers.
+[35:38] customers. In other cases, we retain the margin and
+[35:40] In other cases, we retain the margin and reinvest it in additional compute,
+[35:43] reinvest it in additional compute, which is what makes this advantage
+[35:44] which is what makes this advantage compound. The next differentiator is our
+[35:47] compound. The next differentiator is our relentless focus on building for
+[35:49] relentless focus on building for enterprises.
+[35:50] enterprises. We had the early insight that
+[35:51] We had the early insight that enterprises would be the largest and
+[35:53] enterprises would be the largest and best customers for AI.
+[35:55] best customers for AI. We have focused on serving that market
+[35:57] We have focused on serving that market since our commercial launch in the first
+[35:59] since our commercial launch in the first quarter of 2023
+[36:01] quarter of 2023 and have seen rapid adoption since.
+[36:03] and have seen rapid adoption since. As of Q3 2026, we had more than 11,900
+[36:07] As of Q3 2026, we had more than 11,900 enterprise customers, up nearly 8 x from
+[36:10] enterprise customers, up nearly 8 x from the start of the year. As the first
+[36:12] the start of the year. As the first frontier lab available on all three
+[36:13] frontier lab available on all three major clouds, we allow enterprises to
+[36:16] major clouds, we allow enterprises to deploy Claude within the environments
+[36:18] deploy Claude within the environments they already operate in, and we maintain
+[36:20] they already operate in, and we maintain the direct relationship with the end
+[36:21] the direct relationship with the end customer, including control over
+[36:23] customer, including control over pricing.
+[36:24] pricing. We believe these partnerships enable us
+[36:25] We believe these partnerships enable us to be far more efficient in our
+[36:27] to be far more efficient in our go-to-market efforts than the rest of
+[36:28] go-to-market efforts than the rest of the industry. In fact, our entire
+[36:31] the industry. In fact, our entire non-compute expense base, including
+[36:33] non-compute expense base, including sales and marketing, personnel, and
+[36:35] sales and marketing, personnel, and other operating expenses, represents a
+[36:37] other operating expenses, represents a lower percentage of revenue than the
+[36:39] lower percentage of revenue than the median enterprise software company
+[36:41] median enterprise software company spends on sales and marketing alone.
+[36:43] spends on sales and marketing alone. We expect to invest meaningfully in
+[36:44] We expect to invest meaningfully in go-to-market to support our growth
+[36:47] go-to-market to support our growth while remaining highly efficient in how
+[36:48] while remaining highly efficient in how we sell to and grow with our customers.
+[36:51] we sell to and grow with our customers. Our final differentiator is our
+[36:52] Our final differentiator is our expanding market opportunity.
+[36:55] expanding market opportunity. believe every company across every
+[36:57] believe every company across every industry will be transformed by powerful
+[37:00] industry will be transformed by powerful AI.
+[37:01] AI. It started with coding and is spreading
+[37:02] It started with coding and is spreading to knowledge work, a $40 trillion market
+[37:05] to knowledge work, a $40 trillion market that we've just begun to penetrate.
+[37:08] that we've just begun to penetrate. We count many of the world's largest and
+[37:10] We count many of the world's largest and most complex businesses as our
+[37:11] most complex businesses as our customers, including over 50% of the
+[37:14] customers, including over 50% of the Fortune 500 and over 30% of the Global
+[37:16] Fortune 500 and over 30% of the Global 2000. And as Paul described, our Fortune
+[37:19] 2000. And as Paul described, our Fortune 500 customers spend less than 0.1% of
+[37:23] 500 customers spend less than 0.1% of their total expenses on Cloud.
+[37:25] their total expenses on Cloud. As the frontier of AI advances, we
+[37:27] As the frontier of AI advances, we expect it will open up entirely new
+[37:29] expect it will open up entirely new lines of business. This has started
+[37:31] lines of business. This has started already with cybersecurity, and we
+[37:33] already with cybersecurity, and we expect it will extend to life sciences
+[37:36] expect it will extend to life sciences and robotics in the coming years.
+[37:38] and robotics in the coming years. Given the size of the opportunity we see
+[37:40] Given the size of the opportunity we see and the strength of our business,
+[37:42] and the strength of our business, we are investing aggressively in three
+[37:44] we are investing aggressively in three areas,
+[37:45] areas, compute,
+[37:47] compute, customer value,
+[37:48] customer value, and safety and alignment.
+[37:50] and safety and alignment. Compute is a critical enabler of our
+[37:52] Compute is a critical enabler of our growth.
+[37:53] growth. It powers our R&amp;D and enables us to meet
+[37:55] It powers our R&amp;D and enables us to meet expanding customer demand.
+[37:57] expanding customer demand. We plan to make significant investments
+[37:59] We plan to make significant investments in compute over the coming years given
+[38:01] in compute over the coming years given the compelling returns we see. That
+[38:03] the compelling returns we see. That includes both short-term and multi-year
+[38:05] includes both short-term and multi-year Cloud deals as well as data centers and
+[38:08] Cloud deals as well as data centers and chips we lease directly. [music] We call
+[38:09] chips we lease directly. [music] We call this last piece Anthropic Direct,
+[38:12] this last piece Anthropic Direct, and we expect it will make up a growing
+[38:13] and we expect it will make up a growing share of our compute base over the
+[38:15] share of our compute base over the coming years.
+[38:16] coming years. Our second investment area is customer
+[38:18] Our second investment area is customer value.
+[38:19] value. We are maniacally focused on ensuring
+[38:21] We are maniacally focused on ensuring customers get the strongest return from
+[38:24] customers get the strongest return from their spend on Cloud. [music] We do this
+[38:26] their spend on Cloud. [music] We do this through developing the most capable,
+[38:28] through developing the most capable, aligned, and useful models
+[38:30] aligned, and useful models and through reducing customer costs as
+[38:32] and through reducing customer costs as we make our models more efficient. For
+[38:34] we make our models more efficient. For example, our Opus 5.5 model in September
+[38:37] example, our Opus 5.5 model in September delivered substantial gains in model
+[38:39] delivered substantial gains in model capability and 40% lower customer costs.
+[38:42] capability and 40% lower customer costs. This reduction was margin neutral to us
+[38:45] This reduction was margin neutral to us because Opus 5.5 is significantly
+[38:47] because Opus 5.5 is significantly cheaper to serve.
+[38:48] cheaper to serve. While we sacrifice some near-term
+[38:49] While we sacrifice some near-term revenue when we reduce customer costs,
+[38:52] revenue when we reduce customer costs, in our experience, we quickly see a
+[38:54] in our experience, we quickly see a tailwind of revenue as the lower cost of
+[38:56] tailwind of revenue as the lower cost of intelligence drives greater usage and
+[38:58] intelligence drives greater usage and diffusion of Claude.
+[39:00] diffusion of Claude. The third area is safety and alignment.
+[39:03] The third area is safety and alignment. Safety is core to how we operate at
+[39:04] Safety is core to how we operate at Anthropic, [music] and we've been
+[39:06] Anthropic, [music] and we've been investing here since the inception of
+[39:08] investing here since the inception of the company. As model capabilities
+[39:09] the company. As model capabilities advance rapidly, we're investing even
+[39:12] advance rapidly, we're investing even more in people, processes, and compute
+[39:15] more in people, processes, and compute to support our safety and alignment
+[39:16] to support our safety and alignment work.
+[39:17] work. Taken together,
+[39:18] Taken together, we expect our focus on safety to remain
+[39:21] we expect our focus on safety to remain a commercial advantage because customers
+[39:23] a commercial advantage because customers and developers want models and products
+[39:25] and developers want models and products they can trust. The investments we are
+[39:27] they can trust. The investments we are making in compute, customer value, and
+[39:29] making in compute, customer value, and safety and alignment will strengthen our
+[39:31] safety and alignment will strengthen our business and broaden our opportunity.
+[39:33] business and broaden our opportunity. Over the long term, we believe Anthropic
+[39:36] Over the long term, we believe Anthropic can deliver adjusted operating margins
+[39:38] can deliver adjusted operating margins of more than 35% with continued
+[39:40] of more than 35% with continued efficiency gains, a greater share of
+[39:42] efficiency gains, a greater share of Anthropic direct capacity,
+[39:44] Anthropic direct capacity, and more of our compute shifting towards
+[39:46] and more of our compute shifting towards inference, we see [music] a path for
+[39:48] inference, we see [music] a path for compute and infrastructure expenses to
+[39:50] compute and infrastructure expenses to trend towards approximately 45 to 50% of
+[39:52] trend towards approximately 45 to 50% of revenue.
+[39:54] revenue. Second, we expect sales, marketing, and
+[39:56] Second, we expect sales, marketing, and partnership costs to trend towards 7 to
+[39:58] partnership costs to trend towards 7 to 10% of revenue as partner fees become a
+[40:00] 10% of revenue as partner fees become a smaller share of revenue as we scale.
+[40:03] smaller share of revenue as we scale. And third, we expect personnel and other
+[40:05] And third, we expect personnel and other operating expenses combined to trend
+[40:08] operating expenses combined to trend towards 7 to 10% of revenue as Claude
+[40:10] towards 7 to 10% of revenue as Claude makes our teams more productive and we
+[40:13] makes our teams more productive and we grow head count efficiently. We believe
+[40:15] grow head count efficiently. We believe we have the best financial model,
+[40:17] we have the best financial model, leading compute efficiency, the greatest
+[40:19] leading compute efficiency, the greatest concentration of talent, and a culture
+[40:21] concentration of talent, and a culture that keeps us focused on where we can
+[40:22] that keeps us focused on where we can add the most value to enterprises. AI's
+[40:25] add the most value to enterprises. AI's transformation of the global economy has
+[40:28] transformation of the global economy has the potential to be the largest economic
+[40:30] the potential to be the largest economic opportunity in history, and we are at
+[40:32] opportunity in history, and we are at the foothills of it today.
+[40:39] &gt;&gt; You know, if today we look at things like cancer,
+[40:41] like cancer, Alzheimer's, heart disease, mental
+[40:45] Alzheimer's, heart disease, mental illness, these will be relics of the
+[40:47] illness, these will be relics of the past in, I think less than a decade.
+[40:51] past in, I think less than a decade. And I believe that the company which
+[40:54] And I believe that the company which gets the risks right will also be the
+[40:56] gets the risks right will also be the company that has [music] the license to
+[40:58] company that has [music] the license to operate, that society trusts and society
+[41:01] operate, that society trusts and society believes can build the benefits in the
+[41:03] believes can build the benefits in the right way.
+[41:05] right way. I think if we do this right, we can
+[41:07] I think if we do this right, we can create an age of miracles where humanity
+[41:11] create an age of miracles where humanity is able to solve problems that that have
+[41:15] is able to solve problems that that have eluded us for millennia. We have to make
+[41:18] eluded us for millennia. We have to make sure that all the risks, all the ways
+[41:22] sure that all the risks, all the ways that things can go wrong with this
+[41:23] that things can go wrong with this technology, we very carefully address
+[41:26] technology, we very carefully address those risks as we bring the benefits and
+[41:29] those risks as we bring the benefits and as we have a viable business at the same
+[41:30] as we have a viable business at the same [music] time. And I invite you to join
+[41:33] [music] time. And I invite you to join us on the next phase of this journey.
